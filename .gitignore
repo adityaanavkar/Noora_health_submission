@@ -5,4 +5,4 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-report.md
+report.md/
