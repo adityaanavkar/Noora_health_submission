@@ -1,0 +1,14 @@
+{
+  "python": "3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "scikit_learn": "1.9.0",
+  "joblib": "1.6.0",
+  "cpu_count": 20,
+  "n_jobs": 2,
+  "seeds": {
+    "outer": 42,
+    "inner": 43
+  }
+}

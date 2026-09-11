@@ -1,0 +1,129 @@
+{
+  "candidate_results.csv": {
+    "key_columns": [
+      "selection_scope",
+      "outer_fold",
+      "embedding",
+      "C",
+      "class_weight",
+      "mean_inner_average_precision",
+      "inner_average_precision_0",
+      "inner_average_precision_1",
+      "inner_average_precision_2"
+    ],
+    "purpose": "All 30 LR candidates for each outer training partition and the final all-training development selection."
+  },
+  "inner_search_records.csv": {
+    "same_schema_as": "candidate_results.csv"
+  },
+  "splits.csv": {
+    "key_columns": [
+      "split_level",
+      "outer_fold",
+      "inner_fold",
+      "role",
+      "row_index",
+      "query_id",
+      "group_id",
+      "truth",
+      "label",
+      "intent"
+    ],
+    "purpose": "Long-form outer and inner grouped split membership for every training row."
+  },
+  "fold_choices.csv": {
+    "key_columns": [
+      "outer_fold",
+      "selected_embedding",
+      "selected_C",
+      "selected_class_weight",
+      "probability_method",
+      "threshold_default_0_5",
+      "threshold_balanced_macro_f1",
+      "threshold_recall_first"
+    ],
+    "purpose": "Per-outer-fold choices made without that fold's holdout."
+  },
+  "outer_predictions.csv": {
+    "key_columns": [
+      "row_index",
+      "query_id",
+      "outer_fold",
+      "truth",
+      "true_label",
+      "intent",
+      "p_raw",
+      "p_chosen",
+      "threshold_default_0_5",
+      "threshold_balanced_macro_f1",
+      "threshold_recall_first",
+      "label_default_0_5",
+      "label_balanced_macro_f1",
+      "label_recall_first",
+      "baseline_a_p_relevant",
+      "baseline_b_p_relevant",
+      "baseline_c_p_relevant",
+      "llm_predicted_label"
+    ],
+    "purpose": "Exactly one outer-held-out prediction row for each of the 903 labeled examples."
+  },
+  "metrics.csv": {
+    "key_columns": [
+      "system",
+      "policy",
+      "evaluation",
+      "accuracy",
+      "macro_f1",
+      "precision",
+      "recall",
+      "specificity",
+      "tp",
+      "tn",
+      "fp",
+      "fn",
+      "medical_fn",
+      "medical_n",
+      "roc_auc",
+      "average_precision"
+    ],
+    "purpose": "Aggregate outer OOF and per-fold metrics; AUC/AP are populated only for probability-scored systems."
+  },
+  "threshold_sweep.csv": {
+    "key_columns": [
+      "selection_scope",
+      "row_scope",
+      "selected_probability_method",
+      "threshold",
+      "macro_f1",
+      "relevant_recall",
+      "precision",
+      "fp",
+      "medical_fn",
+      "medical_n",
+      "feasible_recall_first"
+    ],
+    "purpose": "Final all-training inner-development threshold tradeoff, kept separate from outer evaluation."
+  },
+  "test_predictions.csv": {
+    "key_columns": [
+      "query_id",
+      "predicted_label",
+      "p_relevant",
+      "policy",
+      "threshold"
+    ],
+    "purpose": "904 blind-test predictions in exact source order using the final illustrative recall-first policy; no test LLM baseline is read or exported."
+  },
+  "configuration.json": {
+    "purpose": "Protocol, source/config fingerprints, assumptions, and artifact contract."
+  },
+  "protocol.json": {
+    "same_schema_as": "configuration.json"
+  },
+  "summary.json": {
+    "purpose": "Notebook-friendly final selection, counts, aggregate metrics, checks, artifact paths, and limitations."
+  },
+  "final_model.joblib": {
+    "purpose": "Final raw or sigmoid calibrated predictor plus recipe metadata, when joblib is available."
+  }
+}

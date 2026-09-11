@@ -1,0 +1,23 @@
+{
+  "source_version": "ir_vector_index/v14",
+  "embedding_input": "original message text (not the English translation)",
+  "row_alignment": "Rows in each *_embeddings_*.npy file match the corresponding CSV exactly.",
+  "splits": {
+    "train": 903,
+    "test": 904
+  },
+  "embedding_models": {
+    "a": {
+      "profile": "lightweight local encoder",
+      "dimensions": 384
+    },
+    "b": {
+      "profile": "larger local encoder",
+      "dimensions": 768
+    },
+    "c": {
+      "profile": "hosted commercial encoder",
+      "dimensions": 1536
+    }
+  }
+}

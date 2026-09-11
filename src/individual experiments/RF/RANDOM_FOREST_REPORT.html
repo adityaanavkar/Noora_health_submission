@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Random Forest Report</title>
+
+<style>
+body {
+    margin: 0;
+    background: #ece8e4;
+}
+
+.exec-paper {
+    max-width: 980px;
+    margin: 28px auto;
+    padding: 58px 72px 70px;
+    background: white;
+    color: #202020;
+    font: 15px/1.68 Georgia, serif;
+}
+
+.top-rule {
+    height: 5px;
+    background: #9f1239;
+    margin-bottom: 42px;
+}
+
+.document-kicker,
+.abstract-label {
+    font: 700 11px Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+    color: #9f1239;
+}
+
+.exec-paper h1 {
+    font: 400 36px Georgia, serif;
+    color: #9f1239;
+}
+
+.exec-paper h2 {
+    font: 700 19px Arial, sans-serif;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 7px;
+    margin-top: 42px;
+}
+
+.metric-strip {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border-top: 1px solid #bbb;
+    border-bottom: 1px solid #bbb;
+    margin: 24px 0;
+}
+
+.metric-strip div {
+    padding: 15px;
+    border-right: 1px solid #ddd;
+}
+
+.metric-strip strong {
+    display: block;
+    font: 700 25px Arial, sans-serif;
+    color: #176b87;
+}
+
+.metric-strip span {
+    display: block;
+    color: #64748b;
+    font: 12px Arial, sans-serif;
+}
+
+.abstract {
+    border-top: 1px solid #bbb;
+    border-bottom: 1px solid #bbb;
+    padding: 18px 0;
+    margin-bottom: 28px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font: 12px Arial, sans-serif;
+    margin: 16px 0;
+}
+
+th {
+    background: #123447;
+    color: white;
+    padding: 9px;
+}
+
+td {
+    padding: 9px;
+    border-bottom: 1px solid #e5e7eb;
+    text-align: right;
+}
+
+th:first-child,
+td:first-child {
+    text-align: left;
+}
+
+.recipe,
+.finding,
+.conditional {
+    padding: 16px 20px;
+    margin: 20px 0;
+    background: #f7f4f1;
+    border-left: 5px solid #9f1239;
+}
+</style>
+</head>
+
+<body>
+
+<article class="exec-paper">
+<div class="top-rule"></div>
+<div class="document-kicker">Random Forest experiment note</div>
+<h1>Intent classification router</h1>
+<div class="author">Version 2 · measured development evidence</div>
+<div class="abstract"><div class="abstract-label">Executive summary</div><p>The RF selected score has held-out ROC AUC <strong>0.945</strong> and average precision <strong>0.965</strong> across 903 labeled development rows. The operational choice is the threshold: recall-first changes relevant misses from <strong>47</strong> to <strong>14</strong>, Medical misses from <strong>7/334</strong> to <strong>0/334</strong>, and total referrals from <strong>580</strong> to <strong>666</strong>. These are observed development counts.</p></div>
+<div class="metric-strip"><div><strong>903</strong><span>labeled rows</span></div><div><strong>0.945</strong><span>outer ROC AUC</span></div><div><strong>0.965</strong><span>outer average precision</span></div><div><strong>5</strong><span>outer folds</span></div></div>
+<h2><span>I</span> What was tested</h2><p>A forest is a committee of decision trees. Each tree sees a slightly different view of the training examples; the committee combines their votes into a score. The search fixed 200 trees and evaluated the complete 24-setting forest grid across embedding spaces A, B, and C: 72 candidates per search. Selection used mean inner average precision inside five outer folds with three inner folds.</p><p>The final recipe below is read from the core's all-training selection summary. It is the best result within this bounded search, not a global maximum, and it is not inferred from a pooled average of outer-fold candidates.</p><div class="recipe"><strong>Final RF recipe</strong><br>embedding=b, config id=rf_09, forest params={&#x27;n_estimators&#x27;: 200, &#x27;max_depth&#x27;: 8, &#x27;min_samples_leaf&#x27;: 1, &#x27;max_features&#x27;: &#x27;sqrt&#x27;, &#x27;class_weight&#x27;: &#x27;balanced&#x27;, &#x27;random_state&#x27;: 42, &#x27;n_jobs&#x27;: 2}, probability method=sigmoid, mean inner average precision=0.9683246359604017</div>
+<h2><span>II</span> Threshold decision</h2><p>The RF policies use the saved fold-specific decisions. Default uses 0.50. Balanced macro-F1 chooses the inner-development threshold with the best macro-F1. Recall-first chooses the highest feasible threshold under the assumed 98% relevant-recall and 99% Medical-recall targets.</p><table><thead><tr><th>Policy</th><th>Relevant missed</th><th>Unnecessary referrals</th><th>Total referrals</th><th>Precision</th><th>Relevant recall</th><th>Medical missed</th><th>Medical recall</th><th>Macro-F1</th></tr></thead><tbody><tr><td>Default 0.50</td><td>47</td><td>70</td><td>580</td><td>87.9%</td><td>91.6%</td><td>7/334</td><td>97.9%</td><td>86.1%</td></tr><tr><td>Balanced macro-F1</td><td>56</td><td>63</td><td>564</td><td>88.8%</td><td>89.9%</td><td>10/334</td><td>97.0%</td><td>86.0%</td></tr><tr><td>Recall-first</td><td>14</td><td>123</td><td>666</td><td>81.5%</td><td>97.5%</td><td>0/334</td><td>100.0%</td><td>82.6%</td></tr></tbody></table><div class="finding"><strong>Observed workload change</strong><br>Moving from default to recall-first changes relevant misses from 47 to 14, Medical misses from 7/334 to 0/334, and total referrals from 580 to 666. The change is a measured trade-off; precision, recall, or workload may worsen.</div>
+<h2><span>III</span> Comparison</h2><p>RF and LR are compared on the same aggregate outer development rows. The supplied LLM contributes labels only, so its ROC AUC and average precision are undefined and no LLM probability curve is drawn. RF is not called better or safer from one table alone.</p><table><thead><tr><th>System</th><th>Accuracy</th><th>Macro-F1</th><th>Precision</th><th>Relevant recall</th><th>Medical recall</th><th>AP</th><th>FN</th><th>FP</th></tr></thead><tbody><tr><td>RF</td><td>87.0%</td><td>86.1%</td><td>87.9%</td><td>91.6%</td><td>97.9%</td><td>0.965</td><td>47</td><td>70</td></tr><tr><td>LR</td><td>87.3%</td><td>86.3%</td><td>88.1%</td><td>91.7%</td><td>95.8%</td><td>0.958</td><td>46</td><td>69</td></tr><tr><td>LLM</td><td>97.9%</td><td>97.8%</td><td>97.9%</td><td>98.7%</td><td>100.0%</td><td>—</td><td>7</td><td>12</td></tr></tbody></table><div class="conditional"><strong>Conditional recommendation</strong><br>If avoiding relevant or Medical misses is worth additional referral work, recall-first is the candidate to validate prospectively. If review capacity is tighter, default is the lower-workload choice. The observed uncertainty across outer folds and the unlabeled blind test mean neither policy is a guarantee.</div>
+<h2><span>IV</span> Limitations</h2><p>All metrics are development estimates from grouped outer out-of-fold predictions. The test file has no labels, so it cannot support test accuracy, recall, calibration, or safety claims. Medical is a source-intent subgroup used for measurement, not an inference-time feature. Exact duplicate grouping does not test unobserved patient, time, language, or workflow shift. The threshold targets are assumptions, not guarantees.</p>
+</article>
+
+</body>
+</html>

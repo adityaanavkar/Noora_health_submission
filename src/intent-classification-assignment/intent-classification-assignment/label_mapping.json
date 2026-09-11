@@ -1,0 +1,17 @@
+{
+  "relevant": [
+    "Date",
+    "Delivery confirmation",
+    "Feedback",
+    "Language change",
+    "Medical",
+    "Other"
+  ],
+  "irrelevant": [
+    "Acknowledgment",
+    "Automated message",
+    "Greeting",
+    "OSS",
+    "Spam"
+  ]
+}

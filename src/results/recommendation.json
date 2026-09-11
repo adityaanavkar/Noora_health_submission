@@ -1,0 +1,8 @@
+{
+  "model": "RF",
+  "policy": "recall_first",
+  "threshold": 0.20768702143082823,
+  "selection_rule": "Medical FN, relevant FN, FP, then descending macro-F1",
+  "test_truth_available": false,
+  "model_artifact": "experiments\\version 2\\outputs\\final_model.joblib"
+}

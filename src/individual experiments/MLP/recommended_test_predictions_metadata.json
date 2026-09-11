@@ -1,0 +1,7 @@
+{
+  "source_file": "C:\\Aditya\\Prep\\noora\\version 2\\outputs\\test_predictions.csv",
+  "system": "tuned_rf",
+  "policy": "recall_first",
+  "selection_rule": "minimum Medical FN, then relevant FN, then FP, then maximum macro-F1",
+  "production_recommendation": "separate decision; LLM may be preferred if its measured advantage and cost/latency/privacy constraints are acceptable"
+}

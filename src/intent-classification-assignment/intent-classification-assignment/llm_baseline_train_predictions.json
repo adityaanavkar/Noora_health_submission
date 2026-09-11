@@ -1,0 +1,4517 @@
+[
+  {
+    "query_id": "q_01749",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01282",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01630",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00293",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01349",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00369",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00214",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00681",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00736",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00022",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00982",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01432",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00512",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00682",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00974",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00228",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00999",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01587",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01292",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00175",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00519",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00304",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00273",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00437",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01204",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01234",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00215",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01686",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00059",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01194",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00898",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01563",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01472",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00107",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00044",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01371",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01763",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00232",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00781",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00820",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00525",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01642",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01724",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00929",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00174",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00006",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01457",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00586",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01745",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00455",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01294",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00297",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01342",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00667",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00950",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00652",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00740",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01163",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00934",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01375",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01166",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00931",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00417",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01540",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01130",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00981",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00731",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00518",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01270",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00668",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01266",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00602",
+    "predicted_intent": "Abuse",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00128",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00721",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01645",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01276",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00873",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00847",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00964",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01111",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00341",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00481",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00355",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00978",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00074",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00866",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00637",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01271",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01476",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00643",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01037",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00199",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00479",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00495",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00609",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01403",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00207",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01584",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00169",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01657",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00564",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00434",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00236",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00382",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01431",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01373",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00359",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01801",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01776",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01198",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01315",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00398",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01453",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00195",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01092",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01455",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01705",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01655",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00685",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00990",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00177",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01695",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01098",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00942",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00793",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00435",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00008",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00472",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01634",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01338",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00855",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00172",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00547",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01478",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01615",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01329",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01551",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00115",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01796",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01286",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00464",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00148",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01278",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00510",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01332",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00229",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00462",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01380",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01040",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01479",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00075",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00014",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01598",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00135",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01699",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01689",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01590",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01567",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01712",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00180",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00757",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00758",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00339",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00842",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01164",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00535",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01205",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00663",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00807",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00595",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01049",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01637",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01610",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00786",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00813",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01595",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00856",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01502",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00441",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00117",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01413",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00190",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01301",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00576",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00201",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00360",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00277",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01079",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00700",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01546",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00958",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00600",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01805",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01778",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01336",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01104",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01543",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00319",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01082",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00784",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01099",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01503",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01365",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01027",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00962",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00782",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00754",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01703",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01249",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00851",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01052",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01334",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00272",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01225",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00574",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00588",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01010",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00264",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01714",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00932",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00235",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00983",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01481",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00863",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01030",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00534",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00080",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01547",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00770",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00722",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01730",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01435",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00626",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01685",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01764",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01441",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00036",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00450",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01660",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01107",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00680",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01186",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00023",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00947",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01605",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01400",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00606",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01133",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01161",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01499",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00011",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00599",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00529",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00567",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00426",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00543",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00067",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01097",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00388",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00334",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00087",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01191",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01419",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01214",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01247",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00532",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00568",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01067",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01290",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00114",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00105",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00675",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00634",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00572",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01788",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00159",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01486",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01748",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01527",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01544",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00452",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01550",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01662",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01410",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01350",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01176",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01558",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01682",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01733",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00127",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00134",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01690",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00371",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01084",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01259",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00835",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01359",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01251",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00244",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00578",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00003",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01238",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01602",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00956",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01490",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00095",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00812",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01727",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00298",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00057",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00539",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01623",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01279",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00449",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01458",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00744",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00725",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00789",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01694",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00052",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01366",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00223",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00240",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00991",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01462",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00684",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00977",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00791",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00269",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01056",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00433",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00101",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00923",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01093",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01178",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00156",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01721",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01211",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01415",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01799",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01237",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01036",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00511",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00295",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00716",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01343",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00296",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01033",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01022",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01004",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00608",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00644",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00429",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00261",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00579",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00322",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00631",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00502",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00305",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00378",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01669",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00861",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00908",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00084",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00611",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00287",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01561",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00448",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01646",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00200",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01591",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01014",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01015",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01750",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00852",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00290",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01215",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00985",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01794",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00217",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00944",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00489",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00922",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01466",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01121",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01683",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00242",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01746",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00778",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00561",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01009",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01181",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01424",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01367",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01287",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01508",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00122",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01438",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01434",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01557",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00490",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00797",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00077",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00394",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00803",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01691",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00741",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00695",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01573",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00224",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00628",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00373",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01729",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00253",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00794",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00662",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00699",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01020",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01341",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00140",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00913",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01268",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01088",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01469",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01797",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01487",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00904",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00926",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00780",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01698",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00113",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01347",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00872",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01183",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00798",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01635",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01154",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01500",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01201",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00666",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01411",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00384",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00387",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00406",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00385",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00347",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00553",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00571",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01241",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01717",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00815",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00141",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01210",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00660",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00834",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00379",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00316",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00325",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00370",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00601",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01566",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01624",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00451",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01168",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00943",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01297",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00094",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01141",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00171",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00509",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01713",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01774",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00086",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00846",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01621",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00145",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00906",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01582",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00356",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01722",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01668",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00818",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00742",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00805",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00266",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00204",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00366",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01296",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00247",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00391",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01042",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00945",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01620",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00383",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00533",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01344",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00268",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00825",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00291",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00814",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01265",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01146",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01766",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01491",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00678",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00071",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01106",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01117",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01619",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01318",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00591",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01188",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01560",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01115",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01437",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00966",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00902",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00975",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01193",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01402",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00538",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00639",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00896",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00243",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01005",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00701",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00995",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01656",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00496",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00672",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01077",
+    "predicted_intent": "Unsubscribe",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00792",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00768",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01085",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01202",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01138",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00743",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00857",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00007",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01585",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01539",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01165",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00257",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00702",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00996",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00386",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01492",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00405",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00274",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00251",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01509",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00711",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00346",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00879",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01688",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01740",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01531",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01382",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00968",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00431",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00173",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00870",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00605",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00144",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01659",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00066",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00527",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00363",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00131",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00409",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01123",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01744",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00546",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00916",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00061",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00035",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01451",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00042",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01696",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00607",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00176",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00211",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01069",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01348",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00132",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00761",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00526",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01055",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00396",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01790",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00053",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01383",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01043",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00078",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00836",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01025",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00779",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01616",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01618",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01414",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01739",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00461",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00614",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00762",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00665",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00689",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00001",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00594",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00862",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01742",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00909",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00181",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00318",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01770",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01545",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00963",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01666",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01644",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01065",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01600",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00358",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01192",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01207",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00136",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01142",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00516",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00597",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00424",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00735",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01497",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01169",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00617",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00748",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00248",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01127",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01023",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00099",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00625",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01331",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00939",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01443",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01053",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00402",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00246",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00899",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00772",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01787",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00979",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00980",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01269",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01687",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00038",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00493",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01372",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00079",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01526",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01677",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01046",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00531",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00311",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01174",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00486",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00530",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00877",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01734",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01599",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00827",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01298",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00843",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01625",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00556",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01425",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01011",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01627",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00833",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00397",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01330",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00767",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00837",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00984",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01389",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00118",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00412",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00563",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00168",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00808",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00060",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00368",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01105",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00809",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00773",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00824",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01759",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01674",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01054",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01197",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00864",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01122",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01206",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01305",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01803",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00919",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00709",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00015",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01074",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01108",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01756",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01470",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00146",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01583",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01309",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01295",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00900",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00018",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01465",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01532",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01671",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01263",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00270",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00886",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01199",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01396",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00100",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01409",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01232",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01153",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01775",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01102",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01262",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01308",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00337",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00708",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00867",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01080",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01324",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00890",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01352",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01101",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00392",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01429",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00120",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01167",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00188",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01538",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00143",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01649",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00353",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00442",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01604",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01132",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00826",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00800",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00021",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01200",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00710",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00559",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00670",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01518",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01356",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01440",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00760",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01720",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01726",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01189",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00750",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01208",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00468",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00694",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01150",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01433",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01184",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00019",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00447",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00696",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01239",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00362",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00497",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00109",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00292",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01152",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01498",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01094",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00714",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00281",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01697",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01678",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01261",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01229",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01523",
+    "predicted_intent": "Feedback",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01002",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00186",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01760",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00390",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01736",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00230",
+    "predicted_intent": "Spam",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01504",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00633",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01063",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00419",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00013",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00730",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01480",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00795",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01314",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00039",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00108",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01405",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00603",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01313",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00328",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00658",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00545",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00376",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00635",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00407",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01066",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00110",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00659",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00811",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01525",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01095",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01376",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00517",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01477",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01126",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00049",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01071",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01333",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01075",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01704",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01528",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00403",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00507",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00420",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01765",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01391",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01700",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00641",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01529",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00598",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00692",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01218",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00584",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00056",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00070",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00558",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00500",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01586",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01679",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00126",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01209",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00859",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01580",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01473",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00031",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01379",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01793",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00301",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00158",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00352",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00399",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00715",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00970",
+    "predicted_intent": "Automated message",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01217",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00041",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00375",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01051",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00679",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00948",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01650",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01243",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01289",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00428",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01484",
+    "predicted_intent": "Unsubscribe",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00566",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00513",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00400",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00043",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00810",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00840",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01399",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01741",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01260",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01461",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00930",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00349",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01024",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00191",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00192",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00161",
+    "predicted_intent": "Other",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01519",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_01597",
+    "predicted_intent": "OSS",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01768",
+    "predicted_intent": "Delivery confirmation",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00425",
+    "predicted_intent": "Medical",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00309",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00137",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01535",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00002",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01353",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_01016",
+    "predicted_intent": "Date",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00320",
+    "predicted_intent": "Language change",
+    "predicted_label": "relevant"
+  },
+  {
+    "query_id": "q_00130",
+    "predicted_intent": "Acknowledgment",
+    "predicted_label": "irrelevant"
+  },
+  {
+    "query_id": "q_00051",
+    "predicted_intent": "Greeting",
+    "predicted_label": "irrelevant"
+  }
+]

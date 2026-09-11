@@ -1,0 +1,8 @@
+check,passed
+Training arrays match labeled rows,True
+Three training spaces analyzed,True
+Training label policy consistent,True
+Test labels absent as expected,True
+Train/test IDs disjoint,True
+Six t-SNE projections complete,True
+Original artifact checksums unchanged,True

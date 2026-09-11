@@ -1,0 +1,7 @@
+file,rows,dimensions,dtype,Fortran_order
+train_embeddings_a.npy,903,384,float32,False
+test_embeddings_a.npy,904,384,float32,False
+train_embeddings_b.npy,903,768,float32,False
+test_embeddings_b.npy,904,768,float32,False
+train_embeddings_c.npy,903,1536,float32,False
+test_embeddings_c.npy,904,1536,float32,False

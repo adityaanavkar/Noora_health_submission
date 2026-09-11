@@ -1,0 +1,97 @@
+{
+  "summary": {
+    "implementation_version": "mlp-part3-nested-v1",
+    "settings": {
+      "architectures": [
+        [
+          32
+        ],
+        [
+          64
+        ],
+        [
+          32,
+          16
+        ]
+      ],
+      "alphas": [
+        0.01,
+        1.0,
+        100.0
+      ],
+      "learning_rates": [
+        0.0005,
+        0.001
+      ],
+      "max_iter": 300,
+      "early_stopping": false,
+      "batch_size": 64,
+      "tol": 0.0001,
+      "solver": "adam",
+      "activation": "relu",
+      "n_jobs": 1,
+      "pilot_max_fits": 1
+    },
+    "grid_count": 54,
+    "outer_seed": 42,
+    "inner_seed": 43,
+    "duplicate_groups": "exact connected components in union ABC",
+    "selection_score": "mean inner average precision",
+    "threshold_targets": {
+      "relevant": 0.98,
+      "medical": 0.99
+    }
+  },
+  "source_fingerprint": "57bd83b4850dafc6abb26e9d7e2a31b11e81db7da8c366d8ff87cd51a45c74f3",
+  "test_source_fingerprint": "0650855417e5886bdda5ffd7bf8facfd44d25f030dcc6af6f8f5c2b18e54efd2",
+  "protocol": {
+    "implementation_version": "mlp-part3-nested-v1",
+    "settings": {
+      "architectures": [
+        [
+          32
+        ],
+        [
+          64
+        ],
+        [
+          32,
+          16
+        ]
+      ],
+      "alphas": [
+        0.01,
+        1.0,
+        100.0
+      ],
+      "learning_rates": [
+        0.0005,
+        0.001
+      ],
+      "max_iter": 300,
+      "early_stopping": false,
+      "batch_size": 64,
+      "tol": 0.0001,
+      "solver": "adam",
+      "activation": "relu",
+      "n_jobs": 1,
+      "pilot_max_fits": 1
+    },
+    "grid_count": 54,
+    "outer_seed": 42,
+    "inner_seed": 43,
+    "duplicate_groups": "exact connected components in union ABC",
+    "selection_score": "mean inner average precision",
+    "threshold_targets": {
+      "relevant": 0.98,
+      "medical": 0.99
+    }
+  },
+  "backend": {
+    "backend": "sklearn MLPClassifier CPU",
+    "torch_available": false,
+    "nvidia_smi_available": true,
+    "nvidia_smi_result": "NVIDIA GeForce RTX 5060 Laptop GPU, 610.88, 8151 MiB",
+    "gpu_hardware_detected": true
+  }
+}

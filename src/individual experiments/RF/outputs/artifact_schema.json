@@ -1,0 +1,87 @@
+{
+  "actual_grid.csv": {
+    "key_columns": [
+      "config_id",
+      "n_estimators",
+      "max_depth",
+      "min_samples_leaf",
+      "max_features",
+      "class_weight",
+      "forest_params"
+    ]
+  },
+  "candidate_results.csv": {
+    "key_columns": [
+      "selection_scope",
+      "outer_fold",
+      "embedding",
+      "config_id",
+      "n_estimators",
+      "forest_params",
+      "mean_inner_average_precision",
+      "inner_average_precision_0",
+      "inner_average_precision_1",
+      "inner_average_precision_2"
+    ]
+  },
+  "fold_choices.csv": {
+    "key_columns": [
+      "outer_fold",
+      "selected_embedding",
+      "selected_config_id",
+      "n_estimators",
+      "selected_forest_params",
+      "probability_method",
+      "threshold_default_0_5",
+      "threshold_balanced_macro_f1",
+      "threshold_recall_first"
+    ]
+  },
+  "outer_predictions.csv": {
+    "key_columns": [
+      "row_index",
+      "query_id",
+      "outer_fold",
+      "truth",
+      "intent",
+      "p_raw",
+      "p_chosen",
+      "threshold_default_0_5",
+      "threshold_balanced_macro_f1",
+      "threshold_recall_first",
+      "label_default_0_5",
+      "label_balanced_macro_f1",
+      "label_recall_first"
+    ]
+  },
+  "metrics.csv": {
+    "key_columns": [
+      "system",
+      "policy",
+      "evaluation",
+      "accuracy",
+      "macro_f1",
+      "precision",
+      "recall",
+      "specificity",
+      "medical_fn",
+      "medical_n",
+      "medical_recall",
+      "referrals",
+      "roc_auc",
+      "average_precision"
+    ]
+  },
+  "test_predictions.csv": {
+    "key_columns": [
+      "query_id",
+      "p_relevant",
+      "label_default_0_5",
+      "label_balanced_macro_f1",
+      "label_recall_first",
+      "predicted_label",
+      "policy",
+      "threshold"
+    ]
+  }
+}

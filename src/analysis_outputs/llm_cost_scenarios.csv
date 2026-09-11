@@ -1,0 +1,6 @@
+LLM_fraction,monthly_LLM_queries,monthly_token_cost_USD
+0.0,0,0.0
+0.1,100000,54.0
+0.25,250000,135.0
+0.5,500000,270.0
+1.0,1000000,540.0

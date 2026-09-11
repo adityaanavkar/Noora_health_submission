@@ -1,0 +1,904 @@
+query_id,intent,label
+q_01749,Delivery confirmation,relevant
+q_01282,Feedback,relevant
+q_01630,OSS,irrelevant
+q_00293,Language change,relevant
+q_01349,Acknowledgment,irrelevant
+q_00369,Medical,relevant
+q_00214,Spam,irrelevant
+q_00681,Medical,relevant
+q_00736,Medical,relevant
+q_00022,Greeting,irrelevant
+q_00982,Automated message,irrelevant
+q_01432,Acknowledgment,irrelevant
+q_00512,Medical,relevant
+q_00682,Medical,relevant
+q_00974,Automated message,irrelevant
+q_00228,Spam,irrelevant
+q_00999,Automated message,irrelevant
+q_01587,OSS,irrelevant
+q_01292,Acknowledgment,irrelevant
+q_00175,Acknowledgment,irrelevant
+q_00519,Medical,relevant
+q_00304,Language change,relevant
+q_00273,Language change,relevant
+q_00437,Medical,relevant
+q_01204,Acknowledgment,irrelevant
+q_01234,Acknowledgment,irrelevant
+q_00215,Spam,irrelevant
+q_01686,Language change,relevant
+q_00059,Other,relevant
+q_01194,Feedback,relevant
+q_00898,Medical,relevant
+q_01563,OSS,irrelevant
+q_01472,Acknowledgment,irrelevant
+q_00107,Acknowledgment,irrelevant
+q_00044,Greeting,irrelevant
+q_01371,Acknowledgment,irrelevant
+q_01763,Delivery confirmation,relevant
+q_00232,Spam,irrelevant
+q_00781,Medical,relevant
+q_00820,Medical,relevant
+q_00525,Medical,relevant
+q_01642,OSS,irrelevant
+q_01724,Delivery confirmation,relevant
+q_00929,Medical,relevant
+q_00174,Acknowledgment,irrelevant
+q_00006,Greeting,irrelevant
+q_01457,Other,relevant
+q_00586,Medical,relevant
+q_01745,Delivery confirmation,relevant
+q_00455,Medical,relevant
+q_01294,Acknowledgment,irrelevant
+q_00297,Language change,relevant
+q_01342,Acknowledgment,irrelevant
+q_00667,Medical,relevant
+q_00950,Medical,relevant
+q_00652,Medical,relevant
+q_00740,Medical,relevant
+q_01163,Feedback,relevant
+q_00934,Medical,relevant
+q_01375,Acknowledgment,irrelevant
+q_01166,Acknowledgment,irrelevant
+q_00931,Medical,relevant
+q_00417,Medical,relevant
+q_01540,Feedback,relevant
+q_01130,Acknowledgment,irrelevant
+q_00981,Automated message,irrelevant
+q_00731,Medical,relevant
+q_00518,Medical,relevant
+q_01270,Acknowledgment,irrelevant
+q_00668,Medical,relevant
+q_01266,Other,relevant
+q_00602,Other,relevant
+q_00128,Acknowledgment,irrelevant
+q_00721,Medical,relevant
+q_01645,OSS,irrelevant
+q_01276,Acknowledgment,irrelevant
+q_00873,Medical,relevant
+q_00847,Medical,relevant
+q_00964,Medical,relevant
+q_01111,Other,relevant
+q_00341,Medical,relevant
+q_00481,Medical,relevant
+q_00355,Medical,relevant
+q_00978,Automated message,irrelevant
+q_00074,Greeting,irrelevant
+q_00866,Medical,relevant
+q_00637,Medical,relevant
+q_01271,Acknowledgment,irrelevant
+q_01476,Feedback,relevant
+q_00643,Medical,relevant
+q_01037,Other,relevant
+q_00199,Other,relevant
+q_00479,Medical,relevant
+q_00495,Medical,relevant
+q_00609,Medical,relevant
+q_01403,Acknowledgment,irrelevant
+q_00207,Acknowledgment,irrelevant
+q_01584,OSS,irrelevant
+q_00169,Acknowledgment,irrelevant
+q_01657,OSS,irrelevant
+q_00564,Medical,relevant
+q_00434,Medical,relevant
+q_00236,Language change,relevant
+q_00382,Medical,relevant
+q_01431,Acknowledgment,irrelevant
+q_01373,Feedback,relevant
+q_00359,Medical,relevant
+q_01801,Date,relevant
+q_01776,Delivery confirmation,relevant
+q_01198,Acknowledgment,irrelevant
+q_01315,Feedback,relevant
+q_00398,Medical,relevant
+q_01453,Acknowledgment,irrelevant
+q_00195,Acknowledgment,irrelevant
+q_01092,Other,relevant
+q_01455,Acknowledgment,irrelevant
+q_01705,Language change,relevant
+q_01655,OSS,irrelevant
+q_00685,Medical,relevant
+q_00990,Automated message,irrelevant
+q_00177,Other,relevant
+q_01695,Language change,relevant
+q_01098,Other,relevant
+q_00942,Medical,relevant
+q_00793,Medical,relevant
+q_00435,Medical,relevant
+q_00008,Greeting,irrelevant
+q_00472,Medical,relevant
+q_01634,OSS,irrelevant
+q_01338,Acknowledgment,irrelevant
+q_00855,Medical,relevant
+q_00172,Acknowledgment,irrelevant
+q_00547,Medical,relevant
+q_01478,Feedback,relevant
+q_01615,OSS,irrelevant
+q_01329,Acknowledgment,irrelevant
+q_01551,OSS,irrelevant
+q_00115,Acknowledgment,irrelevant
+q_01796,Date,relevant
+q_01286,Acknowledgment,irrelevant
+q_00464,Medical,relevant
+q_00148,Acknowledgment,irrelevant
+q_01278,Acknowledgment,irrelevant
+q_00510,Medical,relevant
+q_01332,Acknowledgment,irrelevant
+q_00229,Spam,irrelevant
+q_00462,Medical,relevant
+q_01380,Acknowledgment,irrelevant
+q_01040,Medical,relevant
+q_01479,Acknowledgment,irrelevant
+q_00075,Greeting,irrelevant
+q_00014,Greeting,irrelevant
+q_01598,OSS,irrelevant
+q_00135,Acknowledgment,irrelevant
+q_01699,Language change,relevant
+q_01689,Language change,relevant
+q_01590,OSS,irrelevant
+q_01567,OSS,irrelevant
+q_01712,Language change,relevant
+q_00180,Acknowledgment,irrelevant
+q_00757,Medical,relevant
+q_00758,Medical,relevant
+q_00339,Medical,relevant
+q_00842,Medical,relevant
+q_01164,Acknowledgment,irrelevant
+q_00535,Medical,relevant
+q_01205,Acknowledgment,irrelevant
+q_00663,Medical,relevant
+q_00807,Medical,relevant
+q_00595,Medical,relevant
+q_01049,Spam,irrelevant
+q_01637,OSS,irrelevant
+q_01610,OSS,irrelevant
+q_00786,Medical,relevant
+q_00813,Medical,relevant
+q_01595,OSS,irrelevant
+q_00856,Medical,relevant
+q_01502,Acknowledgment,irrelevant
+q_00441,Medical,relevant
+q_00117,Other,relevant
+q_01413,Acknowledgment,irrelevant
+q_00190,Acknowledgment,irrelevant
+q_01301,Acknowledgment,irrelevant
+q_00576,Medical,relevant
+q_00201,Other,relevant
+q_00360,Medical,relevant
+q_00277,Language change,relevant
+q_01079,Medical,relevant
+q_00700,Medical,relevant
+q_01546,OSS,irrelevant
+q_00958,Medical,relevant
+q_00600,Medical,relevant
+q_01805,Date,relevant
+q_01778,Delivery confirmation,relevant
+q_01336,Acknowledgment,irrelevant
+q_01104,Other,relevant
+q_01543,OSS,irrelevant
+q_00319,Language change,relevant
+q_01082,Medical,relevant
+q_00784,Medical,relevant
+q_01099,Other,relevant
+q_01503,Acknowledgment,irrelevant
+q_01365,Acknowledgment,irrelevant
+q_01027,Medical,relevant
+q_00962,Medical,relevant
+q_00782,Medical,relevant
+q_00754,Medical,relevant
+q_01703,Language change,relevant
+q_01249,Acknowledgment,irrelevant
+q_00851,Medical,relevant
+q_01052,Other,relevant
+q_01334,Acknowledgment,irrelevant
+q_00272,Language change,relevant
+q_01225,Acknowledgment,irrelevant
+q_00574,Medical,relevant
+q_00588,Medical,relevant
+q_01010,Date,relevant
+q_00264,Language change,relevant
+q_01714,Delivery confirmation,relevant
+q_00932,Medical,relevant
+q_00235,Language change,relevant
+q_00983,Automated message,irrelevant
+q_01481,Feedback,relevant
+q_00863,Medical,relevant
+q_01030,Date,relevant
+q_00534,Medical,relevant
+q_00080,Greeting,irrelevant
+q_01547,OSS,irrelevant
+q_00770,Medical,relevant
+q_00722,Medical,relevant
+q_01730,Delivery confirmation,relevant
+q_01435,Feedback,relevant
+q_00626,Medical,relevant
+q_01685,Language change,relevant
+q_01764,Delivery confirmation,relevant
+q_01441,Acknowledgment,irrelevant
+q_00036,Greeting,irrelevant
+q_00450,Medical,relevant
+q_01660,OSS,irrelevant
+q_01107,Other,relevant
+q_00680,Medical,relevant
+q_01186,Acknowledgment,irrelevant
+q_00023,Greeting,irrelevant
+q_00947,Medical,relevant
+q_01605,OSS,irrelevant
+q_01400,Acknowledgment,irrelevant
+q_00606,Medical,relevant
+q_01133,Acknowledgment,irrelevant
+q_01161,Delivery confirmation,relevant
+q_01499,Feedback,relevant
+q_00011,Greeting,irrelevant
+q_00599,Medical,relevant
+q_00529,Medical,relevant
+q_00567,Medical,relevant
+q_00426,Medical,relevant
+q_00543,Medical,relevant
+q_00067,Greeting,irrelevant
+q_01097,Other,relevant
+q_00388,Medical,relevant
+q_00334,Medical,relevant
+q_00087,Greeting,irrelevant
+q_01191,Acknowledgment,irrelevant
+q_01419,Acknowledgment,irrelevant
+q_01214,Feedback,relevant
+q_01247,Acknowledgment,irrelevant
+q_00532,Medical,relevant
+q_00568,Medical,relevant
+q_01067,Other,relevant
+q_01290,Acknowledgment,irrelevant
+q_00114,Other,relevant
+q_00105,Other,relevant
+q_00675,Medical,relevant
+q_00634,Medical,relevant
+q_00572,Medical,relevant
+q_01788,Delivery confirmation,relevant
+q_00159,Acknowledgment,irrelevant
+q_01486,Feedback,relevant
+q_01748,Delivery confirmation,relevant
+q_01527,Delivery confirmation,relevant
+q_01544,OSS,irrelevant
+q_00452,Medical,relevant
+q_01550,Other,relevant
+q_01662,OSS,irrelevant
+q_01410,Acknowledgment,irrelevant
+q_01350,Feedback,relevant
+q_01176,Acknowledgment,irrelevant
+q_01558,OSS,irrelevant
+q_01682,Language change,relevant
+q_01733,Delivery confirmation,relevant
+q_00127,Acknowledgment,irrelevant
+q_00134,Acknowledgment,irrelevant
+q_01690,Language change,relevant
+q_00371,Medical,relevant
+q_01084,Other,relevant
+q_01259,Acknowledgment,irrelevant
+q_00835,Medical,relevant
+q_01359,Acknowledgment,irrelevant
+q_01251,Acknowledgment,irrelevant
+q_00244,Language change,relevant
+q_00578,Medical,relevant
+q_00003,Greeting,irrelevant
+q_01238,Acknowledgment,irrelevant
+q_01602,Other,relevant
+q_00956,Medical,relevant
+q_01490,Acknowledgment,irrelevant
+q_00095,Acknowledgment,irrelevant
+q_00812,Medical,relevant
+q_01727,Delivery confirmation,relevant
+q_00298,Language change,relevant
+q_00057,Greeting,irrelevant
+q_00539,Medical,relevant
+q_01623,OSS,irrelevant
+q_01279,Acknowledgment,irrelevant
+q_00449,Medical,relevant
+q_01458,Acknowledgment,irrelevant
+q_00744,Medical,relevant
+q_00725,Medical,relevant
+q_00789,Medical,relevant
+q_01694,Language change,relevant
+q_00052,Greeting,irrelevant
+q_01366,Acknowledgment,irrelevant
+q_00223,Spam,irrelevant
+q_00240,Language change,relevant
+q_00991,Automated message,irrelevant
+q_01462,Feedback,relevant
+q_00684,Medical,relevant
+q_00977,Automated message,irrelevant
+q_00791,Medical,relevant
+q_00269,Language change,relevant
+q_01056,Other,relevant
+q_00433,Medical,relevant
+q_00101,Other,relevant
+q_00923,Medical,relevant
+q_01093,Other,relevant
+q_01178,Acknowledgment,irrelevant
+q_00156,Acknowledgment,irrelevant
+q_01721,Delivery confirmation,relevant
+q_01211,Acknowledgment,irrelevant
+q_01415,Feedback,relevant
+q_01799,Date,relevant
+q_01237,Acknowledgment,irrelevant
+q_01036,Date,relevant
+q_00511,Medical,relevant
+q_00295,Language change,relevant
+q_00716,Medical,relevant
+q_01343,Acknowledgment,irrelevant
+q_00296,Language change,relevant
+q_01033,Date,relevant
+q_01022,Date,relevant
+q_01004,Automated message,irrelevant
+q_00608,Medical,relevant
+q_00644,Medical,relevant
+q_00429,Medical,relevant
+q_00261,Language change,relevant
+q_00579,Medical,relevant
+q_00322,Language change,relevant
+q_00631,Medical,relevant
+q_00502,Medical,relevant
+q_00305,Language change,relevant
+q_00378,Medical,relevant
+q_01669,Language change,relevant
+q_00861,Medical,relevant
+q_00908,Medical,relevant
+q_00084,Greeting,irrelevant
+q_00611,Medical,relevant
+q_00287,Language change,relevant
+q_01561,OSS,irrelevant
+q_00448,Medical,relevant
+q_01646,Other,relevant
+q_00200,Acknowledgment,irrelevant
+q_01591,OSS,irrelevant
+q_01014,Date,relevant
+q_01015,Date,relevant
+q_01750,Delivery confirmation,relevant
+q_00852,Medical,relevant
+q_00290,Language change,relevant
+q_01215,Acknowledgment,irrelevant
+q_00985,Automated message,irrelevant
+q_01794,Date,relevant
+q_00217,Spam,irrelevant
+q_00944,Medical,relevant
+q_00489,Medical,relevant
+q_00922,Medical,relevant
+q_01466,Medical,relevant
+q_01121,Acknowledgment,irrelevant
+q_01683,Language change,relevant
+q_00242,Language change,relevant
+q_01746,Delivery confirmation,relevant
+q_00778,Medical,relevant
+q_00561,Medical,relevant
+q_01009,Date,relevant
+q_01181,Acknowledgment,irrelevant
+q_01424,Acknowledgment,irrelevant
+q_01367,Acknowledgment,irrelevant
+q_01287,Feedback,relevant
+q_01508,Acknowledgment,irrelevant
+q_00122,Acknowledgment,irrelevant
+q_01438,Acknowledgment,irrelevant
+q_01434,Acknowledgment,irrelevant
+q_01557,OSS,irrelevant
+q_00490,Medical,relevant
+q_00797,Medical,relevant
+q_00077,Greeting,irrelevant
+q_00394,Medical,relevant
+q_00803,Medical,relevant
+q_01691,Language change,relevant
+q_00741,Medical,relevant
+q_00695,Medical,relevant
+q_01573,OSS,irrelevant
+q_00224,Spam,irrelevant
+q_00628,Medical,relevant
+q_00373,Medical,relevant
+q_01729,Delivery confirmation,relevant
+q_00253,Language change,relevant
+q_00794,Medical,relevant
+q_00662,Medical,relevant
+q_00699,Medical,relevant
+q_01020,Date,relevant
+q_01341,Acknowledgment,irrelevant
+q_00140,Acknowledgment,irrelevant
+q_00913,Medical,relevant
+q_01268,Acknowledgment,irrelevant
+q_01088,Medical,relevant
+q_01469,Acknowledgment,irrelevant
+q_01797,Date,relevant
+q_01487,Acknowledgment,irrelevant
+q_00904,Medical,relevant
+q_00926,Medical,relevant
+q_00780,Medical,relevant
+q_01698,Language change,relevant
+q_00113,Greeting,irrelevant
+q_01347,Acknowledgment,irrelevant
+q_00872,Medical,relevant
+q_01183,Acknowledgment,irrelevant
+q_00798,Medical,relevant
+q_01635,OSS,irrelevant
+q_01154,Acknowledgment,irrelevant
+q_01500,Acknowledgment,irrelevant
+q_01201,Acknowledgment,irrelevant
+q_00666,Medical,relevant
+q_01411,Feedback,relevant
+q_00384,Medical,relevant
+q_00387,Medical,relevant
+q_00406,Medical,relevant
+q_00385,Medical,relevant
+q_00347,Medical,relevant
+q_00553,Medical,relevant
+q_00571,Medical,relevant
+q_01241,Acknowledgment,irrelevant
+q_01717,Delivery confirmation,relevant
+q_00815,Medical,relevant
+q_00141,Acknowledgment,irrelevant
+q_01210,Acknowledgment,irrelevant
+q_00660,Medical,relevant
+q_00834,Medical,relevant
+q_00379,Medical,relevant
+q_00316,Language change,relevant
+q_00325,Language change,relevant
+q_00370,Medical,relevant
+q_00601,Medical,relevant
+q_01566,OSS,irrelevant
+q_01624,OSS,irrelevant
+q_00451,Medical,relevant
+q_01168,Feedback,relevant
+q_00943,Medical,relevant
+q_01297,Acknowledgment,irrelevant
+q_00094,Greeting,irrelevant
+q_01141,Medical,relevant
+q_00171,Acknowledgment,irrelevant
+q_00509,Medical,relevant
+q_01713,Delivery confirmation,relevant
+q_01774,Delivery confirmation,relevant
+q_00086,Greeting,irrelevant
+q_00846,Medical,relevant
+q_01621,OSS,irrelevant
+q_00145,Acknowledgment,irrelevant
+q_00906,Medical,relevant
+q_01582,OSS,irrelevant
+q_00356,Medical,relevant
+q_01722,Delivery confirmation,relevant
+q_01668,Other,relevant
+q_00818,Medical,relevant
+q_00742,Medical,relevant
+q_00805,Medical,relevant
+q_00266,Language change,relevant
+q_00204,Acknowledgment,irrelevant
+q_00366,Medical,relevant
+q_01296,Acknowledgment,irrelevant
+q_00247,Language change,relevant
+q_00391,Medical,relevant
+q_01042,Spam,irrelevant
+q_00945,Medical,relevant
+q_01620,OSS,irrelevant
+q_00383,Medical,relevant
+q_00533,Medical,relevant
+q_01344,Acknowledgment,irrelevant
+q_00268,Language change,relevant
+q_00825,Medical,relevant
+q_00291,Language change,relevant
+q_00814,Medical,relevant
+q_01265,Feedback,relevant
+q_01146,Feedback,relevant
+q_01766,Delivery confirmation,relevant
+q_01491,Greeting,irrelevant
+q_00678,Medical,relevant
+q_00071,Greeting,irrelevant
+q_01106,OSS,irrelevant
+q_01117,Acknowledgment,irrelevant
+q_01619,OSS,irrelevant
+q_01318,Acknowledgment,irrelevant
+q_00591,Medical,relevant
+q_01188,Acknowledgment,irrelevant
+q_01560,OSS,irrelevant
+q_01115,Feedback,relevant
+q_01437,Acknowledgment,irrelevant
+q_00966,Automated message,irrelevant
+q_00902,Medical,relevant
+q_00975,Automated message,irrelevant
+q_01193,Acknowledgment,irrelevant
+q_01402,Acknowledgment,irrelevant
+q_00538,Medical,relevant
+q_00639,Medical,relevant
+q_00896,Medical,relevant
+q_00243,Language change,relevant
+q_01005,Automated message,irrelevant
+q_00701,Medical,relevant
+q_00995,Automated message,irrelevant
+q_01656,Other,relevant
+q_00496,Medical,relevant
+q_00672,Medical,relevant
+q_01077,Other,relevant
+q_00792,Medical,relevant
+q_00768,Medical,relevant
+q_01085,Medical,relevant
+q_01202,Acknowledgment,irrelevant
+q_01138,Acknowledgment,irrelevant
+q_00743,Medical,relevant
+q_00857,Medical,relevant
+q_00007,Other,relevant
+q_01585,OSS,irrelevant
+q_01539,Feedback,relevant
+q_01165,Feedback,relevant
+q_00257,Language change,relevant
+q_00702,Medical,relevant
+q_00996,Automated message,irrelevant
+q_00386,Medical,relevant
+q_01492,Feedback,relevant
+q_00405,Medical,relevant
+q_00274,Language change,relevant
+q_00251,Language change,relevant
+q_01509,Feedback,relevant
+q_00711,Medical,relevant
+q_00346,Medical,relevant
+q_00879,Medical,relevant
+q_01688,Language change,relevant
+q_01740,Delivery confirmation,relevant
+q_01531,Acknowledgment,irrelevant
+q_01382,Acknowledgment,irrelevant
+q_00968,Automated message,irrelevant
+q_00431,Medical,relevant
+q_00173,Acknowledgment,irrelevant
+q_00870,Medical,relevant
+q_00605,Medical,relevant
+q_00144,Other,relevant
+q_01659,Other,relevant
+q_00066,Greeting,irrelevant
+q_00527,Medical,relevant
+q_00363,Medical,relevant
+q_00131,Acknowledgment,irrelevant
+q_00409,Medical,relevant
+q_01123,Acknowledgment,irrelevant
+q_01744,Delivery confirmation,relevant
+q_00546,Medical,relevant
+q_00916,Medical,relevant
+q_00061,Greeting,irrelevant
+q_00035,Greeting,irrelevant
+q_01451,Acknowledgment,irrelevant
+q_00042,Greeting,irrelevant
+q_01696,Language change,relevant
+q_00607,Medical,relevant
+q_00176,Acknowledgment,irrelevant
+q_00211,Spam,irrelevant
+q_01069,Other,relevant
+q_01348,Acknowledgment,irrelevant
+q_00132,Other,relevant
+q_00761,Medical,relevant
+q_00526,Medical,relevant
+q_01055,Other,relevant
+q_00396,Medical,relevant
+q_01790,Delivery confirmation,relevant
+q_00053,Greeting,irrelevant
+q_01383,Acknowledgment,irrelevant
+q_01043,Spam,irrelevant
+q_00078,Greeting,irrelevant
+q_00836,Medical,relevant
+q_01025,Date,relevant
+q_00779,Medical,relevant
+q_01616,OSS,irrelevant
+q_01618,OSS,irrelevant
+q_01414,Delivery confirmation,relevant
+q_01739,Delivery confirmation,relevant
+q_00461,Medical,relevant
+q_00614,Medical,relevant
+q_00762,Medical,relevant
+q_00665,Medical,relevant
+q_00689,Medical,relevant
+q_00001,Greeting,irrelevant
+q_00594,Medical,relevant
+q_00862,Medical,relevant
+q_01742,Delivery confirmation,relevant
+q_00909,Medical,relevant
+q_00181,Acknowledgment,irrelevant
+q_00318,Language change,relevant
+q_01770,Delivery confirmation,relevant
+q_01545,OSS,irrelevant
+q_00963,Medical,relevant
+q_01666,Language change,relevant
+q_01644,OSS,irrelevant
+q_01065,Other,relevant
+q_01600,OSS,irrelevant
+q_00358,Medical,relevant
+q_01192,Acknowledgment,irrelevant
+q_01207,Feedback,relevant
+q_00136,Acknowledgment,irrelevant
+q_01142,Acknowledgment,irrelevant
+q_00516,Medical,relevant
+q_00597,Medical,relevant
+q_00424,Medical,relevant
+q_00735,Medical,relevant
+q_01497,Acknowledgment,irrelevant
+q_01169,Acknowledgment,irrelevant
+q_00617,Medical,relevant
+q_00748,Medical,relevant
+q_00248,Language change,relevant
+q_01127,Acknowledgment,irrelevant
+q_01023,Date,relevant
+q_00099,Acknowledgment,irrelevant
+q_00625,Medical,relevant
+q_01331,Acknowledgment,irrelevant
+q_00939,Medical,relevant
+q_01443,Acknowledgment,irrelevant
+q_01053,Medical,relevant
+q_00402,OSS,irrelevant
+q_00246,Language change,relevant
+q_00899,Medical,relevant
+q_00772,Medical,relevant
+q_01787,Delivery confirmation,relevant
+q_00979,Automated message,irrelevant
+q_00980,Automated message,irrelevant
+q_01269,Medical,relevant
+q_01687,Language change,relevant
+q_00038,Acknowledgment,irrelevant
+q_00493,Medical,relevant
+q_01372,Acknowledgment,irrelevant
+q_00079,Greeting,irrelevant
+q_01526,Acknowledgment,irrelevant
+q_01677,Language change,relevant
+q_01046,Other,relevant
+q_00531,Medical,relevant
+q_00311,Language change,relevant
+q_01174,Acknowledgment,irrelevant
+q_00486,Medical,relevant
+q_00530,Medical,relevant
+q_00877,Medical,relevant
+q_01734,Delivery confirmation,relevant
+q_01599,OSS,irrelevant
+q_00827,Medical,relevant
+q_01298,Acknowledgment,irrelevant
+q_00843,Medical,relevant
+q_01625,OSS,irrelevant
+q_00556,Medical,relevant
+q_01425,Medical,relevant
+q_01011,Date,relevant
+q_01627,OSS,irrelevant
+q_00833,Medical,relevant
+q_00397,Medical,relevant
+q_01330,Acknowledgment,irrelevant
+q_00767,Medical,relevant
+q_00837,Medical,relevant
+q_00984,Automated message,irrelevant
+q_01389,Feedback,relevant
+q_00118,Acknowledgment,irrelevant
+q_00412,Medical,relevant
+q_00563,Medical,relevant
+q_00168,Acknowledgment,irrelevant
+q_00808,Medical,relevant
+q_00060,Greeting,irrelevant
+q_00368,Medical,relevant
+q_01105,Medical,relevant
+q_00809,Medical,relevant
+q_00773,Other,relevant
+q_00824,Medical,relevant
+q_01759,Delivery confirmation,relevant
+q_01674,Language change,relevant
+q_01054,Other,relevant
+q_01197,Acknowledgment,irrelevant
+q_00864,Medical,relevant
+q_01122,Acknowledgment,irrelevant
+q_01206,Acknowledgment,irrelevant
+q_01305,Acknowledgment,irrelevant
+q_01803,Date,relevant
+q_00919,Medical,relevant
+q_00709,Medical,relevant
+q_00015,Greeting,irrelevant
+q_01074,Other,relevant
+q_01108,Medical,relevant
+q_01756,Delivery confirmation,relevant
+q_01470,Acknowledgment,irrelevant
+q_00146,Acknowledgment,irrelevant
+q_01583,OSS,irrelevant
+q_01309,Acknowledgment,irrelevant
+q_01295,Acknowledgment,irrelevant
+q_00900,Medical,relevant
+q_00018,Greeting,irrelevant
+q_01465,Acknowledgment,irrelevant
+q_01532,Acknowledgment,irrelevant
+q_01671,Language change,relevant
+q_01263,Acknowledgment,irrelevant
+q_00270,Language change,relevant
+q_00886,Medical,relevant
+q_01199,Acknowledgment,irrelevant
+q_01396,Acknowledgment,irrelevant
+q_00100,Acknowledgment,irrelevant
+q_01409,Acknowledgment,irrelevant
+q_01232,Acknowledgment,irrelevant
+q_01153,Acknowledgment,irrelevant
+q_01775,Delivery confirmation,relevant
+q_01102,Other,relevant
+q_01262,Acknowledgment,irrelevant
+q_01308,Acknowledgment,irrelevant
+q_00337,Medical,relevant
+q_00708,Medical,relevant
+q_00867,Medical,relevant
+q_01080,Other,relevant
+q_01324,Feedback,relevant
+q_00890,Medical,relevant
+q_01352,Acknowledgment,irrelevant
+q_01101,Other,relevant
+q_00392,Medical,relevant
+q_01429,Acknowledgment,irrelevant
+q_00120,Other,relevant
+q_01167,Delivery confirmation,relevant
+q_00188,Acknowledgment,irrelevant
+q_01538,Feedback,relevant
+q_00143,Acknowledgment,irrelevant
+q_01649,OSS,irrelevant
+q_00353,Medical,relevant
+q_00442,Medical,relevant
+q_01604,OSS,irrelevant
+q_01132,Acknowledgment,irrelevant
+q_00826,Medical,relevant
+q_00800,Medical,relevant
+q_00021,Greeting,irrelevant
+q_01200,Acknowledgment,irrelevant
+q_00710,Medical,relevant
+q_00559,Medical,relevant
+q_00670,Medical,relevant
+q_01518,Acknowledgment,irrelevant
+q_01356,Feedback,relevant
+q_01440,Acknowledgment,irrelevant
+q_00760,Medical,relevant
+q_01720,Delivery confirmation,relevant
+q_01726,Delivery confirmation,relevant
+q_01189,Acknowledgment,irrelevant
+q_00750,Medical,relevant
+q_01208,Acknowledgment,irrelevant
+q_00468,Medical,relevant
+q_00694,Medical,relevant
+q_01150,Acknowledgment,irrelevant
+q_01433,Delivery confirmation,relevant
+q_01184,Acknowledgment,irrelevant
+q_00019,Greeting,irrelevant
+q_00447,Medical,relevant
+q_00696,Medical,relevant
+q_01239,Acknowledgment,irrelevant
+q_00362,Medical,relevant
+q_00497,Medical,relevant
+q_00109,Acknowledgment,irrelevant
+q_00292,Language change,relevant
+q_01152,Acknowledgment,irrelevant
+q_01498,Acknowledgment,irrelevant
+q_01094,Other,relevant
+q_00714,Medical,relevant
+q_00281,Language change,relevant
+q_01697,Language change,relevant
+q_01678,Language change,relevant
+q_01261,Acknowledgment,irrelevant
+q_01229,Acknowledgment,irrelevant
+q_01523,Feedback,relevant
+q_01002,Automated message,irrelevant
+q_00186,Acknowledgment,irrelevant
+q_01760,Delivery confirmation,relevant
+q_00390,Medical,relevant
+q_01736,Delivery confirmation,relevant
+q_00230,Spam,irrelevant
+q_01504,Acknowledgment,irrelevant
+q_00633,Medical,relevant
+q_01063,Other,relevant
+q_00419,Medical,relevant
+q_00013,Greeting,irrelevant
+q_00730,Medical,relevant
+q_01480,Acknowledgment,irrelevant
+q_00795,Medical,relevant
+q_01314,Acknowledgment,irrelevant
+q_00039,Greeting,irrelevant
+q_00108,Other,relevant
+q_01405,Acknowledgment,irrelevant
+q_00603,Medical,relevant
+q_01313,Acknowledgment,irrelevant
+q_00328,Medical,relevant
+q_00658,Medical,relevant
+q_00545,Medical,relevant
+q_00376,Medical,relevant
+q_00635,Medical,relevant
+q_00407,Medical,relevant
+q_01066,Medical,relevant
+q_00110,Acknowledgment,irrelevant
+q_00659,Medical,relevant
+q_00811,Medical,relevant
+q_01525,Acknowledgment,irrelevant
+q_01095,Other,relevant
+q_01376,OSS,irrelevant
+q_00517,Medical,relevant
+q_01477,Feedback,relevant
+q_01126,Acknowledgment,irrelevant
+q_00049,Greeting,irrelevant
+q_01071,Other,relevant
+q_01333,Acknowledgment,irrelevant
+q_01075,Medical,relevant
+q_01704,Language change,relevant
+q_01528,Acknowledgment,irrelevant
+q_00403,Medical,relevant
+q_00507,Medical,relevant
+q_00420,Medical,relevant
+q_01765,Delivery confirmation,relevant
+q_01391,Acknowledgment,irrelevant
+q_01700,Language change,relevant
+q_00641,Medical,relevant
+q_01529,Medical,relevant
+q_00598,Medical,relevant
+q_00692,Medical,relevant
+q_01218,Acknowledgment,irrelevant
+q_00584,Medical,relevant
+q_00056,Greeting,irrelevant
+q_00070,Greeting,irrelevant
+q_00558,Medical,relevant
+q_00500,Medical,relevant
+q_01586,OSS,irrelevant
+q_01679,Language change,relevant
+q_00126,Acknowledgment,irrelevant
+q_01209,Acknowledgment,irrelevant
+q_00859,Medical,relevant
+q_01580,OSS,irrelevant
+q_01473,Acknowledgment,irrelevant
+q_00031,Greeting,irrelevant
+q_01379,Acknowledgment,irrelevant
+q_01793,Date,relevant
+q_00301,Language change,relevant
+q_00158,Acknowledgment,irrelevant
+q_00352,Medical,relevant
+q_00399,Medical,relevant
+q_00715,Medical,relevant
+q_00970,Automated message,irrelevant
+q_01217,Acknowledgment,irrelevant
+q_00041,Greeting,irrelevant
+q_00375,Medical,relevant
+q_01051,Medical,relevant
+q_00679,Medical,relevant
+q_00948,Medical,relevant
+q_01650,OSS,irrelevant
+q_01243,Acknowledgment,irrelevant
+q_01289,Acknowledgment,irrelevant
+q_00428,Medical,relevant
+q_01484,Feedback,relevant
+q_00566,Medical,relevant
+q_00513,Medical,relevant
+q_00400,Medical,relevant
+q_00043,Greeting,irrelevant
+q_00810,Medical,relevant
+q_00840,Medical,relevant
+q_01399,Delivery confirmation,relevant
+q_01741,Delivery confirmation,relevant
+q_01260,Acknowledgment,irrelevant
+q_01461,Acknowledgment,irrelevant
+q_00930,Medical,relevant
+q_00349,Medical,relevant
+q_01024,Date,relevant
+q_00191,Acknowledgment,irrelevant
+q_00192,Acknowledgment,irrelevant
+q_00161,Other,relevant
+q_01519,Medical,relevant
+q_01597,OSS,irrelevant
+q_01768,Delivery confirmation,relevant
+q_00425,Medical,relevant
+q_00309,Language change,relevant
+q_00137,Acknowledgment,irrelevant
+q_01535,Acknowledgment,irrelevant
+q_00002,Greeting,irrelevant
+q_01353,Acknowledgment,irrelevant
+q_01016,Date,relevant
+q_00320,Language change,relevant
+q_00130,Acknowledgment,irrelevant
+q_00051,Greeting,irrelevant

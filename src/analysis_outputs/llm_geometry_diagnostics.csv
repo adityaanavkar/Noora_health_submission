@@ -1,0 +1,2710 @@
+query_id,intent,label,space,nearest_distance,label_agreement_k15,correct_routing,LLM result
+q_01749,Delivery confirmation,relevant,A,0.29888046,0.9333333333333333,True,Correct
+q_01282,Feedback,relevant,A,0.5787263,0.13333333333333333,True,Correct
+q_01630,OSS,irrelevant,A,0.46673244,0.9333333333333333,True,Correct
+q_00293,Language change,relevant,A,0.07655287,1.0,True,Correct
+q_01349,Acknowledgment,irrelevant,A,0.040165782,1.0,True,Correct
+q_00369,Medical,relevant,A,0.25527346,0.9333333333333333,True,Correct
+q_00214,Spam,irrelevant,A,0.42806304,0.2,True,Correct
+q_00681,Medical,relevant,A,0.11521256,1.0,True,Correct
+q_00736,Medical,relevant,A,0.33232087,1.0,True,Correct
+q_00022,Greeting,irrelevant,A,0.097853065,0.8666666666666667,True,Correct
+q_00982,Automated message,irrelevant,A,0.357342,0.8666666666666667,True,Correct
+q_01432,Acknowledgment,irrelevant,A,0.09812498,1.0,True,Correct
+q_00512,Medical,relevant,A,0.35925126,1.0,True,Correct
+q_00682,Medical,relevant,A,0.3994357,0.9333333333333333,True,Correct
+q_00974,Automated message,irrelevant,A,0.30390608,0.9333333333333333,True,Correct
+q_00228,Spam,irrelevant,A,0.56069934,0.5333333333333333,True,Correct
+q_00999,Automated message,irrelevant,A,0.5185417,0.7333333333333333,True,Correct
+q_01587,OSS,irrelevant,A,0.20408738,0.06666666666666667,False,Error
+q_01292,Acknowledgment,irrelevant,A,0.2624452,0.5333333333333333,True,Correct
+q_00175,Acknowledgment,irrelevant,A,0.03424108,0.9333333333333333,True,Correct
+q_00519,Medical,relevant,A,0.2239722,0.8666666666666667,True,Correct
+q_00304,Language change,relevant,A,0.14477432,0.9333333333333333,True,Correct
+q_00273,Language change,relevant,A,0.05501294,1.0,True,Correct
+q_00437,Medical,relevant,A,0.3371439,1.0,True,Correct
+q_01204,Acknowledgment,irrelevant,A,0.18228436,1.0,True,Correct
+q_01234,Acknowledgment,irrelevant,A,0.20584333,0.8,True,Correct
+q_00215,Spam,irrelevant,A,0.5287428,0.26666666666666666,True,Correct
+q_01686,Language change,relevant,A,0.13551575,0.8666666666666667,True,Correct
+q_00059,Other,relevant,A,0.3857931,0.13333333333333333,False,Error
+q_01194,Feedback,relevant,A,0.3111151,1.0,False,Error
+q_00898,Medical,relevant,A,0.38610983,1.0,True,Correct
+q_01563,OSS,irrelevant,A,0.34703672,0.4666666666666667,True,Correct
+q_01472,Acknowledgment,irrelevant,A,0.09041357,0.26666666666666666,True,Correct
+q_00107,Acknowledgment,irrelevant,A,0.15634716,0.4,True,Correct
+q_00044,Greeting,irrelevant,A,0.23777682,0.26666666666666666,True,Correct
+q_01371,Acknowledgment,irrelevant,A,0.067367435,0.8666666666666667,True,Correct
+q_01763,Delivery confirmation,relevant,A,0.037516415,0.4666666666666667,True,Correct
+q_00232,Spam,irrelevant,A,0.5297236,0.6666666666666666,True,Correct
+q_00781,Medical,relevant,A,0.19686413,1.0,True,Correct
+q_00820,Medical,relevant,A,0.44190705,1.0,True,Correct
+q_00525,Medical,relevant,A,0.13440168,0.9333333333333333,True,Correct
+q_01642,OSS,irrelevant,A,0.33224815,0.4666666666666667,True,Correct
+q_01724,Delivery confirmation,relevant,A,0.26048988,0.5333333333333333,True,Correct
+q_00929,Medical,relevant,A,0.17102993,0.8,True,Correct
+q_00174,Acknowledgment,irrelevant,A,0.013348341,0.9333333333333333,True,Correct
+q_00006,Greeting,irrelevant,A,0.1708268,0.4666666666666667,True,Correct
+q_01457,Other,relevant,A,0.14180422,0.6,True,Correct
+q_00586,Medical,relevant,A,0.35954857,0.8,True,Correct
+q_01745,Delivery confirmation,relevant,A,0.11798096,0.4666666666666667,True,Correct
+q_00455,Medical,relevant,A,0.6542188,0.9333333333333333,True,Correct
+q_01294,Acknowledgment,irrelevant,A,0.22882915,0.8666666666666667,True,Correct
+q_00297,Language change,relevant,A,0.18551344,1.0,True,Correct
+q_01342,Acknowledgment,irrelevant,A,0.083369434,0.7333333333333333,True,Correct
+q_00667,Medical,relevant,A,0.31619322,1.0,True,Correct
+q_00950,Medical,relevant,A,0.49352008,0.8,True,Correct
+q_00652,Medical,relevant,A,0.288346,0.9333333333333333,True,Correct
+q_00740,Medical,relevant,A,0.46712357,1.0,True,Correct
+q_01163,Feedback,relevant,A,0.23865187,0.2,True,Correct
+q_00934,Medical,relevant,A,0.34611362,1.0,True,Correct
+q_01375,Acknowledgment,irrelevant,A,0.12951589,0.26666666666666666,True,Correct
+q_01166,Acknowledgment,irrelevant,A,0.048683643,1.0,True,Correct
+q_00931,Medical,relevant,A,0.4715678,0.8666666666666667,True,Correct
+q_00417,Medical,relevant,A,0.011525989,0.5333333333333333,True,Correct
+q_01540,Feedback,relevant,A,0.16412067,0.8666666666666667,True,Correct
+q_01130,Acknowledgment,irrelevant,A,0.12760675,1.0,True,Correct
+q_00981,Automated message,irrelevant,A,0.09081006,0.6666666666666666,True,Correct
+q_00731,Medical,relevant,A,0.4111833,1.0,True,Correct
+q_00518,Medical,relevant,A,0.17014933,1.0,True,Correct
+q_01270,Acknowledgment,irrelevant,A,0.2168327,1.0,True,Correct
+q_00668,Medical,relevant,A,0.28237194,1.0,True,Correct
+q_01266,Other,relevant,A,0.35659695,0.3333333333333333,True,Correct
+q_00602,Other,relevant,A,0.37542355,0.7333333333333333,False,Error
+q_00128,Acknowledgment,irrelevant,A,0.15489686,0.6666666666666666,True,Correct
+q_00721,Medical,relevant,A,0.21226048,1.0,True,Correct
+q_01645,OSS,irrelevant,A,0.2587958,0.6,True,Correct
+q_01276,Acknowledgment,irrelevant,A,0.053781748,1.0,True,Correct
+q_00873,Medical,relevant,A,0.19086885,0.8,True,Correct
+q_00847,Medical,relevant,A,0.25895047,1.0,True,Correct
+q_00964,Medical,relevant,A,0.037548482,0.6666666666666666,True,Correct
+q_01111,Other,relevant,A,0.28611565,0.4,True,Correct
+q_00341,Medical,relevant,A,0.34270006,0.7333333333333333,True,Correct
+q_00481,Medical,relevant,A,0.35483855,0.9333333333333333,True,Correct
+q_00355,Medical,relevant,A,0.011525989,0.5333333333333333,True,Correct
+q_00978,Automated message,irrelevant,A,0.24671221,0.6,True,Correct
+q_00074,Greeting,irrelevant,A,0.0872736,0.5333333333333333,True,Correct
+q_00866,Medical,relevant,A,0.22956836,0.6666666666666666,True,Correct
+q_00637,Medical,relevant,A,0.46828842,0.4666666666666667,True,Correct
+q_01271,Acknowledgment,irrelevant,A,0.27210963,1.0,True,Correct
+q_01476,Feedback,relevant,A,0.39105463,0.8,True,Correct
+q_00643,Medical,relevant,A,0.25047052,1.0,True,Correct
+q_01037,Other,relevant,A,0.2487998,0.3333333333333333,True,Correct
+q_00199,Other,relevant,A,0.11091399,0.3333333333333333,True,Correct
+q_00479,Medical,relevant,A,0.5645802,1.0,True,Correct
+q_00495,Medical,relevant,A,0.17014933,1.0,True,Correct
+q_00609,Medical,relevant,A,0.34472328,0.9333333333333333,True,Correct
+q_01403,Acknowledgment,irrelevant,A,0.035656095,0.6666666666666666,True,Correct
+q_00207,Acknowledgment,irrelevant,A,0.1663127,0.3333333333333333,True,Correct
+q_01584,OSS,irrelevant,A,0.3537395,0.2,True,Correct
+q_00169,Acknowledgment,irrelevant,A,0.31082368,0.8,True,Correct
+q_01657,OSS,irrelevant,A,0.1194033,0.5333333333333333,True,Correct
+q_00564,Medical,relevant,A,0.27844608,0.8666666666666667,True,Correct
+q_00434,Medical,relevant,A,0.20878935,1.0,True,Correct
+q_00236,Language change,relevant,A,0.08155942,0.6,True,Correct
+q_00382,Medical,relevant,A,0.20146453,0.7333333333333333,True,Correct
+q_01431,Acknowledgment,irrelevant,A,0.032161117,1.0,True,Correct
+q_01373,Feedback,relevant,A,0.2890491,0.26666666666666666,True,Correct
+q_00359,Medical,relevant,A,0.33921403,0.8666666666666667,True,Correct
+q_01801,Date,relevant,A,0.093143344,1.0,True,Correct
+q_01776,Delivery confirmation,relevant,A,0.2976694,0.6666666666666666,True,Correct
+q_01198,Acknowledgment,irrelevant,A,0.42988598,0.9333333333333333,True,Correct
+q_01315,Feedback,relevant,A,0.21402943,1.0,True,Correct
+q_00398,Medical,relevant,A,0.26794505,0.8666666666666667,True,Correct
+q_01453,Acknowledgment,irrelevant,A,0.112752855,0.26666666666666666,False,Error
+q_00195,Acknowledgment,irrelevant,A,0.14686155,0.9333333333333333,True,Correct
+q_01092,Other,relevant,A,0.29296696,0.6,False,Error
+q_01455,Acknowledgment,irrelevant,A,0.21983021,0.26666666666666666,True,Correct
+q_01705,Language change,relevant,A,0.05501294,1.0,True,Correct
+q_01655,OSS,irrelevant,A,0.18243617,0.4666666666666667,True,Correct
+q_00685,Medical,relevant,A,0.2751513,1.0,True,Correct
+q_00990,Automated message,irrelevant,A,0.29865474,1.0,True,Correct
+q_00177,Other,relevant,A,0.03625381,0.4,True,Correct
+q_01695,Language change,relevant,A,0.026864648,0.13333333333333333,True,Correct
+q_01098,Other,relevant,A,0.07004315,0.4,True,Correct
+q_00942,Medical,relevant,A,0.14781189,1.0,True,Correct
+q_00793,Medical,relevant,A,0.5247737,1.0,True,Correct
+q_00435,Medical,relevant,A,0.11125803,0.9333333333333333,True,Correct
+q_00008,Greeting,irrelevant,A,0.10849571,0.26666666666666666,True,Correct
+q_00472,Medical,relevant,A,0.26579654,0.0,True,Correct
+q_01634,OSS,irrelevant,A,0.33433366,0.13333333333333333,True,Correct
+q_01338,Acknowledgment,irrelevant,A,0.019110203,0.9333333333333333,True,Correct
+q_00855,Medical,relevant,A,0.28392315,0.8666666666666667,True,Correct
+q_00172,Acknowledgment,irrelevant,A,0.12760675,0.9333333333333333,True,Correct
+q_00547,Medical,relevant,A,0.040599942,0.6666666666666666,True,Correct
+q_01478,Feedback,relevant,A,0.20728755,0.2,True,Correct
+q_01615,OSS,irrelevant,A,0.21709341,0.06666666666666667,True,Correct
+q_01329,Acknowledgment,irrelevant,A,0.23730147,1.0,True,Correct
+q_01551,OSS,irrelevant,A,0.47017008,0.4666666666666667,True,Correct
+q_00115,Acknowledgment,irrelevant,A,0.015894055,0.8,True,Correct
+q_01796,Date,relevant,A,0.16105771,1.0,True,Correct
+q_01286,Acknowledgment,irrelevant,A,0.08387023,1.0,True,Correct
+q_00464,Medical,relevant,A,0.28938997,0.9333333333333333,True,Correct
+q_00148,Acknowledgment,irrelevant,A,0.15841615,1.0,True,Correct
+q_01278,Acknowledgment,irrelevant,A,0.23913348,0.8666666666666667,True,Correct
+q_00510,Medical,relevant,A,0.25309205,0.9333333333333333,True,Correct
+q_01332,Acknowledgment,irrelevant,A,0.37123275,0.13333333333333333,False,Error
+q_00229,Spam,irrelevant,A,0.5056605,0.5333333333333333,True,Correct
+q_00462,Medical,relevant,A,0.15576369,0.8666666666666667,True,Correct
+q_01380,Acknowledgment,irrelevant,A,0.4816814,0.5333333333333333,True,Correct
+q_01040,Medical,relevant,A,0.33920574,1.0,True,Correct
+q_01479,Acknowledgment,irrelevant,A,0.12499702,1.0,True,Correct
+q_00075,Greeting,irrelevant,A,0.05476916,0.6666666666666666,True,Correct
+q_00014,Greeting,irrelevant,A,0.086836934,0.8666666666666667,True,Correct
+q_01598,OSS,irrelevant,A,0.13626981,0.06666666666666667,False,Error
+q_00135,Acknowledgment,irrelevant,A,0.21733081,0.4666666666666667,True,Correct
+q_01699,Language change,relevant,A,0.07719064,0.8,True,Correct
+q_01689,Language change,relevant,A,0.120321035,0.7333333333333333,True,Correct
+q_01590,OSS,irrelevant,A,0.2564512,0.2,True,Correct
+q_01567,OSS,irrelevant,A,0.04316616,1.0,True,Correct
+q_01712,Language change,relevant,A,0.25544602,0.7333333333333333,True,Correct
+q_00180,Acknowledgment,irrelevant,A,0.16479188,1.0,True,Correct
+q_00757,Medical,relevant,A,0.40195143,1.0,True,Correct
+q_00758,Medical,relevant,A,0.3558792,0.9333333333333333,True,Correct
+q_00339,Medical,relevant,A,0.24261379,0.8666666666666667,True,Correct
+q_00842,Medical,relevant,A,0.118597984,0.9333333333333333,True,Correct
+q_01164,Acknowledgment,irrelevant,A,0.14550275,1.0,True,Correct
+q_00535,Medical,relevant,A,0.022235751,0.9333333333333333,True,Correct
+q_01205,Acknowledgment,irrelevant,A,0.059048057,0.8,True,Correct
+q_00663,Medical,relevant,A,0.33875084,0.8,True,Correct
+q_00807,Medical,relevant,A,0.20953739,1.0,True,Correct
+q_00595,Medical,relevant,A,0.14882451,0.7333333333333333,True,Correct
+q_01049,Spam,irrelevant,A,0.53160787,0.0,True,Correct
+q_01637,OSS,irrelevant,A,0.22833121,0.2,True,Correct
+q_01610,OSS,irrelevant,A,0.38112605,0.5333333333333333,True,Correct
+q_00786,Medical,relevant,A,0.29356652,1.0,True,Correct
+q_00813,Medical,relevant,A,0.5491812,0.7333333333333333,True,Correct
+q_01595,OSS,irrelevant,A,0.45608622,0.6666666666666666,True,Correct
+q_00856,Medical,relevant,A,0.2744618,0.26666666666666666,True,Correct
+q_01502,Acknowledgment,irrelevant,A,0.06709278,0.6,True,Correct
+q_00441,Medical,relevant,A,0.40773225,0.8,True,Correct
+q_00117,Other,relevant,A,0.026324093,0.13333333333333333,True,Correct
+q_01413,Acknowledgment,irrelevant,A,0.034267128,0.8666666666666667,True,Correct
+q_00190,Acknowledgment,irrelevant,A,0.2342999,0.9333333333333333,True,Correct
+q_01301,Acknowledgment,irrelevant,A,0.19528085,0.9333333333333333,True,Correct
+q_00576,Medical,relevant,A,0.16540158,1.0,True,Correct
+q_00201,Other,relevant,A,0.34159344,0.26666666666666666,True,Correct
+q_00360,Medical,relevant,A,0.32136595,1.0,True,Correct
+q_00277,Language change,relevant,A,0.15599728,1.0,True,Correct
+q_01079,Medical,relevant,A,0.24544948,0.7333333333333333,True,Correct
+q_00700,Medical,relevant,A,0.32181406,1.0,True,Correct
+q_01546,OSS,irrelevant,A,0.19154596,0.8666666666666667,True,Correct
+q_00958,Medical,relevant,A,0.20146453,0.9333333333333333,True,Correct
+q_00600,Medical,relevant,A,0.45841932,0.9333333333333333,True,Correct
+q_01805,Date,relevant,A,0.047593713,1.0,True,Correct
+q_01778,Delivery confirmation,relevant,A,0.14975214,0.6666666666666666,True,Correct
+q_01336,Acknowledgment,irrelevant,A,0.0067698956,0.6,True,Correct
+q_01104,Other,relevant,A,0.3939194,0.5333333333333333,True,Correct
+q_01543,OSS,irrelevant,A,0.2585891,0.7333333333333333,True,Correct
+q_00319,Language change,relevant,A,0.21225566,1.0,True,Correct
+q_01082,Medical,relevant,A,0.22585064,0.6666666666666666,True,Correct
+q_00784,Medical,relevant,A,0.3417567,1.0,True,Correct
+q_01099,Other,relevant,A,0.030740857,0.5333333333333333,True,Correct
+q_01503,Acknowledgment,irrelevant,A,0.018692434,0.9333333333333333,True,Correct
+q_01365,Acknowledgment,irrelevant,A,0.10767901,0.8666666666666667,True,Correct
+q_01027,Medical,relevant,A,0.17019749,0.9333333333333333,True,Correct
+q_00962,Medical,relevant,A,0.0850175,0.8,True,Correct
+q_00782,Medical,relevant,A,0.421286,1.0,True,Correct
+q_00754,Medical,relevant,A,0.28268492,1.0,True,Correct
+q_01703,Language change,relevant,A,0.07719064,0.9333333333333333,True,Correct
+q_01249,Acknowledgment,irrelevant,A,0.09501135,0.9333333333333333,True,Correct
+q_00851,Medical,relevant,A,0.3899638,0.7333333333333333,True,Correct
+q_01052,Other,relevant,A,0.03507316,0.4666666666666667,True,Correct
+q_01334,Acknowledgment,irrelevant,A,0.029498577,0.9333333333333333,True,Correct
+q_00272,Language change,relevant,A,0.24698114,1.0,True,Correct
+q_01225,Acknowledgment,irrelevant,A,0.17601228,0.9333333333333333,True,Correct
+q_00574,Medical,relevant,A,0.13097525,0.8666666666666667,True,Correct
+q_00588,Medical,relevant,A,0.36247754,0.9333333333333333,True,Correct
+q_01010,Date,relevant,A,0.047593713,1.0,True,Correct
+q_00264,Language change,relevant,A,0.16219449,0.7333333333333333,True,Correct
+q_01714,Delivery confirmation,relevant,A,0.31497473,0.7333333333333333,True,Correct
+q_00932,Medical,relevant,A,0.4626155,1.0,True,Correct
+q_00235,Language change,relevant,A,0.033866763,0.4666666666666667,True,Correct
+q_00983,Automated message,irrelevant,A,0.42800826,0.9333333333333333,True,Correct
+q_01481,Feedback,relevant,A,0.17021108,0.6,True,Correct
+q_00863,Medical,relevant,A,0.36171603,1.0,True,Correct
+q_01030,Date,relevant,A,0.3105759,1.0,True,Correct
+q_00534,Medical,relevant,A,0.06401813,0.5333333333333333,True,Correct
+q_00080,Greeting,irrelevant,A,0.3043685,0.8,True,Correct
+q_01547,OSS,irrelevant,A,0.31053424,0.8,True,Correct
+q_00770,Medical,relevant,A,0.407879,1.0,True,Correct
+q_00722,Medical,relevant,A,0.22993231,1.0,True,Correct
+q_01730,Delivery confirmation,relevant,A,0.32612413,1.0,True,Correct
+q_01435,Feedback,relevant,A,0.18242466,0.0,True,Correct
+q_00626,Medical,relevant,A,0.20878935,1.0,True,Correct
+q_01685,Language change,relevant,A,0.036533594,1.0,True,Correct
+q_01764,Delivery confirmation,relevant,A,0.10390037,1.0,True,Correct
+q_01441,Acknowledgment,irrelevant,A,0.22691238,1.0,True,Correct
+q_00036,Greeting,irrelevant,A,0.17007542,0.9333333333333333,True,Correct
+q_00450,Medical,relevant,A,0.13440168,0.8666666666666667,True,Correct
+q_01660,OSS,irrelevant,A,0.2868349,0.13333333333333333,True,Correct
+q_01107,Other,relevant,A,0.09268558,0.5333333333333333,True,Correct
+q_00680,Medical,relevant,A,0.29813176,1.0,True,Correct
+q_01186,Acknowledgment,irrelevant,A,0.19971806,0.7333333333333333,True,Correct
+q_00023,Greeting,irrelevant,A,0.13557827,0.9333333333333333,True,Correct
+q_00947,Medical,relevant,A,0.35951763,0.6666666666666666,True,Correct
+q_01605,OSS,irrelevant,A,0.48486668,0.2,True,Correct
+q_01400,Acknowledgment,irrelevant,A,0.0067698956,0.7333333333333333,True,Correct
+q_00606,Medical,relevant,A,0.05774504,0.7333333333333333,True,Correct
+q_01133,Acknowledgment,irrelevant,A,0.12104392,0.8666666666666667,True,Correct
+q_01161,Delivery confirmation,relevant,A,0.12769556,0.06666666666666667,True,Correct
+q_01499,Feedback,relevant,A,0.023509026,0.4666666666666667,True,Correct
+q_00011,Greeting,irrelevant,A,0.194727,0.3333333333333333,True,Correct
+q_00599,Medical,relevant,A,0.051511645,0.7333333333333333,True,Correct
+q_00529,Medical,relevant,A,0.028221846,0.4666666666666667,True,Correct
+q_00567,Medical,relevant,A,0.23657787,0.7333333333333333,True,Correct
+q_00426,Medical,relevant,A,0.2612388,0.8,True,Correct
+q_00543,Medical,relevant,A,0.08867723,1.0,True,Correct
+q_00067,Greeting,irrelevant,A,0.0630579,0.9333333333333333,True,Correct
+q_01097,Other,relevant,A,0.2100352,0.8,True,Correct
+q_00388,Medical,relevant,A,0.055503964,0.6,True,Correct
+q_00334,Medical,relevant,A,0.18617445,0.9333333333333333,True,Correct
+q_00087,Greeting,irrelevant,A,0.016166687,0.8666666666666667,True,Correct
+q_01191,Acknowledgment,irrelevant,A,0.026032507,1.0,True,Correct
+q_01419,Acknowledgment,irrelevant,A,0.18833292,0.3333333333333333,True,Correct
+q_01214,Feedback,relevant,A,0.3090645,1.0,True,Correct
+q_01247,Acknowledgment,irrelevant,A,0.34578538,0.8666666666666667,True,Correct
+q_00532,Medical,relevant,A,0.059969485,0.8666666666666667,True,Correct
+q_00568,Medical,relevant,A,0.03216082,0.7333333333333333,True,Correct
+q_01067,Other,relevant,A,0.13183445,0.4,True,Correct
+q_01290,Acknowledgment,irrelevant,A,0.2984169,1.0,True,Correct
+q_00114,Other,relevant,A,0.07261467,0.4666666666666667,True,Correct
+q_00105,Other,relevant,A,0.2531197,0.8,True,Correct
+q_00675,Medical,relevant,A,0.416205,0.9333333333333333,True,Correct
+q_00634,Medical,relevant,A,0.20248163,0.8,True,Correct
+q_00572,Medical,relevant,A,0.030436695,0.7333333333333333,True,Correct
+q_01788,Delivery confirmation,relevant,A,0.21402943,0.6666666666666666,True,Correct
+q_00159,Acknowledgment,irrelevant,A,0.14934623,0.7333333333333333,True,Correct
+q_01486,Feedback,relevant,A,0.24555528,0.7333333333333333,True,Correct
+q_01748,Delivery confirmation,relevant,A,0.1982646,0.8,True,Correct
+q_01527,Delivery confirmation,relevant,A,0.23556834,0.8,True,Correct
+q_01544,OSS,irrelevant,A,0.35558033,0.6666666666666666,True,Correct
+q_00452,Medical,relevant,A,0.13192987,0.7333333333333333,True,Correct
+q_01550,Other,relevant,A,0.2319715,0.6666666666666666,True,Correct
+q_01662,OSS,irrelevant,A,0.58372366,0.3333333333333333,False,Error
+q_01410,Acknowledgment,irrelevant,A,0.225474,0.5333333333333333,True,Correct
+q_01350,Feedback,relevant,A,0.19431734,0.7333333333333333,True,Correct
+q_01176,Acknowledgment,irrelevant,A,0.30851728,0.2,True,Correct
+q_01558,OSS,irrelevant,A,0.2915764,0.4,True,Correct
+q_01682,Language change,relevant,A,0.26677108,1.0,True,Correct
+q_01733,Delivery confirmation,relevant,A,0.110078394,1.0,True,Correct
+q_00127,Acknowledgment,irrelevant,A,0.07192111,0.9333333333333333,True,Correct
+q_00134,Acknowledgment,irrelevant,A,0.095369935,0.9333333333333333,True,Correct
+q_01690,Language change,relevant,A,0.30308086,1.0,True,Correct
+q_00371,Medical,relevant,A,0.28829563,0.7333333333333333,True,Correct
+q_01084,Other,relevant,A,0.40156722,0.3333333333333333,True,Correct
+q_01259,Acknowledgment,irrelevant,A,0.104239464,1.0,True,Correct
+q_00835,Medical,relevant,A,0.47511423,1.0,True,Correct
+q_01359,Acknowledgment,irrelevant,A,0.03621757,0.9333333333333333,True,Correct
+q_01251,Acknowledgment,irrelevant,A,0.14028692,0.9333333333333333,True,Correct
+q_00244,Language change,relevant,A,0.07881212,0.9333333333333333,True,Correct
+q_00578,Medical,relevant,A,0.43130893,0.9333333333333333,True,Correct
+q_00003,Greeting,irrelevant,A,0.03567499,0.9333333333333333,True,Correct
+q_01238,Acknowledgment,irrelevant,A,0.04184079,1.0,True,Correct
+q_01602,Other,relevant,A,0.36556566,0.4666666666666667,False,Error
+q_00956,Medical,relevant,A,0.14831829,0.4666666666666667,True,Correct
+q_01490,Acknowledgment,irrelevant,A,0.16193163,1.0,True,Correct
+q_00095,Acknowledgment,irrelevant,A,0.037544727,0.7333333333333333,True,Correct
+q_00812,Medical,relevant,A,0.47654688,0.8666666666666667,True,Correct
+q_01727,Delivery confirmation,relevant,A,0.28552616,1.0,True,Correct
+q_00298,Language change,relevant,A,0.21157181,1.0,True,Correct
+q_00057,Greeting,irrelevant,A,0.25932837,0.9333333333333333,True,Correct
+q_00539,Medical,relevant,A,0.44903964,0.9333333333333333,True,Correct
+q_01623,OSS,irrelevant,A,0.28917181,1.0,True,Correct
+q_01279,Acknowledgment,irrelevant,A,0.34833074,0.9333333333333333,True,Correct
+q_00449,Medical,relevant,A,0.2016679,1.0,True,Correct
+q_01458,Acknowledgment,irrelevant,A,0.1316222,0.4,True,Correct
+q_00744,Medical,relevant,A,0.33565074,1.0,True,Correct
+q_00725,Medical,relevant,A,0.47311455,1.0,True,Correct
+q_00789,Medical,relevant,A,0.37831038,1.0,True,Correct
+q_01694,Language change,relevant,A,0.09359717,0.9333333333333333,True,Correct
+q_00052,Greeting,irrelevant,A,0.11093837,0.6,True,Correct
+q_01366,Acknowledgment,irrelevant,A,0.024201334,0.6,True,Correct
+q_00223,Spam,irrelevant,A,0.4261521,0.7333333333333333,True,Correct
+q_00240,Language change,relevant,A,0.06658065,1.0,True,Correct
+q_00991,Automated message,irrelevant,A,0.2987771,1.0,True,Correct
+q_01462,Feedback,relevant,A,0.34578538,0.5333333333333333,True,Correct
+q_00684,Medical,relevant,A,0.27505118,0.8666666666666667,True,Correct
+q_00977,Automated message,irrelevant,A,0.32417738,1.0,True,Correct
+q_00791,Medical,relevant,A,0.35806865,1.0,True,Correct
+q_00269,Language change,relevant,A,0.08766985,1.0,True,Correct
+q_01056,Other,relevant,A,0.1597786,0.26666666666666666,True,Correct
+q_00433,Medical,relevant,A,0.25895047,1.0,True,Correct
+q_00101,Other,relevant,A,0.05073905,0.4,True,Correct
+q_00923,Medical,relevant,A,0.07203412,0.9333333333333333,True,Correct
+q_01093,Other,relevant,A,0.020950615,0.4666666666666667,True,Correct
+q_01178,Acknowledgment,irrelevant,A,0.104239464,1.0,True,Correct
+q_00156,Acknowledgment,irrelevant,A,0.20314908,0.8666666666666667,True,Correct
+q_01721,Delivery confirmation,relevant,A,0.13332164,0.8,True,Correct
+q_01211,Acknowledgment,irrelevant,A,0.053774178,0.8,True,Correct
+q_01415,Feedback,relevant,A,0.010939479,0.6,True,Correct
+q_01799,Date,relevant,A,0.17661417,0.8,True,Correct
+q_01237,Acknowledgment,irrelevant,A,0.052545667,1.0,True,Correct
+q_01036,Date,relevant,A,0.1860205,0.8666666666666667,True,Correct
+q_00511,Medical,relevant,A,0.31158996,0.9333333333333333,True,Correct
+q_00295,Language change,relevant,A,0.1669007,1.0,True,Correct
+q_00716,Medical,relevant,A,0.31327564,0.9333333333333333,True,Correct
+q_01343,Acknowledgment,irrelevant,A,0.018811464,1.0,True,Correct
+q_00296,Language change,relevant,A,0.23277068,1.0,True,Correct
+q_01033,Date,relevant,A,0.10603559,1.0,True,Correct
+q_01022,Date,relevant,A,0.1687274,1.0,True,Correct
+q_01004,Automated message,irrelevant,A,0.16032052,0.9333333333333333,True,Correct
+q_00608,Medical,relevant,A,0.22582835,0.8666666666666667,True,Correct
+q_00644,Medical,relevant,A,0.3425008,0.7333333333333333,True,Correct
+q_00429,Medical,relevant,A,0.24806601,0.7333333333333333,True,Correct
+q_00261,Language change,relevant,A,0.10094309,0.9333333333333333,True,Correct
+q_00579,Medical,relevant,A,0.08229649,0.8666666666666667,True,Correct
+q_00322,Language change,relevant,A,0.034218967,0.6,True,Correct
+q_00631,Medical,relevant,A,0.19532484,1.0,True,Correct
+q_00502,Medical,relevant,A,0.18242705,0.8666666666666667,True,Correct
+q_00305,Language change,relevant,A,0.15877211,1.0,True,Correct
+q_00378,Medical,relevant,A,0.27029973,1.0,True,Correct
+q_01669,Language change,relevant,A,0.13353992,1.0,True,Correct
+q_00861,Medical,relevant,A,0.26966298,0.9333333333333333,True,Correct
+q_00908,Medical,relevant,A,0.31996572,0.9333333333333333,True,Correct
+q_00084,Greeting,irrelevant,A,0.097853065,0.9333333333333333,True,Correct
+q_00611,Medical,relevant,A,0.21949065,1.0,True,Correct
+q_00287,Language change,relevant,A,0.19320357,1.0,True,Correct
+q_01561,OSS,irrelevant,A,0.04316616,1.0,True,Correct
+q_00448,Medical,relevant,A,0.11513162,1.0,True,Correct
+q_01646,Other,relevant,A,0.23899192,0.4666666666666667,True,Correct
+q_00200,Acknowledgment,irrelevant,A,0.27696937,0.6666666666666666,True,Correct
+q_01591,OSS,irrelevant,A,0.6209086,0.06666666666666667,True,Correct
+q_01014,Date,relevant,A,0.37235284,1.0,True,Correct
+q_01015,Date,relevant,A,0.10130501,0.9333333333333333,True,Correct
+q_01750,Delivery confirmation,relevant,A,0.24147367,1.0,True,Correct
+q_00852,Medical,relevant,A,0.110194445,0.8666666666666667,True,Correct
+q_00290,Language change,relevant,A,0.02112341,1.0,True,Correct
+q_01215,Acknowledgment,irrelevant,A,0.3315059,1.0,True,Correct
+q_00985,Automated message,irrelevant,A,0.36035365,0.9333333333333333,True,Correct
+q_01794,Date,relevant,A,0.1982646,0.6666666666666666,True,Correct
+q_00217,Spam,irrelevant,A,0.4261521,0.4,True,Correct
+q_00944,Medical,relevant,A,0.2905379,1.0,True,Correct
+q_00489,Medical,relevant,A,0.28278708,1.0,True,Correct
+q_00922,Medical,relevant,A,0.34213102,1.0,True,Correct
+q_01466,Medical,relevant,A,0.26491457,0.7333333333333333,True,Correct
+q_01121,Acknowledgment,irrelevant,A,0.29270202,0.9333333333333333,True,Correct
+q_01683,Language change,relevant,A,0.025595427,0.9333333333333333,True,Correct
+q_00242,Language change,relevant,A,0.051115394,0.6666666666666666,True,Correct
+q_01746,Delivery confirmation,relevant,A,0.14975214,0.8,True,Correct
+q_00778,Medical,relevant,A,0.42910552,1.0,True,Correct
+q_00561,Medical,relevant,A,0.08867723,1.0,True,Correct
+q_01009,Date,relevant,A,0.2264778,1.0,True,Correct
+q_01181,Acknowledgment,irrelevant,A,0.25917315,0.8666666666666667,True,Correct
+q_01424,Acknowledgment,irrelevant,A,0.18567151,0.26666666666666666,True,Correct
+q_01367,Acknowledgment,irrelevant,A,0.24671221,0.5333333333333333,True,Correct
+q_01287,Feedback,relevant,A,0.34833074,0.2,True,Correct
+q_01508,Acknowledgment,irrelevant,A,0.2232002,0.8666666666666667,True,Correct
+q_00122,Acknowledgment,irrelevant,A,0.091845036,0.9333333333333333,True,Correct
+q_01438,Acknowledgment,irrelevant,A,0.15846694,0.3333333333333333,True,Correct
+q_01434,Acknowledgment,irrelevant,A,0.1316222,0.5333333333333333,True,Correct
+q_01557,OSS,irrelevant,A,0.37873423,0.26666666666666666,True,Correct
+q_00490,Medical,relevant,A,0.2811349,1.0,True,Correct
+q_00797,Medical,relevant,A,0.29450262,1.0,True,Correct
+q_00077,Greeting,irrelevant,A,0.07943249,0.6666666666666666,True,Correct
+q_00394,Medical,relevant,A,0.12538803,1.0,True,Correct
+q_00803,Medical,relevant,A,0.41586745,1.0,True,Correct
+q_01691,Language change,relevant,A,0.07828629,0.9333333333333333,True,Correct
+q_00741,Medical,relevant,A,0.35200584,1.0,True,Correct
+q_00695,Medical,relevant,A,0.11612421,0.8666666666666667,True,Correct
+q_01573,OSS,irrelevant,A,0.18549025,0.4,True,Correct
+q_00224,Spam,irrelevant,A,0.56069934,0.8,True,Correct
+q_00628,Medical,relevant,A,0.2942984,0.9333333333333333,True,Correct
+q_00373,Medical,relevant,A,0.3084507,0.8,True,Correct
+q_01729,Delivery confirmation,relevant,A,0.15632206,1.0,True,Correct
+q_00253,Language change,relevant,A,0.09599686,0.8666666666666667,True,Correct
+q_00794,Medical,relevant,A,0.3756932,1.0,True,Correct
+q_00662,Medical,relevant,A,0.33150458,1.0,True,Correct
+q_00699,Medical,relevant,A,0.3696009,1.0,True,Correct
+q_01020,Date,relevant,A,0.18227434,1.0,True,Correct
+q_01341,Acknowledgment,irrelevant,A,0.018290281,0.5333333333333333,False,Error
+q_00140,Acknowledgment,irrelevant,A,0.15495026,0.8,True,Correct
+q_00913,Medical,relevant,A,0.048544288,0.9333333333333333,True,Correct
+q_01268,Acknowledgment,irrelevant,A,0.053781748,1.0,True,Correct
+q_01088,Medical,relevant,A,0.17019749,0.9333333333333333,True,Correct
+q_01469,Acknowledgment,irrelevant,A,0.16524881,1.0,True,Correct
+q_01797,Date,relevant,A,0.17661417,0.8,True,Correct
+q_01487,Acknowledgment,irrelevant,A,0.09041357,0.26666666666666666,True,Correct
+q_00904,Medical,relevant,A,0.18910336,1.0,True,Correct
+q_00926,Medical,relevant,A,0.120984614,0.9333333333333333,True,Correct
+q_00780,Medical,relevant,A,0.25656456,1.0,True,Correct
+q_01698,Language change,relevant,A,0.07881212,0.9333333333333333,True,Correct
+q_00113,Greeting,irrelevant,A,0.05476916,0.4666666666666667,True,Correct
+q_01347,Acknowledgment,irrelevant,A,0.06826103,0.9333333333333333,True,Correct
+q_00872,Medical,relevant,A,0.09115863,0.9333333333333333,True,Correct
+q_01183,Acknowledgment,irrelevant,A,0.17823815,0.9333333333333333,True,Correct
+q_00798,Medical,relevant,A,0.29590225,1.0,True,Correct
+q_01635,OSS,irrelevant,A,0.31053424,0.9333333333333333,True,Correct
+q_01154,Acknowledgment,irrelevant,A,0.09195173,1.0,True,Correct
+q_01500,Acknowledgment,irrelevant,A,0.04214841,0.9333333333333333,True,Correct
+q_01201,Acknowledgment,irrelevant,A,0.019877672,1.0,True,Correct
+q_00666,Medical,relevant,A,0.21226048,1.0,True,Correct
+q_01411,Feedback,relevant,A,0.36360192,0.6666666666666666,True,Correct
+q_00384,Medical,relevant,A,0.052072585,0.6,True,Correct
+q_00387,Medical,relevant,A,0.26117158,0.9333333333333333,True,Correct
+q_00406,Medical,relevant,A,0.18065822,0.9333333333333333,True,Correct
+q_00385,Medical,relevant,A,0.36379987,0.8666666666666667,True,Correct
+q_00347,Medical,relevant,A,0.18331528,0.8666666666666667,True,Correct
+q_00553,Medical,relevant,A,0.0789299,0.7333333333333333,True,Correct
+q_00571,Medical,relevant,A,0.14934623,0.4666666666666667,True,Correct
+q_01241,Acknowledgment,irrelevant,A,0.23730147,1.0,True,Correct
+q_01717,Delivery confirmation,relevant,A,0.24754727,1.0,True,Correct
+q_00815,Medical,relevant,A,0.43825233,1.0,True,Correct
+q_00141,Acknowledgment,irrelevant,A,0.073109984,0.4666666666666667,True,Correct
+q_01210,Acknowledgment,irrelevant,A,0.24086845,0.9333333333333333,True,Correct
+q_00660,Medical,relevant,A,0.19532484,1.0,True,Correct
+q_00834,Medical,relevant,A,0.36679763,0.8,True,Correct
+q_00379,Medical,relevant,A,0.3664738,1.0,True,Correct
+q_00316,Language change,relevant,A,0.4687624,0.9333333333333333,True,Correct
+q_00325,Language change,relevant,A,0.039416373,0.8666666666666667,True,Correct
+q_00370,Medical,relevant,A,0.31873727,0.7333333333333333,True,Correct
+q_00601,Medical,relevant,A,0.053477705,0.7333333333333333,True,Correct
+q_01566,OSS,irrelevant,A,0.295408,0.8,True,Correct
+q_01624,OSS,irrelevant,A,0.20668632,0.9333333333333333,True,Correct
+q_00451,Medical,relevant,A,0.24790668,1.0,True,Correct
+q_01168,Feedback,relevant,A,0.2528931,0.7333333333333333,True,Correct
+q_00943,Medical,relevant,A,0.29290485,1.0,True,Correct
+q_01297,Acknowledgment,irrelevant,A,0.2660699,0.8666666666666667,True,Correct
+q_00094,Greeting,irrelevant,A,0.093961,0.8666666666666667,True,Correct
+q_01141,Medical,relevant,A,0.24592066,0.13333333333333333,True,Correct
+q_00171,Acknowledgment,irrelevant,A,0.33353716,0.26666666666666666,True,Correct
+q_00509,Medical,relevant,A,0.44243932,0.6666666666666666,True,Correct
+q_01713,Delivery confirmation,relevant,A,0.121667445,1.0,True,Correct
+q_01774,Delivery confirmation,relevant,A,0.14727163,0.6666666666666666,True,Correct
+q_00086,Greeting,irrelevant,A,0.18206954,0.9333333333333333,True,Correct
+q_00846,Medical,relevant,A,0.29356623,0.8666666666666667,True,Correct
+q_01621,OSS,irrelevant,A,0.2465241,1.0,True,Correct
+q_00145,Acknowledgment,irrelevant,A,0.05068314,0.8666666666666667,True,Correct
+q_00906,Medical,relevant,A,0.120984614,0.8666666666666667,True,Correct
+q_01582,OSS,irrelevant,A,0.37412477,0.2,True,Correct
+q_00356,Medical,relevant,A,0.27029973,1.0,True,Correct
+q_01722,Delivery confirmation,relevant,A,0.30181015,0.5333333333333333,True,Correct
+q_01668,Other,relevant,A,0.093666375,0.4,True,Correct
+q_00818,Medical,relevant,A,0.47311455,0.9333333333333333,True,Correct
+q_00742,Medical,relevant,A,0.20128822,1.0,True,Correct
+q_00805,Medical,relevant,A,0.49242485,0.9333333333333333,True,Correct
+q_00266,Language change,relevant,A,0.0785414,1.0,True,Correct
+q_00204,Acknowledgment,irrelevant,A,0.07767707,0.7333333333333333,True,Correct
+q_00366,Medical,relevant,A,0.0384928,0.5333333333333333,True,Correct
+q_01296,Acknowledgment,irrelevant,A,0.23191512,1.0,True,Correct
+q_00247,Language change,relevant,A,0.114192605,0.6666666666666666,True,Correct
+q_00391,Medical,relevant,A,0.3692299,0.8666666666666667,True,Correct
+q_01042,Spam,irrelevant,A,0.3193698,0.6666666666666666,True,Correct
+q_00945,Medical,relevant,A,0.11019665,0.7333333333333333,True,Correct
+q_01620,OSS,irrelevant,A,0.4732895,0.4,True,Correct
+q_00383,Medical,relevant,A,0.19545269,0.9333333333333333,True,Correct
+q_00533,Medical,relevant,A,0.21522677,0.6666666666666666,True,Correct
+q_01344,Acknowledgment,irrelevant,A,0.047029138,1.0,True,Correct
+q_00268,Language change,relevant,A,0.02112341,1.0,True,Correct
+q_00825,Medical,relevant,A,0.16322422,1.0,True,Correct
+q_00291,Language change,relevant,A,0.23963654,0.9333333333333333,True,Correct
+q_00814,Medical,relevant,A,0.42977846,1.0,True,Correct
+q_01265,Feedback,relevant,A,0.32383227,0.4,True,Correct
+q_01146,Feedback,relevant,A,0.18946326,0.8666666666666667,True,Correct
+q_01766,Delivery confirmation,relevant,A,0.023919702,0.4666666666666667,True,Correct
+q_01491,Greeting,irrelevant,A,0.2528926,1.0,True,Correct
+q_00678,Medical,relevant,A,0.11521256,1.0,True,Correct
+q_00071,Greeting,irrelevant,A,0.02548182,0.8,True,Correct
+q_01106,OSS,irrelevant,A,0.4077747,0.13333333333333333,True,Correct
+q_01117,Acknowledgment,irrelevant,A,0.17970109,0.9333333333333333,True,Correct
+q_01619,OSS,irrelevant,A,0.1418997,0.2,True,Correct
+q_01318,Acknowledgment,irrelevant,A,0.040700734,1.0,True,Correct
+q_00591,Medical,relevant,A,0.11798096,0.6666666666666666,True,Correct
+q_01188,Acknowledgment,irrelevant,A,0.040165782,1.0,True,Correct
+q_01560,OSS,irrelevant,A,0.4210651,0.26666666666666666,True,Correct
+q_01115,Feedback,relevant,A,0.05974996,0.4666666666666667,True,Correct
+q_01437,Acknowledgment,irrelevant,A,0.22226697,1.0,True,Correct
+q_00966,Automated message,irrelevant,A,0.30994493,1.0,True,Correct
+q_00902,Medical,relevant,A,0.02344507,0.3333333333333333,True,Correct
+q_00975,Automated message,irrelevant,A,0.330312,0.8666666666666667,True,Correct
+q_01193,Acknowledgment,irrelevant,A,0.23731434,1.0,True,Correct
+q_01402,Acknowledgment,irrelevant,A,0.42988598,0.9333333333333333,True,Correct
+q_00538,Medical,relevant,A,0.3371439,0.9333333333333333,True,Correct
+q_00639,Medical,relevant,A,0.5529276,0.6,True,Correct
+q_00896,Medical,relevant,A,0.2928244,0.6,True,Correct
+q_00243,Language change,relevant,A,0.076012254,1.0,True,Correct
+q_01005,Automated message,irrelevant,A,0.547956,0.9333333333333333,True,Correct
+q_00701,Medical,relevant,A,0.15661252,0.9333333333333333,True,Correct
+q_00995,Automated message,irrelevant,A,0.29865474,0.9333333333333333,True,Correct
+q_01656,Other,relevant,A,0.3154074,0.6666666666666666,True,Correct
+q_00496,Medical,relevant,A,0.24421668,0.8,True,Correct
+q_00672,Medical,relevant,A,0.22964287,1.0,True,Correct
+q_01077,Other,relevant,A,0.26652658,0.5333333333333333,False,Error
+q_00792,Medical,relevant,A,0.548025,0.9333333333333333,True,Correct
+q_00768,Medical,relevant,A,0.41260123,0.9333333333333333,True,Correct
+q_01085,Medical,relevant,A,0.297471,0.8666666666666667,True,Correct
+q_01202,Acknowledgment,irrelevant,A,0.14550275,1.0,True,Correct
+q_01138,Acknowledgment,irrelevant,A,0.119977295,0.3333333333333333,True,Correct
+q_00743,Medical,relevant,A,0.3560087,1.0,True,Correct
+q_00857,Medical,relevant,A,0.1246469,0.8,True,Correct
+q_00007,Other,relevant,A,0.16791993,0.6666666666666666,True,Correct
+q_01585,OSS,irrelevant,A,0.23096001,0.3333333333333333,True,Correct
+q_01539,Feedback,relevant,A,0.1906327,0.9333333333333333,True,Correct
+q_01165,Feedback,relevant,A,0.22059768,1.0,True,Correct
+q_00257,Language change,relevant,A,0.41814184,1.0,True,Correct
+q_00702,Medical,relevant,A,0.14781189,0.8666666666666667,True,Correct
+q_00996,Automated message,irrelevant,A,0.27897227,1.0,True,Correct
+q_00386,Medical,relevant,A,0.3971231,0.8,True,Correct
+q_01492,Feedback,relevant,A,0.4495998,1.0,True,Correct
+q_00405,Medical,relevant,A,0.07149577,0.6666666666666666,True,Correct
+q_00274,Language change,relevant,A,0.025595427,1.0,True,Correct
+q_00251,Language change,relevant,A,0.036533594,1.0,True,Correct
+q_01509,Feedback,relevant,A,0.024791598,0.4,True,Correct
+q_00711,Medical,relevant,A,0.2709059,0.9333333333333333,True,Correct
+q_00346,Medical,relevant,A,0.2820527,1.0,True,Correct
+q_00879,Medical,relevant,A,0.14095378,1.0,True,Correct
+q_01688,Language change,relevant,A,0.11795169,0.6666666666666666,True,Correct
+q_01740,Delivery confirmation,relevant,A,0.117305994,1.0,True,Correct
+q_01531,Acknowledgment,irrelevant,A,0.028627694,0.6666666666666666,True,Correct
+q_01382,Acknowledgment,irrelevant,A,0.027115107,1.0,True,Correct
+q_00968,Automated message,irrelevant,A,0.0012668371,0.9333333333333333,True,Correct
+q_00431,Medical,relevant,A,0.20483541,0.8666666666666667,True,Correct
+q_00173,Acknowledgment,irrelevant,A,0.010443151,0.6666666666666666,True,Correct
+q_00870,Medical,relevant,A,0.1954925,0.9333333333333333,True,Correct
+q_00605,Medical,relevant,A,0.20042944,1.0,True,Correct
+q_00144,Other,relevant,A,0.35187632,0.4666666666666667,True,Correct
+q_01659,Other,relevant,A,0.23096001,0.4666666666666667,True,Correct
+q_00066,Greeting,irrelevant,A,0.33584845,0.6666666666666666,True,Correct
+q_00527,Medical,relevant,A,0.18573499,0.9333333333333333,True,Correct
+q_00363,Medical,relevant,A,0.20430827,0.9333333333333333,True,Correct
+q_00131,Acknowledgment,irrelevant,A,0.22854412,0.9333333333333333,True,Correct
+q_00409,Medical,relevant,A,0.18759406,0.9333333333333333,True,Correct
+q_01123,Acknowledgment,irrelevant,A,0.032161117,1.0,True,Correct
+q_01744,Delivery confirmation,relevant,A,0.3414055,0.8,True,Correct
+q_00546,Medical,relevant,A,0.34502047,0.9333333333333333,True,Correct
+q_00916,Medical,relevant,A,0.3451677,0.6666666666666666,True,Correct
+q_00061,Greeting,irrelevant,A,0.016166687,0.9333333333333333,True,Correct
+q_00035,Greeting,irrelevant,A,0.03567499,0.9333333333333333,True,Correct
+q_01451,Acknowledgment,irrelevant,A,0.17111367,1.0,True,Correct
+q_00042,Greeting,irrelevant,A,0.162364,0.8,True,Correct
+q_01696,Language change,relevant,A,0.15877211,1.0,True,Correct
+q_00607,Medical,relevant,A,0.19046795,0.8666666666666667,True,Correct
+q_00176,Acknowledgment,irrelevant,A,0.11496717,0.5333333333333333,True,Correct
+q_00211,Spam,irrelevant,A,0.540434,0.7333333333333333,True,Correct
+q_01069,Other,relevant,A,0.32362616,0.5333333333333333,True,Correct
+q_01348,Acknowledgment,irrelevant,A,0.018933594,0.8666666666666667,True,Correct
+q_00132,Other,relevant,A,0.03625381,0.4,True,Correct
+q_00761,Medical,relevant,A,0.47705662,0.8,True,Correct
+q_00526,Medical,relevant,A,0.20071286,0.8,True,Correct
+q_01055,Other,relevant,A,0.22209698,0.6,True,Correct
+q_00396,Medical,relevant,A,0.4924149,0.9333333333333333,True,Correct
+q_01790,Delivery confirmation,relevant,A,0.026252985,0.5333333333333333,True,Correct
+q_00053,Greeting,irrelevant,A,0.20292485,0.8666666666666667,True,Correct
+q_01383,Acknowledgment,irrelevant,A,0.08114314,0.8666666666666667,True,Correct
+q_01043,Spam,irrelevant,A,0.5948908,0.26666666666666666,True,Correct
+q_00078,Greeting,irrelevant,A,0.3004166,0.7333333333333333,True,Correct
+q_00836,Medical,relevant,A,0.18759406,1.0,True,Correct
+q_01025,Date,relevant,A,0.17872965,0.9333333333333333,True,Correct
+q_00779,Medical,relevant,A,0.20601267,1.0,True,Correct
+q_01616,OSS,irrelevant,A,0.33584845,0.6666666666666666,True,Correct
+q_01618,OSS,irrelevant,A,0.34703672,0.4,True,Correct
+q_01414,Delivery confirmation,relevant,A,0.2014898,0.4666666666666667,True,Correct
+q_01739,Delivery confirmation,relevant,A,0.17786396,1.0,True,Correct
+q_00461,Medical,relevant,A,0.31349766,1.0,True,Correct
+q_00614,Medical,relevant,A,0.04096067,0.8,True,Correct
+q_00762,Medical,relevant,A,0.47379625,1.0,True,Correct
+q_00665,Medical,relevant,A,0.33503902,0.9333333333333333,True,Correct
+q_00689,Medical,relevant,A,0.44784242,0.4,True,Correct
+q_00001,Greeting,irrelevant,A,0.33994007,0.26666666666666666,True,Correct
+q_00594,Medical,relevant,A,0.038736343,0.9333333333333333,True,Correct
+q_00862,Medical,relevant,A,0.37089133,0.6666666666666666,True,Correct
+q_01742,Delivery confirmation,relevant,A,0.20666826,1.0,True,Correct
+q_00909,Medical,relevant,A,0.45878518,1.0,True,Correct
+q_00181,Acknowledgment,irrelevant,A,0.26503575,0.9333333333333333,True,Correct
+q_00318,Language change,relevant,A,0.04690683,0.9333333333333333,True,Correct
+q_01770,Delivery confirmation,relevant,A,0.23913288,0.8,True,Correct
+q_01545,OSS,irrelevant,A,0.1479286,0.13333333333333333,True,Correct
+q_00963,Medical,relevant,A,0.10390037,1.0,True,Correct
+q_01666,Language change,relevant,A,0.057207465,0.4,True,Correct
+q_01644,OSS,irrelevant,A,0.14690888,0.6,True,Correct
+q_01065,Other,relevant,A,0.11405635,0.3333333333333333,True,Correct
+q_01600,OSS,irrelevant,A,0.42691386,0.7333333333333333,True,Correct
+q_00358,Medical,relevant,A,0.3743254,1.0,True,Correct
+q_01192,Acknowledgment,irrelevant,A,0.2039448,0.3333333333333333,True,Correct
+q_01207,Feedback,relevant,A,0.49675143,0.26666666666666666,True,Correct
+q_00136,Acknowledgment,irrelevant,A,0.046239853,0.8,True,Correct
+q_01142,Acknowledgment,irrelevant,A,0.15360105,1.0,True,Correct
+q_00516,Medical,relevant,A,0.3753503,0.6,True,Correct
+q_00597,Medical,relevant,A,0.3064832,0.8666666666666667,True,Correct
+q_00424,Medical,relevant,A,0.12794721,0.9333333333333333,True,Correct
+q_00735,Medical,relevant,A,0.25656456,0.8666666666666667,True,Correct
+q_01497,Acknowledgment,irrelevant,A,0.07781714,0.8,True,Correct
+q_01169,Acknowledgment,irrelevant,A,0.20728755,0.9333333333333333,True,Correct
+q_00617,Medical,relevant,A,0.1776408,0.8,True,Correct
+q_00748,Medical,relevant,A,0.14103448,0.8,True,Correct
+q_00248,Language change,relevant,A,0.05684185,1.0,True,Correct
+q_01127,Acknowledgment,irrelevant,A,0.023509026,0.6,True,Correct
+q_01023,Date,relevant,A,0.23014063,0.9333333333333333,True,Correct
+q_00099,Acknowledgment,irrelevant,A,0.013348341,0.9333333333333333,True,Correct
+q_00625,Medical,relevant,A,0.29162884,0.8666666666666667,True,Correct
+q_01331,Acknowledgment,irrelevant,A,0.030047834,0.8,True,Correct
+q_00939,Medical,relevant,A,0.23064321,0.7333333333333333,True,Correct
+q_01443,Acknowledgment,irrelevant,A,0.36528623,0.7333333333333333,True,Correct
+q_01053,Medical,relevant,A,0.11497939,0.4666666666666667,True,Correct
+q_00402,OSS,irrelevant,A,0.35558033,0.7333333333333333,True,Correct
+q_00246,Language change,relevant,A,0.051115394,0.8666666666666667,True,Correct
+q_00899,Medical,relevant,A,0.3704775,0.7333333333333333,True,Correct
+q_00772,Medical,relevant,A,0.3743254,1.0,True,Correct
+q_01787,Delivery confirmation,relevant,A,0.1893766,0.6,True,Correct
+q_00979,Automated message,irrelevant,A,0.0012668371,0.9333333333333333,True,Correct
+q_00980,Automated message,irrelevant,A,0.33329433,0.9333333333333333,True,Correct
+q_01269,Medical,relevant,A,0.33849424,1.0,True,Correct
+q_01687,Language change,relevant,A,0.07641369,1.0,True,Correct
+q_00038,Acknowledgment,irrelevant,A,0.15402639,1.0,True,Correct
+q_00493,Medical,relevant,A,0.18542379,0.9333333333333333,True,Correct
+q_01372,Acknowledgment,irrelevant,A,0.010939479,0.4,True,Correct
+q_00079,Greeting,irrelevant,A,0.2786101,0.9333333333333333,True,Correct
+q_01526,Acknowledgment,irrelevant,A,0.02344507,0.5333333333333333,True,Correct
+q_01677,Language change,relevant,A,0.05684185,1.0,True,Correct
+q_01046,Other,relevant,A,0.08698785,0.5333333333333333,True,Correct
+q_00531,Medical,relevant,A,0.16705352,0.7333333333333333,True,Correct
+q_00311,Language change,relevant,A,0.08766985,1.0,True,Correct
+q_01174,Acknowledgment,irrelevant,A,0.26130557,0.9333333333333333,True,Correct
+q_00486,Medical,relevant,A,0.21446007,1.0,True,Correct
+q_00530,Medical,relevant,A,0.058695734,0.8,True,Correct
+q_00877,Medical,relevant,A,0.28468895,0.9333333333333333,True,Correct
+q_01734,Delivery confirmation,relevant,A,0.40503073,0.2,True,Correct
+q_01599,OSS,irrelevant,A,0.0329448,0.6666666666666666,True,Correct
+q_00827,Medical,relevant,A,0.32759452,1.0,True,Correct
+q_01298,Acknowledgment,irrelevant,A,0.10980785,1.0,True,Correct
+q_00843,Medical,relevant,A,0.31615072,0.9333333333333333,True,Correct
+q_01625,OSS,irrelevant,A,0.052416444,0.6666666666666666,True,Correct
+q_00556,Medical,relevant,A,0.19022441,0.9333333333333333,True,Correct
+q_01425,Medical,relevant,A,0.33849424,1.0,True,Correct
+q_01011,Date,relevant,A,0.1210593,1.0,True,Correct
+q_01627,OSS,irrelevant,A,0.09268558,0.26666666666666666,True,Correct
+q_00833,Medical,relevant,A,0.5218358,0.9333333333333333,True,Correct
+q_00397,Medical,relevant,A,0.052093625,0.8,True,Correct
+q_01330,Acknowledgment,irrelevant,A,0.09382635,1.0,True,Correct
+q_00767,Medical,relevant,A,0.28268492,0.9333333333333333,True,Correct
+q_00837,Medical,relevant,A,0.1597786,0.8,True,Correct
+q_00984,Automated message,irrelevant,A,0.25975007,1.0,True,Correct
+q_01389,Feedback,relevant,A,0.18875808,0.8666666666666667,True,Correct
+q_00118,Acknowledgment,irrelevant,A,0.1137957,0.4666666666666667,True,Correct
+q_00412,Medical,relevant,A,0.21283323,0.8,True,Correct
+q_00563,Medical,relevant,A,0.49800354,0.8,True,Correct
+q_00168,Acknowledgment,irrelevant,A,0.34419107,0.6,True,Correct
+q_00808,Medical,relevant,A,0.46099538,1.0,True,Correct
+q_00060,Greeting,irrelevant,A,0.13911092,0.6,True,Correct
+q_00368,Medical,relevant,A,0.16934466,0.7333333333333333,True,Correct
+q_01105,Medical,relevant,A,0.28775454,0.7333333333333333,True,Correct
+q_00809,Medical,relevant,A,0.14103448,0.8666666666666667,True,Correct
+q_00773,Other,relevant,A,0.38777155,1.0,True,Correct
+q_00824,Medical,relevant,A,0.33217335,1.0,True,Correct
+q_01759,Delivery confirmation,relevant,A,0.11040163,1.0,True,Correct
+q_01674,Language change,relevant,A,0.1270467,0.8666666666666667,True,Correct
+q_01054,Other,relevant,A,0.25307822,0.6,True,Correct
+q_01197,Acknowledgment,irrelevant,A,0.04184079,1.0,True,Correct
+q_00864,Medical,relevant,A,0.22357059,0.8666666666666667,True,Correct
+q_01122,Acknowledgment,irrelevant,A,0.32291627,0.8666666666666667,True,Correct
+q_01206,Acknowledgment,irrelevant,A,0.16524881,0.9333333333333333,True,Correct
+q_01305,Acknowledgment,irrelevant,A,0.15993863,0.8666666666666667,False,Error
+q_01803,Date,relevant,A,0.17872965,0.8666666666666667,True,Correct
+q_00919,Medical,relevant,A,0.1954925,0.8,True,Correct
+q_00709,Medical,relevant,A,0.30608356,1.0,True,Correct
+q_00015,Greeting,irrelevant,A,0.015662372,1.0,True,Correct
+q_01074,Other,relevant,A,0.32585692,0.7333333333333333,True,Correct
+q_01108,Medical,relevant,A,0.026252985,0.4666666666666667,True,Correct
+q_01756,Delivery confirmation,relevant,A,0.3652104,1.0,True,Correct
+q_01470,Acknowledgment,irrelevant,A,0.19166052,0.9333333333333333,True,Correct
+q_00146,Acknowledgment,irrelevant,A,0.20286047,1.0,True,Correct
+q_01583,OSS,irrelevant,A,0.26560444,0.8666666666666667,True,Correct
+q_01309,Acknowledgment,irrelevant,A,0.3081305,0.4666666666666667,False,Error
+q_01295,Acknowledgment,irrelevant,A,0.053774178,0.8,True,Correct
+q_00900,Medical,relevant,A,0.18803382,0.8,True,Correct
+q_00018,Greeting,irrelevant,A,0.08696306,0.4666666666666667,True,Correct
+q_01465,Acknowledgment,irrelevant,A,0.25092208,0.9333333333333333,True,Correct
+q_01532,Acknowledgment,irrelevant,A,0.05555582,0.5333333333333333,True,Correct
+q_01671,Language change,relevant,A,0.22056621,0.9333333333333333,True,Correct
+q_01263,Acknowledgment,irrelevant,A,0.20029843,0.9333333333333333,True,Correct
+q_00270,Language change,relevant,A,0.18057877,1.0,True,Correct
+q_00886,Medical,relevant,A,0.23000485,0.9333333333333333,True,Correct
+q_01199,Acknowledgment,irrelevant,A,0.20387852,1.0,True,Correct
+q_01396,Acknowledgment,irrelevant,A,0.018692434,0.9333333333333333,True,Correct
+q_00100,Acknowledgment,irrelevant,A,0.015894055,0.8,True,Correct
+q_01409,Acknowledgment,irrelevant,A,0.018933594,0.8666666666666667,True,Correct
+q_01232,Acknowledgment,irrelevant,A,0.33249348,0.26666666666666666,True,Correct
+q_01153,Acknowledgment,irrelevant,A,0.115974545,0.4666666666666667,True,Correct
+q_01775,Delivery confirmation,relevant,A,0.18117195,0.8666666666666667,True,Correct
+q_01102,Other,relevant,A,0.0816502,0.6,True,Correct
+q_01262,Acknowledgment,irrelevant,A,0.31492704,1.0,True,Correct
+q_01308,Acknowledgment,irrelevant,A,0.035656095,0.8666666666666667,True,Correct
+q_00337,Medical,relevant,A,0.37143517,0.6,True,Correct
+q_00708,Medical,relevant,A,0.20248163,0.9333333333333333,True,Correct
+q_00867,Medical,relevant,A,0.20666826,1.0,True,Correct
+q_01080,Other,relevant,A,0.50705016,1.0,True,Correct
+q_01324,Feedback,relevant,A,0.057705462,0.13333333333333333,True,Correct
+q_00890,Medical,relevant,A,0.18910336,1.0,True,Correct
+q_01352,Acknowledgment,irrelevant,A,0.029498577,1.0,True,Correct
+q_01101,Other,relevant,A,0.07004315,0.5333333333333333,True,Correct
+q_00392,Medical,relevant,A,0.33834326,0.9333333333333333,True,Correct
+q_01429,Acknowledgment,irrelevant,A,0.25917315,0.8666666666666667,False,Error
+q_00120,Other,relevant,A,0.020950615,0.4,True,Correct
+q_01167,Delivery confirmation,relevant,A,0.16643703,0.8,True,Correct
+q_00188,Acknowledgment,irrelevant,A,0.14377964,0.6,False,Error
+q_01538,Feedback,relevant,A,0.2716406,0.7333333333333333,True,Correct
+q_00143,Acknowledgment,irrelevant,A,0.06371832,0.6,True,Correct
+q_01649,OSS,irrelevant,A,0.2343123,0.26666666666666666,True,Correct
+q_00353,Medical,relevant,A,0.0384928,0.8,True,Correct
+q_00442,Medical,relevant,A,0.12794721,0.8666666666666667,True,Correct
+q_01604,OSS,irrelevant,A,0.60460746,0.4666666666666667,True,Correct
+q_01132,Acknowledgment,irrelevant,A,0.019877672,1.0,True,Correct
+q_00826,Medical,relevant,A,0.29590225,1.0,True,Correct
+q_00800,Medical,relevant,A,0.29303074,0.9333333333333333,True,Correct
+q_00021,Greeting,irrelevant,A,0.02912736,0.8666666666666667,True,Correct
+q_01200,Acknowledgment,irrelevant,A,0.23764312,0.9333333333333333,True,Correct
+q_00710,Medical,relevant,A,0.3670348,0.8666666666666667,True,Correct
+q_00559,Medical,relevant,A,0.32075602,0.7333333333333333,True,Correct
+q_00670,Medical,relevant,A,0.2072041,0.6666666666666666,True,Correct
+q_01518,Acknowledgment,irrelevant,A,0.011239171,0.5333333333333333,True,Correct
+q_01356,Feedback,relevant,A,0.11163092,0.7333333333333333,True,Correct
+q_01440,Acknowledgment,irrelevant,A,0.35216212,0.8,True,Correct
+q_00760,Medical,relevant,A,0.5164514,0.8666666666666667,True,Correct
+q_01720,Delivery confirmation,relevant,A,0.26729608,1.0,True,Correct
+q_01726,Delivery confirmation,relevant,A,0.1603955,0.8,True,Correct
+q_01189,Acknowledgment,irrelevant,A,0.09501135,0.9333333333333333,True,Correct
+q_00750,Medical,relevant,A,0.39348364,1.0,True,Correct
+q_01208,Acknowledgment,irrelevant,A,0.15884155,0.9333333333333333,True,Correct
+q_00468,Medical,relevant,A,0.16322422,1.0,True,Correct
+q_00694,Medical,relevant,A,0.26302958,1.0,True,Correct
+q_01150,Acknowledgment,irrelevant,A,0.112752855,0.3333333333333333,True,Correct
+q_01433,Delivery confirmation,relevant,A,0.3900149,0.3333333333333333,True,Correct
+q_01184,Acknowledgment,irrelevant,A,0.26840675,0.9333333333333333,True,Correct
+q_00019,Greeting,irrelevant,A,0.12938541,0.9333333333333333,True,Correct
+q_00447,Medical,relevant,A,0.1533289,0.9333333333333333,True,Correct
+q_00696,Medical,relevant,A,0.22993231,1.0,True,Correct
+q_01239,Acknowledgment,irrelevant,A,0.16585016,0.7333333333333333,True,Correct
+q_00362,Medical,relevant,A,0.053169608,0.8666666666666667,True,Correct
+q_00497,Medical,relevant,A,0.41365075,0.7333333333333333,True,Correct
+q_00109,Acknowledgment,irrelevant,A,0.063703775,0.4,True,Correct
+q_00292,Language change,relevant,A,0.19400728,0.9333333333333333,True,Correct
+q_01152,Acknowledgment,irrelevant,A,0.08076346,0.8,True,Correct
+q_01498,Acknowledgment,irrelevant,A,0.031669736,0.8,True,Correct
+q_01094,Other,relevant,A,0.030740857,0.6666666666666666,True,Correct
+q_00714,Medical,relevant,A,0.26529634,1.0,True,Correct
+q_00281,Language change,relevant,A,0.18551344,1.0,True,Correct
+q_01697,Language change,relevant,A,0.04690683,1.0,True,Correct
+q_01678,Language change,relevant,A,0.18057877,1.0,True,Correct
+q_01261,Acknowledgment,irrelevant,A,0.15360105,1.0,True,Correct
+q_01229,Acknowledgment,irrelevant,A,0.053960383,1.0,True,Correct
+q_01523,Feedback,relevant,A,0.11723453,0.6666666666666666,True,Correct
+q_01002,Automated message,irrelevant,A,0.27477384,1.0,True,Correct
+q_00186,Acknowledgment,irrelevant,A,0.041579247,0.9333333333333333,True,Correct
+q_01760,Delivery confirmation,relevant,A,0.30667788,1.0,True,Correct
+q_00390,Medical,relevant,A,0.1646468,0.4666666666666667,True,Correct
+q_01736,Delivery confirmation,relevant,A,0.1893766,0.8,True,Correct
+q_00230,Spam,irrelevant,A,0.43942118,0.4666666666666667,True,Correct
+q_01504,Acknowledgment,irrelevant,A,0.018811464,0.9333333333333333,True,Correct
+q_00633,Medical,relevant,A,0.4076352,0.7333333333333333,True,Correct
+q_01063,Other,relevant,A,0.18268704,0.13333333333333333,True,Correct
+q_00419,Medical,relevant,A,0.055503964,0.7333333333333333,True,Correct
+q_00013,Greeting,irrelevant,A,0.02912736,0.8666666666666667,True,Correct
+q_00730,Medical,relevant,A,0.6328546,0.9333333333333333,True,Correct
+q_01480,Acknowledgment,irrelevant,A,0.16193163,1.0,True,Correct
+q_00795,Medical,relevant,A,0.34712517,1.0,True,Correct
+q_01314,Acknowledgment,irrelevant,A,0.2338289,0.2,True,Correct
+q_00039,Greeting,irrelevant,A,0.039103746,0.8,True,Correct
+q_00108,Other,relevant,A,0.063703775,0.4,True,Correct
+q_01405,Acknowledgment,irrelevant,A,0.24185932,0.5333333333333333,True,Correct
+q_00603,Medical,relevant,A,0.41089475,0.7333333333333333,True,Correct
+q_01313,Acknowledgment,irrelevant,A,0.2039448,0.3333333333333333,True,Correct
+q_00328,Medical,relevant,A,0.30044353,1.0,True,Correct
+q_00658,Medical,relevant,A,0.41219676,0.9333333333333333,True,Correct
+q_00545,Medical,relevant,A,0.3301726,1.0,True,Correct
+q_00376,Medical,relevant,A,0.32663798,1.0,True,Correct
+q_00635,Medical,relevant,A,0.34466815,1.0,True,Correct
+q_00407,Medical,relevant,A,0.14095378,1.0,True,Correct
+q_01066,Medical,relevant,A,0.19616616,0.7333333333333333,True,Correct
+q_00110,Acknowledgment,irrelevant,A,0.040700734,1.0,True,Correct
+q_00659,Medical,relevant,A,0.30608356,0.8,True,Correct
+q_00811,Medical,relevant,A,0.47017384,1.0,True,Correct
+q_01525,Acknowledgment,irrelevant,A,0.05416727,1.0,True,Correct
+q_01095,Other,relevant,A,0.2646491,0.4666666666666667,True,Correct
+q_01376,OSS,irrelevant,A,0.052793145,0.5333333333333333,False,Error
+q_00517,Medical,relevant,A,0.3306327,1.0,True,Correct
+q_01477,Feedback,relevant,A,0.3156054,0.9333333333333333,True,Correct
+q_01126,Acknowledgment,irrelevant,A,0.16479188,1.0,True,Correct
+q_00049,Greeting,irrelevant,A,0.039103746,0.7333333333333333,True,Correct
+q_01071,Other,relevant,A,0.29437053,0.4,True,Correct
+q_01333,Acknowledgment,irrelevant,A,0.032505393,0.9333333333333333,True,Correct
+q_01075,Medical,relevant,A,0.31783056,1.0,True,Correct
+q_01704,Language change,relevant,A,0.100566685,0.8,True,Correct
+q_01528,Acknowledgment,irrelevant,A,0.028627694,0.8,True,Correct
+q_00403,Medical,relevant,A,0.41943204,0.9333333333333333,True,Correct
+q_00507,Medical,relevant,A,0.20483541,1.0,True,Correct
+q_00420,Medical,relevant,A,0.21529984,0.8666666666666667,True,Correct
+q_01765,Delivery confirmation,relevant,A,0.36018687,0.6666666666666666,True,Correct
+q_01391,Acknowledgment,irrelevant,A,0.057705462,0.7333333333333333,True,Correct
+q_01700,Language change,relevant,A,0.048377693,1.0,True,Correct
+q_00641,Medical,relevant,A,0.12945002,0.9333333333333333,True,Correct
+q_01529,Medical,relevant,A,0.44147497,0.6666666666666666,True,Correct
+q_00598,Medical,relevant,A,0.08472949,1.0,True,Correct
+q_00692,Medical,relevant,A,0.29813707,0.7333333333333333,True,Correct
+q_01218,Acknowledgment,irrelevant,A,0.1963104,1.0,True,Correct
+q_00584,Medical,relevant,A,0.33232087,1.0,True,Correct
+q_00056,Greeting,irrelevant,A,0.12359166,0.8,True,Correct
+q_00070,Greeting,irrelevant,A,0.28793544,0.8666666666666667,True,Correct
+q_00558,Medical,relevant,A,0.37686777,0.8,True,Correct
+q_00500,Medical,relevant,A,0.11026466,0.6666666666666666,True,Correct
+q_01586,OSS,irrelevant,A,0.2564512,0.4,True,Correct
+q_01679,Language change,relevant,A,0.06712961,1.0,True,Correct
+q_00126,Acknowledgment,irrelevant,A,0.117610216,0.4666666666666667,True,Correct
+q_01209,Acknowledgment,irrelevant,A,0.14028692,0.9333333333333333,True,Correct
+q_00859,Medical,relevant,A,0.3692299,1.0,True,Correct
+q_01580,OSS,irrelevant,A,0.20773733,0.8,True,Correct
+q_01473,Acknowledgment,irrelevant,A,0.27950418,0.4,True,Correct
+q_00031,Greeting,irrelevant,A,0.086836934,1.0,True,Correct
+q_01379,Acknowledgment,irrelevant,A,0.22328162,0.4,False,Error
+q_01793,Date,relevant,A,0.18497199,1.0,True,Correct
+q_00301,Language change,relevant,A,0.17624378,1.0,True,Correct
+q_00158,Acknowledgment,irrelevant,A,0.074609995,0.9333333333333333,True,Correct
+q_00352,Medical,relevant,A,0.057087302,0.7333333333333333,True,Correct
+q_00399,Medical,relevant,A,0.07541102,0.26666666666666666,True,Correct
+q_00715,Medical,relevant,A,0.22777951,1.0,True,Correct
+q_00970,Automated message,irrelevant,A,0.25975007,1.0,True,Correct
+q_01217,Acknowledgment,irrelevant,A,0.1827141,1.0,True,Correct
+q_00041,Greeting,irrelevant,A,0.19493186,0.8666666666666667,True,Correct
+q_00375,Medical,relevant,A,0.4090644,1.0,True,Correct
+q_01051,Medical,relevant,A,0.16078448,0.8666666666666667,True,Correct
+q_00679,Medical,relevant,A,0.31117916,0.7333333333333333,True,Correct
+q_00948,Medical,relevant,A,0.31932998,0.8666666666666667,True,Correct
+q_01650,OSS,irrelevant,A,0.38824004,0.26666666666666666,True,Correct
+q_01243,Acknowledgment,irrelevant,A,0.11341816,0.8666666666666667,True,Correct
+q_01289,Acknowledgment,irrelevant,A,0.26975286,0.8666666666666667,True,Correct
+q_00428,Medical,relevant,A,0.0789299,0.8,True,Correct
+q_01484,Feedback,relevant,A,0.4682657,0.3333333333333333,False,Error
+q_00566,Medical,relevant,A,0.022235751,1.0,True,Correct
+q_00513,Medical,relevant,A,0.43729347,0.9333333333333333,True,Correct
+q_00400,Medical,relevant,A,0.2343595,0.8666666666666667,True,Correct
+q_00043,Greeting,irrelevant,A,0.015662372,1.0,True,Correct
+q_00810,Medical,relevant,A,0.19686413,1.0,True,Correct
+q_00840,Medical,relevant,A,0.5515606,0.9333333333333333,True,Correct
+q_01399,Delivery confirmation,relevant,A,0.24809206,1.0,True,Correct
+q_01741,Delivery confirmation,relevant,A,0.17297363,0.4,True,Correct
+q_01260,Acknowledgment,irrelevant,A,0.24082327,0.8666666666666667,True,Correct
+q_01461,Acknowledgment,irrelevant,A,0.27486342,0.8666666666666667,True,Correct
+q_00930,Medical,relevant,A,0.37686777,0.8666666666666667,True,Correct
+q_00349,Medical,relevant,A,0.39180613,1.0,True,Correct
+q_01024,Date,relevant,A,0.16906738,0.9333333333333333,True,Correct
+q_00191,Acknowledgment,irrelevant,A,0.010443151,0.7333333333333333,True,Correct
+q_00192,Acknowledgment,irrelevant,A,0.54246384,0.5333333333333333,True,Correct
+q_00161,Other,relevant,A,0.03625381,0.5333333333333333,True,Correct
+q_01519,Medical,relevant,A,0.12646067,0.6,True,Correct
+q_01597,OSS,irrelevant,A,0.21866423,0.8666666666666667,True,Correct
+q_01768,Delivery confirmation,relevant,A,0.13452727,0.7333333333333333,True,Correct
+q_00425,Medical,relevant,A,0.11125803,0.9333333333333333,True,Correct
+q_00309,Language change,relevant,A,0.25860798,1.0,True,Correct
+q_00137,Acknowledgment,irrelevant,A,0.02947241,0.9333333333333333,True,Correct
+q_01535,Acknowledgment,irrelevant,A,0.18833292,0.5333333333333333,True,Correct
+q_00002,Greeting,irrelevant,A,0.018981695,0.9333333333333333,True,Correct
+q_01353,Acknowledgment,irrelevant,A,0.27951467,0.8666666666666667,True,Correct
+q_01016,Date,relevant,A,0.10130501,1.0,True,Correct
+q_00320,Language change,relevant,A,0.039416373,0.9333333333333333,True,Correct
+q_00130,Acknowledgment,irrelevant,A,0.13234949,0.9333333333333333,True,Correct
+q_00051,Greeting,irrelevant,A,0.40519994,0.4,True,Correct
+q_01749,Delivery confirmation,relevant,B,0.16174686,0.8,True,Correct
+q_01282,Feedback,relevant,B,0.52815664,0.13333333333333333,True,Correct
+q_01630,OSS,irrelevant,B,0.29112518,0.9333333333333333,True,Correct
+q_00293,Language change,relevant,B,0.12812066,1.0,True,Correct
+q_01349,Acknowledgment,irrelevant,B,0.087163866,1.0,True,Correct
+q_00369,Medical,relevant,B,0.34506238,1.0,True,Correct
+q_00214,Spam,irrelevant,B,0.42603636,0.5333333333333333,True,Correct
+q_00681,Medical,relevant,B,0.14045274,1.0,True,Correct
+q_00736,Medical,relevant,B,0.27236575,1.0,True,Correct
+q_00022,Greeting,irrelevant,B,0.10817963,1.0,True,Correct
+q_00982,Automated message,irrelevant,B,0.33007586,0.8,True,Correct
+q_01432,Acknowledgment,irrelevant,B,0.031036258,1.0,True,Correct
+q_00512,Medical,relevant,B,0.4235338,1.0,True,Correct
+q_00682,Medical,relevant,B,0.36650872,0.8666666666666667,True,Correct
+q_00974,Automated message,irrelevant,B,0.28367847,1.0,True,Correct
+q_00228,Spam,irrelevant,B,0.4535498,0.4666666666666667,True,Correct
+q_00999,Automated message,irrelevant,B,0.4320367,0.06666666666666667,True,Correct
+q_01587,OSS,irrelevant,B,0.13510418,0.0,False,Error
+q_01292,Acknowledgment,irrelevant,B,0.28509772,1.0,True,Correct
+q_00175,Acknowledgment,irrelevant,B,0.21004444,1.0,True,Correct
+q_00519,Medical,relevant,B,0.2124027,1.0,True,Correct
+q_00304,Language change,relevant,B,0.15857106,1.0,True,Correct
+q_00273,Language change,relevant,B,0.07832861,1.0,True,Correct
+q_00437,Medical,relevant,B,0.33176965,0.8666666666666667,True,Correct
+q_01204,Acknowledgment,irrelevant,B,0.1999219,1.0,True,Correct
+q_01234,Acknowledgment,irrelevant,B,0.21824658,0.8666666666666667,True,Correct
+q_00215,Spam,irrelevant,B,0.43083405,0.4,True,Correct
+q_01686,Language change,relevant,B,0.12217152,0.7333333333333333,True,Correct
+q_00059,Other,relevant,B,0.42926836,0.4,False,Error
+q_01194,Feedback,relevant,B,0.2325077,1.0,False,Error
+q_00898,Medical,relevant,B,0.3680039,0.8666666666666667,True,Correct
+q_01563,OSS,irrelevant,B,0.38479733,0.6,True,Correct
+q_01472,Acknowledgment,irrelevant,B,0.12727624,0.4,True,Correct
+q_00107,Acknowledgment,irrelevant,B,0.10003734,0.3333333333333333,True,Correct
+q_00044,Greeting,irrelevant,B,0.25996745,0.4,True,Correct
+q_01371,Acknowledgment,irrelevant,B,0.15302509,0.6666666666666666,True,Correct
+q_01763,Delivery confirmation,relevant,B,0.41814518,0.6666666666666666,True,Correct
+q_00232,Spam,irrelevant,B,0.50927967,0.6,True,Correct
+q_00781,Medical,relevant,B,0.1574434,1.0,True,Correct
+q_00820,Medical,relevant,B,0.2490539,1.0,True,Correct
+q_00525,Medical,relevant,B,0.15834832,0.9333333333333333,True,Correct
+q_01642,OSS,irrelevant,B,0.36247087,0.5333333333333333,True,Correct
+q_01724,Delivery confirmation,relevant,B,0.2015925,0.9333333333333333,True,Correct
+q_00929,Medical,relevant,B,0.31882137,1.0,True,Correct
+q_00174,Acknowledgment,irrelevant,B,0.029312372,0.9333333333333333,True,Correct
+q_00006,Greeting,irrelevant,B,0.011366248,1.0,True,Correct
+q_01457,Other,relevant,B,0.15853763,0.6,True,Correct
+q_00586,Medical,relevant,B,0.2929452,0.9333333333333333,True,Correct
+q_01745,Delivery confirmation,relevant,B,0.29813313,0.8666666666666667,True,Correct
+q_00455,Medical,relevant,B,0.2580337,1.0,True,Correct
+q_01294,Acknowledgment,irrelevant,B,0.22291625,1.0,True,Correct
+q_00297,Language change,relevant,B,0.14639443,1.0,True,Correct
+q_01342,Acknowledgment,irrelevant,B,0.3120758,0.5333333333333333,True,Correct
+q_00667,Medical,relevant,B,0.30568314,1.0,True,Correct
+q_00950,Medical,relevant,B,0.38335466,0.8666666666666667,True,Correct
+q_00652,Medical,relevant,B,0.32778788,0.9333333333333333,True,Correct
+q_00740,Medical,relevant,B,0.4954812,1.0,True,Correct
+q_01163,Feedback,relevant,B,0.23725116,0.2,True,Correct
+q_00934,Medical,relevant,B,0.27461445,1.0,True,Correct
+q_01375,Acknowledgment,irrelevant,B,0.1701724,0.4,True,Correct
+q_01166,Acknowledgment,irrelevant,B,0.093826294,0.9333333333333333,True,Correct
+q_00931,Medical,relevant,B,0.41617495,0.8,True,Correct
+q_00417,Medical,relevant,B,0.18552399,1.0,True,Correct
+q_01540,Feedback,relevant,B,0.17417479,0.8,True,Correct
+q_01130,Acknowledgment,irrelevant,B,0.098511815,1.0,True,Correct
+q_00981,Automated message,irrelevant,B,0.05824864,0.9333333333333333,True,Correct
+q_00731,Medical,relevant,B,0.32340407,1.0,True,Correct
+q_00518,Medical,relevant,B,0.13140333,1.0,True,Correct
+q_01270,Acknowledgment,irrelevant,B,0.11774194,1.0,True,Correct
+q_00668,Medical,relevant,B,0.21466285,1.0,True,Correct
+q_01266,Other,relevant,B,0.40948945,0.26666666666666666,True,Correct
+q_00602,Other,relevant,B,0.27076703,0.8,False,Error
+q_00128,Acknowledgment,irrelevant,B,0.20294154,0.5333333333333333,True,Correct
+q_00721,Medical,relevant,B,0.18419594,1.0,True,Correct
+q_01645,OSS,irrelevant,B,0.23894793,0.4666666666666667,True,Correct
+q_01276,Acknowledgment,irrelevant,B,0.02388072,1.0,True,Correct
+q_00873,Medical,relevant,B,0.18487978,1.0,True,Correct
+q_00847,Medical,relevant,B,0.23751843,1.0,True,Correct
+q_00964,Medical,relevant,B,0.13224941,1.0,True,Correct
+q_01111,Other,relevant,B,0.4053806,0.7333333333333333,True,Correct
+q_00341,Medical,relevant,B,0.36288083,0.6666666666666666,True,Correct
+q_00481,Medical,relevant,B,0.44379157,0.8666666666666667,True,Correct
+q_00355,Medical,relevant,B,0.117501736,1.0,True,Correct
+q_00978,Automated message,irrelevant,B,0.50765896,0.6666666666666666,True,Correct
+q_00074,Greeting,irrelevant,B,0.1482299,0.4,True,Correct
+q_00866,Medical,relevant,B,0.2022841,0.6,True,Correct
+q_00637,Medical,relevant,B,0.34472477,0.7333333333333333,True,Correct
+q_01271,Acknowledgment,irrelevant,B,0.1566602,1.0,True,Correct
+q_01476,Feedback,relevant,B,0.3606329,0.8666666666666667,True,Correct
+q_00643,Medical,relevant,B,0.14130825,1.0,True,Correct
+q_01037,Other,relevant,B,0.23145854,0.4,True,Correct
+q_00199,Other,relevant,B,0.21215177,0.4666666666666667,True,Correct
+q_00479,Medical,relevant,B,0.40214646,1.0,True,Correct
+q_00495,Medical,relevant,B,0.085617125,1.0,True,Correct
+q_00609,Medical,relevant,B,0.2571646,0.9333333333333333,True,Correct
+q_01403,Acknowledgment,irrelevant,B,0.13205051,1.0,True,Correct
+q_00207,Acknowledgment,irrelevant,B,0.31349123,0.2,True,Correct
+q_01584,OSS,irrelevant,B,0.34189332,0.4,True,Correct
+q_00169,Acknowledgment,irrelevant,B,0.2795807,0.9333333333333333,True,Correct
+q_01657,OSS,irrelevant,B,0.3388124,1.0,True,Correct
+q_00564,Medical,relevant,B,0.28880715,0.8666666666666667,True,Correct
+q_00434,Medical,relevant,B,0.10774529,1.0,True,Correct
+q_00236,Language change,relevant,B,0.25799644,0.6666666666666666,True,Correct
+q_00382,Medical,relevant,B,0.258947,1.0,True,Correct
+q_01431,Acknowledgment,irrelevant,B,0.0018053055,1.0,True,Correct
+q_01373,Feedback,relevant,B,0.12911409,0.06666666666666667,True,Correct
+q_00359,Medical,relevant,B,0.1864807,1.0,True,Correct
+q_01801,Date,relevant,B,0.068091035,0.9333333333333333,True,Correct
+q_01776,Delivery confirmation,relevant,B,0.38199985,0.7333333333333333,True,Correct
+q_01198,Acknowledgment,irrelevant,B,0.46692753,0.8666666666666667,True,Correct
+q_01315,Feedback,relevant,B,0.23759645,1.0,True,Correct
+q_00398,Medical,relevant,B,0.25448918,0.8666666666666667,True,Correct
+q_01453,Acknowledgment,irrelevant,B,0.14559025,0.3333333333333333,False,Error
+q_00195,Acknowledgment,irrelevant,B,0.104587674,0.9333333333333333,True,Correct
+q_01092,Other,relevant,B,0.07801646,0.7333333333333333,False,Error
+q_01455,Acknowledgment,irrelevant,B,0.21424699,0.13333333333333333,True,Correct
+q_01705,Language change,relevant,B,0.07832861,1.0,True,Correct
+q_01655,OSS,irrelevant,B,0.16052008,0.4,True,Correct
+q_00685,Medical,relevant,B,0.1658839,1.0,True,Correct
+q_00990,Automated message,irrelevant,B,0.30021274,1.0,True,Correct
+q_00177,Other,relevant,B,0.05186099,0.6,True,Correct
+q_01695,Language change,relevant,B,0.02687192,0.9333333333333333,True,Correct
+q_01098,Other,relevant,B,0.13715369,0.6,True,Correct
+q_00942,Medical,relevant,B,0.15051222,1.0,True,Correct
+q_00793,Medical,relevant,B,0.5562778,1.0,True,Correct
+q_00435,Medical,relevant,B,0.11089444,0.9333333333333333,True,Correct
+q_00008,Greeting,irrelevant,B,0.1496526,0.2,True,Correct
+q_00472,Medical,relevant,B,0.3165102,0.0,True,Correct
+q_01634,OSS,irrelevant,B,0.3830905,0.2,True,Correct
+q_01338,Acknowledgment,irrelevant,B,0.07031858,1.0,True,Correct
+q_00855,Medical,relevant,B,0.33176965,1.0,True,Correct
+q_00172,Acknowledgment,irrelevant,B,0.098511815,0.8666666666666667,True,Correct
+q_00547,Medical,relevant,B,0.08409715,0.9333333333333333,True,Correct
+q_01478,Feedback,relevant,B,0.18002474,0.5333333333333333,True,Correct
+q_01615,OSS,irrelevant,B,0.2984739,0.2,True,Correct
+q_01329,Acknowledgment,irrelevant,B,0.25884843,0.4666666666666667,True,Correct
+q_01551,OSS,irrelevant,B,0.44485915,0.5333333333333333,True,Correct
+q_00115,Acknowledgment,irrelevant,B,0.016526282,0.6666666666666666,True,Correct
+q_01796,Date,relevant,B,0.17612576,1.0,True,Correct
+q_01286,Acknowledgment,irrelevant,B,0.07663041,1.0,True,Correct
+q_00464,Medical,relevant,B,0.20734167,0.9333333333333333,True,Correct
+q_00148,Acknowledgment,irrelevant,B,0.110978186,0.9333333333333333,True,Correct
+q_01278,Acknowledgment,irrelevant,B,0.20550084,0.8,True,Correct
+q_00510,Medical,relevant,B,0.1905176,0.8666666666666667,True,Correct
+q_01332,Acknowledgment,irrelevant,B,0.32882738,0.2,False,Error
+q_00229,Spam,irrelevant,B,0.49931717,0.6,True,Correct
+q_00462,Medical,relevant,B,0.22507638,1.0,True,Correct
+q_01380,Acknowledgment,irrelevant,B,0.25889623,0.7333333333333333,True,Correct
+q_01040,Medical,relevant,B,0.3490584,1.0,True,Correct
+q_01479,Acknowledgment,irrelevant,B,0.13144636,1.0,True,Correct
+q_00075,Greeting,irrelevant,B,0.08938068,0.8666666666666667,True,Correct
+q_00014,Greeting,irrelevant,B,0.064339876,0.8666666666666667,True,Correct
+q_01598,OSS,irrelevant,B,0.15617573,0.0,False,Error
+q_00135,Acknowledgment,irrelevant,B,0.41599184,0.5333333333333333,True,Correct
+q_01699,Language change,relevant,B,0.15460837,0.9333333333333333,True,Correct
+q_01689,Language change,relevant,B,0.11541772,0.5333333333333333,True,Correct
+q_01590,OSS,irrelevant,B,0.21251547,0.26666666666666666,True,Correct
+q_01567,OSS,irrelevant,B,0.07075405,0.9333333333333333,True,Correct
+q_01712,Language change,relevant,B,0.26198107,0.6666666666666666,True,Correct
+q_00180,Acknowledgment,irrelevant,B,0.15462619,1.0,True,Correct
+q_00757,Medical,relevant,B,0.3162145,1.0,True,Correct
+q_00758,Medical,relevant,B,0.26186144,1.0,True,Correct
+q_00339,Medical,relevant,B,0.17353857,0.8,True,Correct
+q_00842,Medical,relevant,B,0.06255692,0.8666666666666667,True,Correct
+q_01164,Acknowledgment,irrelevant,B,0.14070976,0.8666666666666667,True,Correct
+q_00535,Medical,relevant,B,0.03478384,0.9333333333333333,True,Correct
+q_01205,Acknowledgment,irrelevant,B,0.045817614,0.8666666666666667,True,Correct
+q_00663,Medical,relevant,B,0.27938598,0.9333333333333333,True,Correct
+q_00807,Medical,relevant,B,0.11734033,1.0,True,Correct
+q_00595,Medical,relevant,B,0.24373913,0.8,True,Correct
+q_01049,Spam,irrelevant,B,0.53997993,0.0,True,Correct
+q_01637,OSS,irrelevant,B,0.25140738,0.13333333333333333,True,Correct
+q_01610,OSS,irrelevant,B,0.3466193,0.5333333333333333,True,Correct
+q_00786,Medical,relevant,B,0.27379543,1.0,True,Correct
+q_00813,Medical,relevant,B,0.46139604,1.0,True,Correct
+q_01595,OSS,irrelevant,B,0.34472477,0.3333333333333333,True,Correct
+q_00856,Medical,relevant,B,0.34982258,0.5333333333333333,True,Correct
+q_01502,Acknowledgment,irrelevant,B,0.2786278,0.8666666666666667,True,Correct
+q_00441,Medical,relevant,B,0.3944068,1.0,True,Correct
+q_00117,Other,relevant,B,0.026385844,0.4,True,Correct
+q_01413,Acknowledgment,irrelevant,B,0.12911409,0.9333333333333333,True,Correct
+q_00190,Acknowledgment,irrelevant,B,0.24264884,1.0,True,Correct
+q_01301,Acknowledgment,irrelevant,B,0.21659106,0.9333333333333333,True,Correct
+q_00576,Medical,relevant,B,0.23024297,0.9333333333333333,True,Correct
+q_00201,Other,relevant,B,0.31150532,0.2,True,Correct
+q_00360,Medical,relevant,B,0.26387006,1.0,True,Correct
+q_00277,Language change,relevant,B,0.17021298,1.0,True,Correct
+q_01079,Medical,relevant,B,0.3808385,0.7333333333333333,True,Correct
+q_00700,Medical,relevant,B,0.25405008,1.0,True,Correct
+q_01546,OSS,irrelevant,B,0.17329872,1.0,True,Correct
+q_00958,Medical,relevant,B,0.08446026,0.9333333333333333,True,Correct
+q_00600,Medical,relevant,B,0.388453,0.8666666666666667,True,Correct
+q_01805,Date,relevant,B,0.036347985,1.0,True,Correct
+q_01778,Delivery confirmation,relevant,B,0.18469214,1.0,True,Correct
+q_01336,Acknowledgment,irrelevant,B,0.02422607,0.9333333333333333,True,Correct
+q_01104,Other,relevant,B,0.4304108,0.8,True,Correct
+q_01543,OSS,irrelevant,B,0.35550475,0.8,True,Correct
+q_00319,Language change,relevant,B,0.09195566,1.0,True,Correct
+q_01082,Medical,relevant,B,0.46071094,0.4666666666666667,True,Correct
+q_00784,Medical,relevant,B,0.29757947,1.0,True,Correct
+q_01099,Other,relevant,B,0.04930848,0.6,True,Correct
+q_01503,Acknowledgment,irrelevant,B,0.053002357,1.0,True,Correct
+q_01365,Acknowledgment,irrelevant,B,0.18905526,1.0,True,Correct
+q_01027,Medical,relevant,B,0.1425544,1.0,True,Correct
+q_00962,Medical,relevant,B,0.31219506,0.9333333333333333,True,Correct
+q_00782,Medical,relevant,B,0.40587682,0.9333333333333333,True,Correct
+q_00754,Medical,relevant,B,0.23712623,1.0,True,Correct
+q_01703,Language change,relevant,B,0.12217152,0.9333333333333333,True,Correct
+q_01249,Acknowledgment,irrelevant,B,0.09681308,1.0,True,Correct
+q_00851,Medical,relevant,B,0.27432132,0.8666666666666667,True,Correct
+q_01052,Other,relevant,B,0.035877585,0.4666666666666667,True,Correct
+q_01334,Acknowledgment,irrelevant,B,0.13877922,1.0,True,Correct
+q_00272,Language change,relevant,B,0.23463887,1.0,True,Correct
+q_01225,Acknowledgment,irrelevant,B,0.24581164,1.0,True,Correct
+q_00574,Medical,relevant,B,0.3366508,0.7333333333333333,True,Correct
+q_00588,Medical,relevant,B,0.24754792,1.0,True,Correct
+q_01010,Date,relevant,B,0.036347985,1.0,True,Correct
+q_00264,Language change,relevant,B,0.071650505,1.0,True,Correct
+q_01714,Delivery confirmation,relevant,B,0.32024372,0.6666666666666666,True,Correct
+q_00932,Medical,relevant,B,0.44101465,1.0,True,Correct
+q_00235,Language change,relevant,B,0.4137386,1.0,True,Correct
+q_00983,Automated message,irrelevant,B,0.37468618,0.9333333333333333,True,Correct
+q_01481,Feedback,relevant,B,0.21102726,0.8666666666666667,True,Correct
+q_00863,Medical,relevant,B,0.18084544,1.0,True,Correct
+q_01030,Date,relevant,B,0.2702781,1.0,True,Correct
+q_00534,Medical,relevant,B,0.46533906,0.9333333333333333,True,Correct
+q_00080,Greeting,irrelevant,B,0.15815961,1.0,True,Correct
+q_01547,OSS,irrelevant,B,0.25542283,0.9333333333333333,True,Correct
+q_00770,Medical,relevant,B,0.27053535,1.0,True,Correct
+q_00722,Medical,relevant,B,0.2542479,1.0,True,Correct
+q_01730,Delivery confirmation,relevant,B,0.21262628,1.0,True,Correct
+q_01435,Feedback,relevant,B,0.15302509,0.13333333333333333,True,Correct
+q_00626,Medical,relevant,B,0.11734033,1.0,True,Correct
+q_01685,Language change,relevant,B,0.10763544,1.0,True,Correct
+q_01764,Delivery confirmation,relevant,B,0.104436934,1.0,True,Correct
+q_01441,Acknowledgment,irrelevant,B,0.16664141,1.0,True,Correct
+q_00036,Greeting,irrelevant,B,0.13744843,0.9333333333333333,True,Correct
+q_00450,Medical,relevant,B,0.1645891,0.9333333333333333,True,Correct
+q_01660,OSS,irrelevant,B,0.19000679,0.0,True,Correct
+q_01107,Other,relevant,B,0.19568437,0.8,True,Correct
+q_00680,Medical,relevant,B,0.31132042,1.0,True,Correct
+q_01186,Acknowledgment,irrelevant,B,0.33840656,0.9333333333333333,True,Correct
+q_00023,Greeting,irrelevant,B,0.1118688,1.0,True,Correct
+q_00947,Medical,relevant,B,0.31787854,0.8,True,Correct
+q_01605,OSS,irrelevant,B,0.5744101,0.06666666666666667,True,Correct
+q_01400,Acknowledgment,irrelevant,B,0.13205051,1.0,True,Correct
+q_00606,Medical,relevant,B,0.26644945,1.0,True,Correct
+q_01133,Acknowledgment,irrelevant,B,0.104587674,0.8666666666666667,True,Correct
+q_01161,Delivery confirmation,relevant,B,0.1877011,0.13333333333333333,True,Correct
+q_01499,Feedback,relevant,B,0.12146175,0.7333333333333333,True,Correct
+q_00011,Greeting,irrelevant,B,0.15815961,1.0,True,Correct
+q_00599,Medical,relevant,B,0.10359192,0.8666666666666667,True,Correct
+q_00529,Medical,relevant,B,0.34134382,1.0,True,Correct
+q_00567,Medical,relevant,B,0.29550922,0.6666666666666666,True,Correct
+q_00426,Medical,relevant,B,0.23868573,0.9333333333333333,True,Correct
+q_00543,Medical,relevant,B,0.03478384,1.0,True,Correct
+q_00067,Greeting,irrelevant,B,0.118356645,0.7333333333333333,True,Correct
+q_01097,Other,relevant,B,0.15057522,0.9333333333333333,True,Correct
+q_00388,Medical,relevant,B,0.18436068,0.8666666666666667,True,Correct
+q_00334,Medical,relevant,B,0.30414408,1.0,True,Correct
+q_00087,Greeting,irrelevant,B,0.022258162,1.0,True,Correct
+q_01191,Acknowledgment,irrelevant,B,0.008090675,1.0,True,Correct
+q_01419,Acknowledgment,irrelevant,B,0.13438004,0.4666666666666667,True,Correct
+q_01214,Feedback,relevant,B,0.2936226,1.0,True,Correct
+q_01247,Acknowledgment,irrelevant,B,0.31548584,0.8666666666666667,True,Correct
+q_00532,Medical,relevant,B,0.11742991,0.8666666666666667,True,Correct
+q_00568,Medical,relevant,B,0.23751843,1.0,True,Correct
+q_01067,Other,relevant,B,0.1814841,0.7333333333333333,True,Correct
+q_01290,Acknowledgment,irrelevant,B,0.19083071,1.0,True,Correct
+q_00114,Other,relevant,B,0.12569332,0.6,True,Correct
+q_00105,Other,relevant,B,0.0714246,0.6666666666666666,True,Correct
+q_00675,Medical,relevant,B,0.3701794,1.0,True,Correct
+q_00634,Medical,relevant,B,0.23317623,0.6666666666666666,True,Correct
+q_00572,Medical,relevant,B,0.25151968,0.8,True,Correct
+q_01788,Delivery confirmation,relevant,B,0.11725569,0.8666666666666667,True,Correct
+q_00159,Acknowledgment,irrelevant,B,0.096760154,0.9333333333333333,True,Correct
+q_01486,Feedback,relevant,B,0.2309838,0.7333333333333333,True,Correct
+q_01748,Delivery confirmation,relevant,B,0.31248194,0.8666666666666667,True,Correct
+q_01527,Delivery confirmation,relevant,B,0.20517272,1.0,True,Correct
+q_01544,OSS,irrelevant,B,0.40468037,0.4666666666666667,True,Correct
+q_00452,Medical,relevant,B,0.12598753,0.8666666666666667,True,Correct
+q_01550,Other,relevant,B,0.25917584,0.6666666666666666,True,Correct
+q_01662,OSS,irrelevant,B,0.72279054,0.5333333333333333,False,Error
+q_01410,Acknowledgment,irrelevant,B,0.28952688,0.26666666666666666,True,Correct
+q_01350,Feedback,relevant,B,0.17025912,0.7333333333333333,True,Correct
+q_01176,Acknowledgment,irrelevant,B,0.2303384,0.3333333333333333,True,Correct
+q_01558,OSS,irrelevant,B,0.1740821,0.9333333333333333,True,Correct
+q_01682,Language change,relevant,B,0.29623973,1.0,True,Correct
+q_01733,Delivery confirmation,relevant,B,0.14115298,1.0,True,Correct
+q_00127,Acknowledgment,irrelevant,B,0.010571718,1.0,True,Correct
+q_00134,Acknowledgment,irrelevant,B,0.16037071,0.9333333333333333,True,Correct
+q_01690,Language change,relevant,B,0.31980914,1.0,True,Correct
+q_00371,Medical,relevant,B,0.25640875,0.8,True,Correct
+q_01084,Other,relevant,B,0.40583104,0.8,True,Correct
+q_01259,Acknowledgment,irrelevant,B,0.08992863,1.0,True,Correct
+q_00835,Medical,relevant,B,0.394297,1.0,True,Correct
+q_01359,Acknowledgment,irrelevant,B,0.07031858,0.8666666666666667,True,Correct
+q_01251,Acknowledgment,irrelevant,B,0.10684848,0.9333333333333333,True,Correct
+q_00244,Language change,relevant,B,0.10753453,0.8666666666666667,True,Correct
+q_00578,Medical,relevant,B,0.26401985,1.0,True,Correct
+q_00003,Greeting,irrelevant,B,0.055604696,1.0,True,Correct
+q_01238,Acknowledgment,irrelevant,B,0.014943838,1.0,True,Correct
+q_01602,Other,relevant,B,0.3118335,0.6666666666666666,False,Error
+q_00956,Medical,relevant,B,0.39422202,0.8666666666666667,True,Correct
+q_01490,Acknowledgment,irrelevant,B,0.14976871,1.0,True,Correct
+q_00095,Acknowledgment,irrelevant,B,0.028505027,0.5333333333333333,True,Correct
+q_00812,Medical,relevant,B,0.34944177,1.0,True,Correct
+q_01727,Delivery confirmation,relevant,B,0.2015925,1.0,True,Correct
+q_00298,Language change,relevant,B,0.23037732,1.0,True,Correct
+q_00057,Greeting,irrelevant,B,0.2607246,1.0,True,Correct
+q_00539,Medical,relevant,B,0.36870283,0.8666666666666667,True,Correct
+q_01623,OSS,irrelevant,B,0.30356145,1.0,True,Correct
+q_01279,Acknowledgment,irrelevant,B,0.32093686,0.9333333333333333,True,Correct
+q_00449,Medical,relevant,B,0.26151168,1.0,True,Correct
+q_01458,Acknowledgment,irrelevant,B,0.15957129,0.4,True,Correct
+q_00744,Medical,relevant,B,0.27601695,1.0,True,Correct
+q_00725,Medical,relevant,B,0.3342629,1.0,True,Correct
+q_00789,Medical,relevant,B,0.20883727,1.0,True,Correct
+q_01694,Language change,relevant,B,0.09705746,1.0,True,Correct
+q_00052,Greeting,irrelevant,B,0.19001341,0.5333333333333333,True,Correct
+q_01366,Acknowledgment,irrelevant,B,0.26262653,0.8666666666666667,True,Correct
+q_00223,Spam,irrelevant,B,0.54428875,0.4666666666666667,True,Correct
+q_00240,Language change,relevant,B,0.1487804,1.0,True,Correct
+q_00991,Automated message,irrelevant,B,0.32803506,0.8666666666666667,True,Correct
+q_01462,Feedback,relevant,B,0.31548584,0.3333333333333333,True,Correct
+q_00684,Medical,relevant,B,0.22281832,0.7333333333333333,True,Correct
+q_00977,Automated message,irrelevant,B,0.23102438,1.0,True,Correct
+q_00791,Medical,relevant,B,0.28634202,1.0,True,Correct
+q_00269,Language change,relevant,B,0.105707765,1.0,True,Correct
+q_01056,Other,relevant,B,0.21262628,0.7333333333333333,True,Correct
+q_00433,Medical,relevant,B,0.12171888,0.8666666666666667,True,Correct
+q_00101,Other,relevant,B,0.08387047,0.6666666666666666,True,Correct
+q_00923,Medical,relevant,B,0.19486511,1.0,True,Correct
+q_01093,Other,relevant,B,0.004520297,0.4666666666666667,True,Correct
+q_01178,Acknowledgment,irrelevant,B,0.08992863,1.0,True,Correct
+q_00156,Acknowledgment,irrelevant,B,0.2539848,0.8,True,Correct
+q_01721,Delivery confirmation,relevant,B,0.19270992,0.8,True,Correct
+q_01211,Acknowledgment,irrelevant,B,0.041259468,0.8666666666666667,True,Correct
+q_01415,Feedback,relevant,B,0.26917076,0.3333333333333333,True,Correct
+q_01799,Date,relevant,B,0.2704563,1.0,True,Correct
+q_01237,Acknowledgment,irrelevant,B,0.080094814,1.0,True,Correct
+q_01036,Date,relevant,B,0.15404916,1.0,True,Correct
+q_00511,Medical,relevant,B,0.287194,0.9333333333333333,True,Correct
+q_00295,Language change,relevant,B,0.24229842,1.0,True,Correct
+q_00716,Medical,relevant,B,0.27327156,0.8666666666666667,True,Correct
+q_01343,Acknowledgment,irrelevant,B,0.04391128,1.0,True,Correct
+q_00296,Language change,relevant,B,0.2991305,1.0,True,Correct
+q_01033,Date,relevant,B,0.105069935,1.0,True,Correct
+q_01022,Date,relevant,B,0.18291628,1.0,True,Correct
+q_01004,Automated message,irrelevant,B,0.26708394,0.3333333333333333,True,Correct
+q_00608,Medical,relevant,B,0.2213605,0.8,True,Correct
+q_00644,Medical,relevant,B,0.28217703,0.9333333333333333,True,Correct
+q_00429,Medical,relevant,B,0.19618428,0.6666666666666666,True,Correct
+q_00261,Language change,relevant,B,0.20454073,0.7333333333333333,True,Correct
+q_00579,Medical,relevant,B,0.12732399,0.8666666666666667,True,Correct
+q_00322,Language change,relevant,B,0.02687192,0.9333333333333333,True,Correct
+q_00631,Medical,relevant,B,0.12738383,1.0,True,Correct
+q_00502,Medical,relevant,B,0.15150595,0.9333333333333333,True,Correct
+q_00305,Language change,relevant,B,0.11358416,1.0,True,Correct
+q_00378,Medical,relevant,B,0.2698835,1.0,True,Correct
+q_01669,Language change,relevant,B,0.1280908,1.0,True,Correct
+q_00861,Medical,relevant,B,0.15529722,0.8666666666666667,True,Correct
+q_00908,Medical,relevant,B,0.429613,0.7333333333333333,True,Correct
+q_00084,Greeting,irrelevant,B,0.14136243,1.0,True,Correct
+q_00611,Medical,relevant,B,0.3353684,1.0,True,Correct
+q_00287,Language change,relevant,B,0.15650135,1.0,True,Correct
+q_01561,OSS,irrelevant,B,0.07075405,1.0,True,Correct
+q_00448,Medical,relevant,B,0.16438764,0.9333333333333333,True,Correct
+q_01646,Other,relevant,B,0.19130439,0.4,True,Correct
+q_00200,Acknowledgment,irrelevant,B,0.15555924,0.8,True,Correct
+q_01591,OSS,irrelevant,B,0.46590853,0.0,True,Correct
+q_01014,Date,relevant,B,0.39429754,1.0,True,Correct
+q_01015,Date,relevant,B,0.15507555,1.0,True,Correct
+q_01750,Delivery confirmation,relevant,B,0.19776833,1.0,True,Correct
+q_00852,Medical,relevant,B,0.19561374,0.8666666666666667,True,Correct
+q_00290,Language change,relevant,B,0.036091566,1.0,True,Correct
+q_01215,Acknowledgment,irrelevant,B,0.24289876,1.0,True,Correct
+q_00985,Automated message,irrelevant,B,0.3700943,0.7333333333333333,True,Correct
+q_01794,Date,relevant,B,0.31248194,0.8,True,Correct
+q_00217,Spam,irrelevant,B,0.55556446,0.4,True,Correct
+q_00944,Medical,relevant,B,0.30414408,1.0,True,Correct
+q_00489,Medical,relevant,B,0.24263996,1.0,True,Correct
+q_00922,Medical,relevant,B,0.44379157,0.8666666666666667,True,Correct
+q_01466,Medical,relevant,B,0.29568982,0.8,True,Correct
+q_01121,Acknowledgment,irrelevant,B,0.3366279,0.6,True,Correct
+q_01683,Language change,relevant,B,0.008106232,1.0,True,Correct
+q_00242,Language change,relevant,B,0.02665627,1.0,True,Correct
+q_01746,Delivery confirmation,relevant,B,0.21621478,1.0,True,Correct
+q_00778,Medical,relevant,B,0.3067419,1.0,True,Correct
+q_00561,Medical,relevant,B,0.06434488,0.9333333333333333,True,Correct
+q_01009,Date,relevant,B,0.15404916,1.0,True,Correct
+q_01181,Acknowledgment,irrelevant,B,0.21084929,0.8,True,Correct
+q_01424,Acknowledgment,irrelevant,B,0.21773869,0.26666666666666666,True,Correct
+q_01367,Acknowledgment,irrelevant,B,0.4863829,0.5333333333333333,True,Correct
+q_01287,Feedback,relevant,B,0.4208367,0.26666666666666666,True,Correct
+q_01508,Acknowledgment,irrelevant,B,0.27582467,0.3333333333333333,True,Correct
+q_00122,Acknowledgment,irrelevant,B,0.09720743,0.9333333333333333,True,Correct
+q_01438,Acknowledgment,irrelevant,B,0.11986685,0.4666666666666667,True,Correct
+q_01434,Acknowledgment,irrelevant,B,0.15957129,0.4,True,Correct
+q_01557,OSS,irrelevant,B,0.32642812,0.26666666666666666,True,Correct
+q_00490,Medical,relevant,B,0.23011136,0.9333333333333333,True,Correct
+q_00797,Medical,relevant,B,0.21466285,1.0,True,Correct
+q_00077,Greeting,irrelevant,B,0.08938068,0.8666666666666667,True,Correct
+q_00394,Medical,relevant,B,0.26656067,1.0,True,Correct
+q_00803,Medical,relevant,B,0.33176053,1.0,True,Correct
+q_01691,Language change,relevant,B,0.110816896,0.8666666666666667,True,Correct
+q_00741,Medical,relevant,B,0.2904352,1.0,True,Correct
+q_00695,Medical,relevant,B,0.15853763,0.7333333333333333,True,Correct
+q_01573,OSS,irrelevant,B,0.2804079,0.26666666666666666,True,Correct
+q_00224,Spam,irrelevant,B,0.4535498,0.6,True,Correct
+q_00628,Medical,relevant,B,0.19486511,1.0,True,Correct
+q_00373,Medical,relevant,B,0.27582467,0.6,True,Correct
+q_01729,Delivery confirmation,relevant,B,0.16526216,0.9333333333333333,True,Correct
+q_00253,Language change,relevant,B,0.119978845,1.0,True,Correct
+q_00794,Medical,relevant,B,0.28073502,1.0,True,Correct
+q_00662,Medical,relevant,B,0.2739526,1.0,True,Correct
+q_00699,Medical,relevant,B,0.22789013,1.0,True,Correct
+q_01020,Date,relevant,B,0.1658653,1.0,True,Correct
+q_01341,Acknowledgment,irrelevant,B,0.29111892,0.3333333333333333,False,Error
+q_00140,Acknowledgment,irrelevant,B,0.23700655,0.8666666666666667,True,Correct
+q_00913,Medical,relevant,B,0.2050016,1.0,True,Correct
+q_01268,Acknowledgment,irrelevant,B,0.024997592,1.0,True,Correct
+q_01088,Medical,relevant,B,0.1425544,0.9333333333333333,True,Correct
+q_01469,Acknowledgment,irrelevant,B,0.086496234,0.9333333333333333,True,Correct
+q_01797,Date,relevant,B,0.32580006,1.0,True,Correct
+q_01487,Acknowledgment,irrelevant,B,0.19517404,0.4666666666666667,True,Correct
+q_00904,Medical,relevant,B,0.20899522,1.0,True,Correct
+q_00926,Medical,relevant,B,0.11540246,0.9333333333333333,True,Correct
+q_00780,Medical,relevant,B,0.33826065,1.0,True,Correct
+q_01698,Language change,relevant,B,0.10753453,1.0,True,Correct
+q_00113,Greeting,irrelevant,B,0.10003734,0.6,True,Correct
+q_01347,Acknowledgment,irrelevant,B,0.2676617,0.9333333333333333,True,Correct
+q_00872,Medical,relevant,B,0.22090292,1.0,True,Correct
+q_01183,Acknowledgment,irrelevant,B,0.20332825,0.9333333333333333,True,Correct
+q_00798,Medical,relevant,B,0.23993659,1.0,True,Correct
+q_01635,OSS,irrelevant,B,0.25542283,0.9333333333333333,True,Correct
+q_01154,Acknowledgment,irrelevant,B,0.09050447,1.0,True,Correct
+q_01500,Acknowledgment,irrelevant,B,0.11065084,1.0,True,Correct
+q_01201,Acknowledgment,irrelevant,B,0.010049343,1.0,True,Correct
+q_00666,Medical,relevant,B,0.18419594,1.0,True,Correct
+q_01411,Feedback,relevant,B,0.37210298,0.9333333333333333,True,Correct
+q_00384,Medical,relevant,B,0.36364383,0.3333333333333333,True,Correct
+q_00387,Medical,relevant,B,0.30882007,1.0,True,Correct
+q_00406,Medical,relevant,B,0.14644557,0.8666666666666667,True,Correct
+q_00385,Medical,relevant,B,0.32644862,0.8,True,Correct
+q_00347,Medical,relevant,B,0.29855293,1.0,True,Correct
+q_00553,Medical,relevant,B,0.121623814,0.7333333333333333,True,Correct
+q_00571,Medical,relevant,B,0.28325188,0.8666666666666667,True,Correct
+q_01241,Acknowledgment,irrelevant,B,0.2483679,0.9333333333333333,True,Correct
+q_01717,Delivery confirmation,relevant,B,0.24354565,1.0,True,Correct
+q_00815,Medical,relevant,B,0.39688432,1.0,True,Correct
+q_00141,Acknowledgment,irrelevant,B,0.15555924,0.7333333333333333,True,Correct
+q_01210,Acknowledgment,irrelevant,B,0.2272402,1.0,True,Correct
+q_00660,Medical,relevant,B,0.12738383,1.0,True,Correct
+q_00834,Medical,relevant,B,0.17678732,0.8666666666666667,True,Correct
+q_00379,Medical,relevant,B,0.29476792,1.0,True,Correct
+q_00316,Language change,relevant,B,0.5310816,0.9333333333333333,True,Correct
+q_00325,Language change,relevant,B,0.12537318,0.9333333333333333,True,Correct
+q_00370,Medical,relevant,B,0.157228,0.9333333333333333,True,Correct
+q_00601,Medical,relevant,B,0.07995117,0.8666666666666667,True,Correct
+q_01566,OSS,irrelevant,B,0.41252548,0.4666666666666667,True,Correct
+q_01624,OSS,irrelevant,B,0.19070256,1.0,True,Correct
+q_00451,Medical,relevant,B,0.26945126,1.0,True,Correct
+q_01168,Feedback,relevant,B,0.11725569,0.8666666666666667,True,Correct
+q_00943,Medical,relevant,B,0.29623115,1.0,True,Correct
+q_01297,Acknowledgment,irrelevant,B,0.2361306,0.9333333333333333,True,Correct
+q_00094,Greeting,irrelevant,B,0.2129215,0.7333333333333333,True,Correct
+q_01141,Medical,relevant,B,0.22678077,0.2,True,Correct
+q_00171,Acknowledgment,irrelevant,B,0.2676313,0.5333333333333333,True,Correct
+q_00509,Medical,relevant,B,0.3384447,1.0,True,Correct
+q_01713,Delivery confirmation,relevant,B,0.16770768,1.0,True,Correct
+q_01774,Delivery confirmation,relevant,B,0.25797087,0.8666666666666667,True,Correct
+q_00086,Greeting,irrelevant,B,0.23011994,1.0,True,Correct
+q_00846,Medical,relevant,B,0.3561226,1.0,True,Correct
+q_01621,OSS,irrelevant,B,0.19778603,1.0,True,Correct
+q_00145,Acknowledgment,irrelevant,B,0.008866012,0.8666666666666667,True,Correct
+q_00906,Medical,relevant,B,0.26311713,0.9333333333333333,True,Correct
+q_01582,OSS,irrelevant,B,0.33621323,0.13333333333333333,True,Correct
+q_00356,Medical,relevant,B,0.26906973,1.0,True,Correct
+q_01722,Delivery confirmation,relevant,B,0.41954672,0.5333333333333333,True,Correct
+q_01668,Other,relevant,B,0.06068182,0.5333333333333333,True,Correct
+q_00818,Medical,relevant,B,0.47366667,1.0,True,Correct
+q_00742,Medical,relevant,B,0.2914083,1.0,True,Correct
+q_00805,Medical,relevant,B,0.35183752,1.0,True,Correct
+q_00266,Language change,relevant,B,0.07156688,1.0,True,Correct
+q_00204,Acknowledgment,irrelevant,B,0.069761455,1.0,True,Correct
+q_00366,Medical,relevant,B,0.21316123,1.0,True,Correct
+q_01296,Acknowledgment,irrelevant,B,0.17090023,1.0,True,Correct
+q_00247,Language change,relevant,B,0.13618469,0.8,True,Correct
+q_00391,Medical,relevant,B,0.4098761,0.9333333333333333,True,Correct
+q_01042,Spam,irrelevant,B,0.3030715,0.5333333333333333,True,Correct
+q_00945,Medical,relevant,B,0.117501736,1.0,True,Correct
+q_01620,OSS,irrelevant,B,0.36619854,0.3333333333333333,True,Correct
+q_00383,Medical,relevant,B,0.13042086,0.9333333333333333,True,Correct
+q_00533,Medical,relevant,B,0.21032697,0.5333333333333333,True,Correct
+q_01344,Acknowledgment,irrelevant,B,0.19641346,1.0,True,Correct
+q_00268,Language change,relevant,B,0.036091566,1.0,True,Correct
+q_00825,Medical,relevant,B,0.22623003,1.0,True,Correct
+q_00291,Language change,relevant,B,0.33594954,0.9333333333333333,True,Correct
+q_00814,Medical,relevant,B,0.46896338,1.0,True,Correct
+q_01265,Feedback,relevant,B,0.33806098,0.6,True,Correct
+q_01146,Feedback,relevant,B,0.19999969,1.0,True,Correct
+q_01766,Delivery confirmation,relevant,B,0.23737597,1.0,True,Correct
+q_01491,Greeting,irrelevant,B,0.2661168,0.8,True,Correct
+q_00678,Medical,relevant,B,0.14045274,1.0,True,Correct
+q_00071,Greeting,irrelevant,B,0.012414813,0.9333333333333333,True,Correct
+q_01106,OSS,irrelevant,B,0.40924668,0.2,True,Correct
+q_01117,Acknowledgment,irrelevant,B,0.23696434,1.0,True,Correct
+q_01619,OSS,irrelevant,B,0.12171888,0.2,True,Correct
+q_01318,Acknowledgment,irrelevant,B,0.020253241,1.0,True,Correct
+q_00591,Medical,relevant,B,0.14600867,0.6666666666666666,True,Correct
+q_01188,Acknowledgment,irrelevant,B,0.08039564,0.9333333333333333,True,Correct
+q_01560,OSS,irrelevant,B,0.36593384,0.3333333333333333,True,Correct
+q_01115,Feedback,relevant,B,0.37822002,0.4666666666666667,True,Correct
+q_01437,Acknowledgment,irrelevant,B,0.20188415,0.9333333333333333,True,Correct
+q_00966,Automated message,irrelevant,B,0.3651849,0.8666666666666667,True,Correct
+q_00902,Medical,relevant,B,0.22146606,0.8666666666666667,True,Correct
+q_00975,Automated message,irrelevant,B,0.35734046,0.9333333333333333,True,Correct
+q_01193,Acknowledgment,irrelevant,B,0.26758212,0.9333333333333333,True,Correct
+q_01402,Acknowledgment,irrelevant,B,0.44160527,0.6666666666666666,True,Correct
+q_00538,Medical,relevant,B,0.30364347,0.9333333333333333,True,Correct
+q_00639,Medical,relevant,B,0.41546237,0.8,True,Correct
+q_00896,Medical,relevant,B,0.33539492,0.7333333333333333,True,Correct
+q_00243,Language change,relevant,B,0.02665627,1.0,True,Correct
+q_01005,Automated message,irrelevant,B,0.5990928,0.6666666666666666,True,Correct
+q_00701,Medical,relevant,B,0.1320867,0.8,True,Correct
+q_00995,Automated message,irrelevant,B,0.30021274,0.8,True,Correct
+q_01656,Other,relevant,B,0.34718978,0.5333333333333333,True,Correct
+q_00496,Medical,relevant,B,0.19541782,1.0,True,Correct
+q_00672,Medical,relevant,B,0.2551912,1.0,True,Correct
+q_01077,Other,relevant,B,0.17478597,0.7333333333333333,False,Error
+q_00792,Medical,relevant,B,0.34906948,1.0,True,Correct
+q_00768,Medical,relevant,B,0.35356414,1.0,True,Correct
+q_01085,Medical,relevant,B,0.25559747,0.8,True,Correct
+q_01202,Acknowledgment,irrelevant,B,0.14070976,1.0,True,Correct
+q_01138,Acknowledgment,irrelevant,B,0.12914658,0.4666666666666667,True,Correct
+q_00743,Medical,relevant,B,0.2490539,1.0,True,Correct
+q_00857,Medical,relevant,B,0.19210464,0.9333333333333333,True,Correct
+q_00007,Other,relevant,B,0.30440557,0.8,True,Correct
+q_01585,OSS,irrelevant,B,0.34718978,0.2,True,Correct
+q_01539,Feedback,relevant,B,0.23860252,1.0,True,Correct
+q_01165,Feedback,relevant,B,0.1864807,0.8666666666666667,True,Correct
+q_00257,Language change,relevant,B,0.13783091,0.8666666666666667,True,Correct
+q_00702,Medical,relevant,B,0.15051222,0.9333333333333333,True,Correct
+q_00996,Automated message,irrelevant,B,0.3142594,0.9333333333333333,True,Correct
+q_00386,Medical,relevant,B,0.28437275,1.0,True,Correct
+q_01492,Feedback,relevant,B,0.2738216,1.0,True,Correct
+q_00405,Medical,relevant,B,0.3030715,0.5333333333333333,True,Correct
+q_00274,Language change,relevant,B,0.008106232,1.0,True,Correct
+q_00251,Language change,relevant,B,0.17109251,1.0,True,Correct
+q_01509,Feedback,relevant,B,0.12146175,0.5333333333333333,True,Correct
+q_00711,Medical,relevant,B,0.1534841,0.8666666666666667,True,Correct
+q_00346,Medical,relevant,B,0.19880807,0.9333333333333333,True,Correct
+q_00879,Medical,relevant,B,0.10774529,1.0,True,Correct
+q_01688,Language change,relevant,B,0.16869414,0.8,True,Correct
+q_01740,Delivery confirmation,relevant,B,0.12650895,1.0,True,Correct
+q_01531,Acknowledgment,irrelevant,B,0.031036258,1.0,True,Correct
+q_01382,Acknowledgment,irrelevant,B,0.09533775,1.0,True,Correct
+q_00968,Automated message,irrelevant,B,0.0014268756,0.9333333333333333,True,Correct
+q_00431,Medical,relevant,B,0.2358799,1.0,True,Correct
+q_00173,Acknowledgment,irrelevant,B,0.0032490492,0.8666666666666667,True,Correct
+q_00870,Medical,relevant,B,0.41510153,1.0,True,Correct
+q_00605,Medical,relevant,B,0.21881175,1.0,True,Correct
+q_00144,Other,relevant,B,0.48288763,0.4666666666666667,True,Correct
+q_01659,Other,relevant,B,0.42873377,0.4,True,Correct
+q_00066,Greeting,irrelevant,B,0.27178502,0.4666666666666667,True,Correct
+q_00527,Medical,relevant,B,0.18831706,1.0,True,Correct
+q_00363,Medical,relevant,B,0.2901603,0.9333333333333333,True,Correct
+q_00131,Acknowledgment,irrelevant,B,0.16037071,1.0,True,Correct
+q_00409,Medical,relevant,B,0.085617125,1.0,True,Correct
+q_01123,Acknowledgment,irrelevant,B,0.0016845465,1.0,True,Correct
+q_01744,Delivery confirmation,relevant,B,0.12555838,0.7333333333333333,True,Correct
+q_00546,Medical,relevant,B,0.18553036,0.9333333333333333,True,Correct
+q_00916,Medical,relevant,B,0.29474223,0.8666666666666667,True,Correct
+q_00061,Greeting,irrelevant,B,0.022258162,1.0,True,Correct
+q_00035,Greeting,irrelevant,B,0.055604696,1.0,True,Correct
+q_01451,Acknowledgment,irrelevant,B,0.15539181,0.8666666666666667,True,Correct
+q_00042,Greeting,irrelevant,B,0.2541458,0.9333333333333333,True,Correct
+q_01696,Language change,relevant,B,0.11358416,1.0,True,Correct
+q_00607,Medical,relevant,B,0.22723657,1.0,True,Correct
+q_00176,Acknowledgment,irrelevant,B,0.13715369,0.6666666666666666,True,Correct
+q_00211,Spam,irrelevant,B,0.5705669,0.7333333333333333,True,Correct
+q_01069,Other,relevant,B,0.47904682,0.5333333333333333,True,Correct
+q_01348,Acknowledgment,irrelevant,B,0.07204342,0.9333333333333333,True,Correct
+q_00132,Other,relevant,B,0.05186099,0.6,True,Correct
+q_00761,Medical,relevant,B,0.37987113,0.9333333333333333,True,Correct
+q_00526,Medical,relevant,B,0.14442396,0.9333333333333333,True,Correct
+q_01055,Other,relevant,B,0.26431775,0.8666666666666667,True,Correct
+q_00396,Medical,relevant,B,0.42761284,1.0,True,Correct
+q_01790,Delivery confirmation,relevant,B,0.16174686,0.7333333333333333,True,Correct
+q_00053,Greeting,irrelevant,B,0.24254751,0.9333333333333333,True,Correct
+q_01383,Acknowledgment,irrelevant,B,0.18738127,0.8,True,Correct
+q_01043,Spam,irrelevant,B,0.56112474,0.13333333333333333,True,Correct
+q_00078,Greeting,irrelevant,B,0.30636305,0.7333333333333333,True,Correct
+q_00836,Medical,relevant,B,0.27238423,1.0,True,Correct
+q_01025,Date,relevant,B,0.2740528,1.0,True,Correct
+q_00779,Medical,relevant,B,0.2581246,1.0,True,Correct
+q_01616,OSS,irrelevant,B,0.45538497,0.6666666666666666,True,Correct
+q_01618,OSS,irrelevant,B,0.3228407,0.8666666666666667,True,Correct
+q_01414,Delivery confirmation,relevant,B,0.27766585,0.2,True,Correct
+q_01739,Delivery confirmation,relevant,B,0.16326702,1.0,True,Correct
+q_00461,Medical,relevant,B,0.25126463,1.0,True,Correct
+q_00614,Medical,relevant,B,0.08446026,0.9333333333333333,True,Correct
+q_00762,Medical,relevant,B,0.40237695,1.0,True,Correct
+q_00665,Medical,relevant,B,0.39111853,0.6666666666666666,True,Correct
+q_00689,Medical,relevant,B,0.23954642,0.9333333333333333,True,Correct
+q_00001,Greeting,irrelevant,B,0.3225999,0.26666666666666666,True,Correct
+q_00594,Medical,relevant,B,0.06255692,0.8666666666666667,True,Correct
+q_00862,Medical,relevant,B,0.32346576,1.0,True,Correct
+q_01742,Delivery confirmation,relevant,B,0.24130106,1.0,True,Correct
+q_00909,Medical,relevant,B,0.18084544,1.0,True,Correct
+q_00181,Acknowledgment,irrelevant,B,0.2584142,0.9333333333333333,True,Correct
+q_00318,Language change,relevant,B,0.05254239,1.0,True,Correct
+q_01770,Delivery confirmation,relevant,B,0.23318344,0.8,True,Correct
+q_01545,OSS,irrelevant,B,0.17916858,0.26666666666666666,True,Correct
+q_00963,Medical,relevant,B,0.14115298,1.0,True,Correct
+q_01666,Language change,relevant,B,0.11811501,0.3333333333333333,True,Correct
+q_01644,OSS,irrelevant,B,0.17163467,0.9333333333333333,True,Correct
+q_01065,Other,relevant,B,0.11606789,0.6,True,Correct
+q_01600,OSS,irrelevant,B,0.39734435,0.5333333333333333,True,Correct
+q_00358,Medical,relevant,B,0.25627565,1.0,True,Correct
+q_01192,Acknowledgment,irrelevant,B,0.18986213,0.5333333333333333,True,Correct
+q_01207,Feedback,relevant,B,0.44737303,0.5333333333333333,True,Correct
+q_00136,Acknowledgment,irrelevant,B,0.016947329,0.6666666666666666,True,Correct
+q_01142,Acknowledgment,irrelevant,B,0.056025743,1.0,True,Correct
+q_00516,Medical,relevant,B,0.27818692,0.9333333333333333,True,Correct
+q_00597,Medical,relevant,B,0.2928759,0.8666666666666667,True,Correct
+q_00424,Medical,relevant,B,0.10945892,0.9333333333333333,True,Correct
+q_00735,Medical,relevant,B,0.33826065,0.8,True,Correct
+q_01497,Acknowledgment,irrelevant,B,0.06816375,1.0,True,Correct
+q_01169,Acknowledgment,irrelevant,B,0.1573844,0.7333333333333333,True,Correct
+q_00617,Medical,relevant,B,0.21046245,0.8666666666666667,True,Correct
+q_00748,Medical,relevant,B,0.14657688,0.9333333333333333,True,Correct
+q_00248,Language change,relevant,B,0.18239212,1.0,True,Correct
+q_01127,Acknowledgment,irrelevant,B,0.19527113,1.0,True,Correct
+q_01023,Date,relevant,B,0.26525676,1.0,True,Correct
+q_00099,Acknowledgment,irrelevant,B,0.016947329,0.8,True,Correct
+q_00625,Medical,relevant,B,0.28710675,0.9333333333333333,True,Correct
+q_01331,Acknowledgment,irrelevant,B,0.2308144,0.7333333333333333,True,Correct
+q_00939,Medical,relevant,B,0.17544013,0.8,True,Correct
+q_01443,Acknowledgment,irrelevant,B,0.1975382,0.4,True,Correct
+q_01053,Medical,relevant,B,0.2162534,0.7333333333333333,True,Correct
+q_00402,OSS,irrelevant,B,0.45544118,0.8,True,Correct
+q_00246,Language change,relevant,B,0.03105098,1.0,True,Correct
+q_00899,Medical,relevant,B,0.37955695,0.8,True,Correct
+q_00772,Medical,relevant,B,0.3353027,1.0,True,Correct
+q_01787,Delivery confirmation,relevant,B,0.3425401,0.8,True,Correct
+q_00979,Automated message,irrelevant,B,0.0014268756,0.9333333333333333,True,Correct
+q_00980,Automated message,irrelevant,B,0.323815,0.9333333333333333,True,Correct
+q_01269,Medical,relevant,B,0.3061335,1.0,True,Correct
+q_01687,Language change,relevant,B,0.092368364,1.0,True,Correct
+q_00038,Acknowledgment,irrelevant,B,0.065853655,1.0,True,Correct
+q_00493,Medical,relevant,B,0.12222195,0.9333333333333333,True,Correct
+q_01372,Acknowledgment,irrelevant,B,0.1999219,0.9333333333333333,True,Correct
+q_00079,Greeting,irrelevant,B,0.12942374,0.8666666666666667,True,Correct
+q_01526,Acknowledgment,irrelevant,B,0.1320867,0.3333333333333333,True,Correct
+q_01677,Language change,relevant,B,0.14956552,0.9333333333333333,True,Correct
+q_01046,Other,relevant,B,0.11606789,0.6,True,Correct
+q_00531,Medical,relevant,B,0.14660227,0.7333333333333333,True,Correct
+q_00311,Language change,relevant,B,0.105707765,1.0,True,Correct
+q_01174,Acknowledgment,irrelevant,B,0.15652889,1.0,True,Correct
+q_00486,Medical,relevant,B,0.24263996,1.0,True,Correct
+q_00530,Medical,relevant,B,0.28431964,0.9333333333333333,True,Correct
+q_00877,Medical,relevant,B,0.26738054,1.0,True,Correct
+q_01734,Delivery confirmation,relevant,B,0.38204837,0.13333333333333333,True,Correct
+q_01599,OSS,irrelevant,B,0.19802958,0.8666666666666667,True,Correct
+q_00827,Medical,relevant,B,0.23119587,1.0,True,Correct
+q_01298,Acknowledgment,irrelevant,B,0.03110993,1.0,True,Correct
+q_00843,Medical,relevant,B,0.26110816,1.0,True,Correct
+q_01625,OSS,irrelevant,B,0.3260697,0.4,True,Correct
+q_00556,Medical,relevant,B,0.14992225,0.9333333333333333,True,Correct
+q_01425,Medical,relevant,B,0.21664393,1.0,True,Correct
+q_01011,Date,relevant,B,0.068091035,0.9333333333333333,True,Correct
+q_01627,OSS,irrelevant,B,0.16326731,0.4,True,Correct
+q_00833,Medical,relevant,B,0.42739666,0.8,True,Correct
+q_00397,Medical,relevant,B,0.42199337,1.0,True,Correct
+q_01330,Acknowledgment,irrelevant,B,0.12733352,0.9333333333333333,True,Correct
+q_00767,Medical,relevant,B,0.23712623,1.0,True,Correct
+q_00837,Medical,relevant,B,0.36013347,0.7333333333333333,True,Correct
+q_00984,Automated message,irrelevant,B,0.23102438,0.9333333333333333,True,Correct
+q_01389,Feedback,relevant,B,0.11541772,0.8,True,Correct
+q_00118,Acknowledgment,irrelevant,B,0.2885375,0.4666666666666667,True,Correct
+q_00412,Medical,relevant,B,0.40127903,0.8666666666666667,True,Correct
+q_00563,Medical,relevant,B,0.42633164,0.6666666666666666,True,Correct
+q_00168,Acknowledgment,irrelevant,B,0.40967953,0.6666666666666666,True,Correct
+q_00808,Medical,relevant,B,0.35452712,1.0,True,Correct
+q_00060,Greeting,irrelevant,B,0.14257312,0.4666666666666667,True,Correct
+q_00368,Medical,relevant,B,0.13066041,1.0,True,Correct
+q_01105,Medical,relevant,B,0.3606329,1.0,True,Correct
+q_00809,Medical,relevant,B,0.14657688,1.0,True,Correct
+q_00773,Other,relevant,B,0.3542297,1.0,True,Correct
+q_00824,Medical,relevant,B,0.2325077,1.0,True,Correct
+q_01759,Delivery confirmation,relevant,B,0.104436934,1.0,True,Correct
+q_01674,Language change,relevant,B,0.22468323,1.0,True,Correct
+q_01054,Other,relevant,B,0.1987781,0.6,True,Correct
+q_01197,Acknowledgment,irrelevant,B,0.03110993,1.0,True,Correct
+q_00864,Medical,relevant,B,0.25197768,1.0,True,Correct
+q_01122,Acknowledgment,irrelevant,B,0.13449937,0.9333333333333333,True,Correct
+q_01206,Acknowledgment,irrelevant,B,0.086496234,0.8666666666666667,True,Correct
+q_01305,Acknowledgment,irrelevant,B,0.07951826,0.8666666666666667,False,Error
+q_01803,Date,relevant,B,0.17133737,1.0,True,Correct
+q_00919,Medical,relevant,B,0.21044576,1.0,True,Correct
+q_00709,Medical,relevant,B,0.18077528,0.9333333333333333,True,Correct
+q_00015,Greeting,irrelevant,B,0.016345382,1.0,True,Correct
+q_01074,Other,relevant,B,0.34826183,0.4666666666666667,True,Correct
+q_01108,Medical,relevant,B,0.17222905,0.8,True,Correct
+q_01756,Delivery confirmation,relevant,B,0.18469214,1.0,True,Correct
+q_01470,Acknowledgment,irrelevant,B,0.17878342,1.0,True,Correct
+q_00146,Acknowledgment,irrelevant,B,0.22291625,0.8666666666666667,True,Correct
+q_01583,OSS,irrelevant,B,0.17163467,0.9333333333333333,True,Correct
+q_01309,Acknowledgment,irrelevant,B,0.26895612,0.5333333333333333,False,Error
+q_01295,Acknowledgment,irrelevant,B,0.041259468,0.8,True,Correct
+q_00900,Medical,relevant,B,0.15468514,0.9333333333333333,True,Correct
+q_00018,Greeting,irrelevant,B,0.06068182,0.5333333333333333,True,Correct
+q_01465,Acknowledgment,irrelevant,B,0.31142342,0.8666666666666667,True,Correct
+q_01532,Acknowledgment,irrelevant,B,0.0014288425,1.0,True,Correct
+q_01671,Language change,relevant,B,0.19741297,0.8666666666666667,True,Correct
+q_01263,Acknowledgment,irrelevant,B,0.20629764,1.0,True,Correct
+q_00270,Language change,relevant,B,0.20427936,1.0,True,Correct
+q_00886,Medical,relevant,B,0.17791653,0.9333333333333333,True,Correct
+q_01199,Acknowledgment,irrelevant,B,0.13250566,1.0,True,Correct
+q_01396,Acknowledgment,irrelevant,B,0.032684207,1.0,True,Correct
+q_00100,Acknowledgment,irrelevant,B,0.016526282,0.6,True,Correct
+q_01409,Acknowledgment,irrelevant,B,0.1566602,0.9333333333333333,True,Correct
+q_01232,Acknowledgment,irrelevant,B,0.23132408,0.13333333333333333,True,Correct
+q_01153,Acknowledgment,irrelevant,B,0.21991247,0.9333333333333333,True,Correct
+q_01775,Delivery confirmation,relevant,B,0.20269012,1.0,True,Correct
+q_01102,Other,relevant,B,0.15246904,0.6,True,Correct
+q_01262,Acknowledgment,irrelevant,B,0.16692573,1.0,True,Correct
+q_01308,Acknowledgment,irrelevant,B,0.02422607,0.9333333333333333,True,Correct
+q_00337,Medical,relevant,B,0.47772825,0.8,True,Correct
+q_00708,Medical,relevant,B,0.21411043,0.7333333333333333,True,Correct
+q_00867,Medical,relevant,B,0.14130825,1.0,True,Correct
+q_01080,Other,relevant,B,0.5570316,0.8666666666666667,True,Correct
+q_01324,Feedback,relevant,B,0.22065872,0.13333333333333333,True,Correct
+q_00890,Medical,relevant,B,0.20899522,1.0,True,Correct
+q_01352,Acknowledgment,irrelevant,B,0.07166505,1.0,True,Correct
+q_01101,Other,relevant,B,0.20886892,0.4,True,Correct
+q_00392,Medical,relevant,B,0.34092128,1.0,True,Correct
+q_01429,Acknowledgment,irrelevant,B,0.16332555,0.8,False,Error
+q_00120,Other,relevant,B,0.004520297,0.4666666666666667,True,Correct
+q_01167,Delivery confirmation,relevant,B,0.20713192,0.8666666666666667,True,Correct
+q_00188,Acknowledgment,irrelevant,B,0.19001341,0.26666666666666666,False,Error
+q_01538,Feedback,relevant,B,0.25953585,0.8,True,Correct
+q_00143,Acknowledgment,irrelevant,B,0.013784885,0.8666666666666667,True,Correct
+q_01649,OSS,irrelevant,B,0.20091563,0.26666666666666666,True,Correct
+q_00353,Medical,relevant,B,0.1286065,0.9333333333333333,True,Correct
+q_00442,Medical,relevant,B,0.14659286,0.8,True,Correct
+q_01604,OSS,irrelevant,B,0.5630182,0.13333333333333333,True,Correct
+q_01132,Acknowledgment,irrelevant,B,0.010049343,1.0,True,Correct
+q_00826,Medical,relevant,B,0.23993659,1.0,True,Correct
+q_00800,Medical,relevant,B,0.2879628,1.0,True,Correct
+q_00021,Greeting,irrelevant,B,0.020762324,0.9333333333333333,True,Correct
+q_01200,Acknowledgment,irrelevant,B,0.26041543,0.9333333333333333,True,Correct
+q_00710,Medical,relevant,B,0.22042704,0.7333333333333333,True,Correct
+q_00559,Medical,relevant,B,0.24700797,0.6666666666666666,True,Correct
+q_00670,Medical,relevant,B,0.13066041,0.7333333333333333,True,Correct
+q_01518,Acknowledgment,irrelevant,B,0.14927816,0.8666666666666667,True,Correct
+q_01356,Feedback,relevant,B,0.19617993,0.3333333333333333,True,Correct
+q_01440,Acknowledgment,irrelevant,B,0.49085027,0.5333333333333333,True,Correct
+q_00760,Medical,relevant,B,0.42070472,0.8666666666666667,True,Correct
+q_01720,Delivery confirmation,relevant,B,0.32175535,1.0,True,Correct
+q_01726,Delivery confirmation,relevant,B,0.23390114,1.0,True,Correct
+q_01189,Acknowledgment,irrelevant,B,0.09681308,1.0,True,Correct
+q_00750,Medical,relevant,B,0.20883727,1.0,True,Correct
+q_01208,Acknowledgment,irrelevant,B,0.19248784,1.0,True,Correct
+q_00468,Medical,relevant,B,0.21997523,1.0,True,Correct
+q_00694,Medical,relevant,B,0.22321743,1.0,True,Correct
+q_01150,Acknowledgment,irrelevant,B,0.12098086,0.5333333333333333,True,Correct
+q_01433,Delivery confirmation,relevant,B,0.33735108,0.4,True,Correct
+q_01184,Acknowledgment,irrelevant,B,0.19350117,0.9333333333333333,True,Correct
+q_00019,Greeting,irrelevant,B,0.13322592,1.0,True,Correct
+q_00447,Medical,relevant,B,0.11138487,0.8666666666666667,True,Correct
+q_00696,Medical,relevant,B,0.1658839,1.0,True,Correct
+q_01239,Acknowledgment,irrelevant,B,0.17813861,0.6666666666666666,True,Correct
+q_00362,Medical,relevant,B,0.271715,1.0,True,Correct
+q_00497,Medical,relevant,B,0.40427113,0.8,True,Correct
+q_00109,Acknowledgment,irrelevant,B,0.0714246,0.13333333333333333,True,Correct
+q_00292,Language change,relevant,B,0.19624013,1.0,True,Correct
+q_01152,Acknowledgment,irrelevant,B,0.07951826,0.8666666666666667,True,Correct
+q_01498,Acknowledgment,irrelevant,B,0.061707854,1.0,True,Correct
+q_01094,Other,relevant,B,0.04930848,0.5333333333333333,True,Correct
+q_00714,Medical,relevant,B,0.27668774,1.0,True,Correct
+q_00281,Language change,relevant,B,0.17310989,1.0,True,Correct
+q_01697,Language change,relevant,B,0.05254239,1.0,True,Correct
+q_01678,Language change,relevant,B,0.19197673,1.0,True,Correct
+q_01261,Acknowledgment,irrelevant,B,0.056025743,1.0,True,Correct
+q_01229,Acknowledgment,irrelevant,B,0.040650725,1.0,True,Correct
+q_01523,Feedback,relevant,B,0.110691786,0.8666666666666667,True,Correct
+q_01002,Automated message,irrelevant,B,0.28808814,0.8666666666666667,True,Correct
+q_00186,Acknowledgment,irrelevant,B,0.010571718,1.0,True,Correct
+q_01760,Delivery confirmation,relevant,B,0.19992542,1.0,True,Correct
+q_00390,Medical,relevant,B,0.29856604,0.3333333333333333,True,Correct
+q_01736,Delivery confirmation,relevant,B,0.13884878,1.0,True,Correct
+q_00230,Spam,irrelevant,B,0.48335868,0.3333333333333333,True,Correct
+q_01504,Acknowledgment,irrelevant,B,0.008090675,1.0,True,Correct
+q_00633,Medical,relevant,B,0.20948905,0.6666666666666666,True,Correct
+q_01063,Other,relevant,B,0.19657183,0.6,True,Correct
+q_00419,Medical,relevant,B,0.28271258,1.0,True,Correct
+q_00013,Greeting,irrelevant,B,0.020762324,1.0,True,Correct
+q_00730,Medical,relevant,B,0.46013492,1.0,True,Correct
+q_01480,Acknowledgment,irrelevant,B,0.15511394,1.0,True,Correct
+q_00795,Medical,relevant,B,0.46138966,1.0,True,Correct
+q_01314,Acknowledgment,irrelevant,B,0.2231291,0.26666666666666666,True,Correct
+q_00039,Greeting,irrelevant,B,0.080652595,0.8,True,Correct
+q_00108,Other,relevant,B,0.102347195,0.5333333333333333,True,Correct
+q_01405,Acknowledgment,irrelevant,B,0.2241528,0.26666666666666666,True,Correct
+q_00603,Medical,relevant,B,0.35330492,1.0,True,Correct
+q_01313,Acknowledgment,irrelevant,B,0.18986213,0.5333333333333333,True,Correct
+q_00328,Medical,relevant,B,0.24754792,1.0,True,Correct
+q_00658,Medical,relevant,B,0.18077528,1.0,True,Correct
+q_00545,Medical,relevant,B,0.39637542,0.9333333333333333,True,Correct
+q_00376,Medical,relevant,B,0.4013682,1.0,True,Correct
+q_00635,Medical,relevant,B,0.33528316,0.9333333333333333,True,Correct
+q_00407,Medical,relevant,B,0.16472805,1.0,True,Correct
+q_01066,Medical,relevant,B,0.23954642,0.9333333333333333,True,Correct
+q_00110,Acknowledgment,irrelevant,B,0.0014288425,1.0,True,Correct
+q_00659,Medical,relevant,B,0.2709415,1.0,True,Correct
+q_00811,Medical,relevant,B,0.39346582,1.0,True,Correct
+q_01525,Acknowledgment,irrelevant,B,0.1080901,0.9333333333333333,True,Correct
+q_01095,Other,relevant,B,0.31336522,0.6,True,Correct
+q_01376,OSS,irrelevant,B,0.27815247,0.06666666666666667,False,Error
+q_00517,Medical,relevant,B,0.31677818,0.9333333333333333,True,Correct
+q_01477,Feedback,relevant,B,0.19906735,1.0,True,Correct
+q_01126,Acknowledgment,irrelevant,B,0.15462619,1.0,True,Correct
+q_00049,Greeting,irrelevant,B,0.16788435,0.8,True,Correct
+q_01071,Other,relevant,B,0.5021007,0.6666666666666666,True,Correct
+q_01333,Acknowledgment,irrelevant,B,0.1480065,1.0,True,Correct
+q_01075,Medical,relevant,B,0.21653408,1.0,True,Correct
+q_01704,Language change,relevant,B,0.09943199,0.9333333333333333,True,Correct
+q_01528,Acknowledgment,irrelevant,B,0.109589875,1.0,True,Correct
+q_00403,Medical,relevant,B,0.24284261,0.8,True,Correct
+q_00507,Medical,relevant,B,0.2358799,1.0,True,Correct
+q_00420,Medical,relevant,B,0.15529722,1.0,True,Correct
+q_01765,Delivery confirmation,relevant,B,0.23744494,1.0,True,Correct
+q_01391,Acknowledgment,irrelevant,B,0.13058984,1.0,True,Correct
+q_01700,Language change,relevant,B,0.092368364,1.0,True,Correct
+q_00641,Medical,relevant,B,0.10945892,0.9333333333333333,True,Correct
+q_01529,Medical,relevant,B,0.49887902,0.4666666666666667,True,Correct
+q_00598,Medical,relevant,B,0.284513,1.0,True,Correct
+q_00692,Medical,relevant,B,0.22332269,0.7333333333333333,True,Correct
+q_01218,Acknowledgment,irrelevant,B,0.19248784,1.0,True,Correct
+q_00584,Medical,relevant,B,0.27236575,1.0,True,Correct
+q_00056,Greeting,irrelevant,B,0.10817963,1.0,True,Correct
+q_00070,Greeting,irrelevant,B,0.22182041,1.0,True,Correct
+q_00558,Medical,relevant,B,0.24700797,0.6,True,Correct
+q_00500,Medical,relevant,B,0.15546823,1.0,True,Correct
+q_01586,OSS,irrelevant,B,0.23826712,0.26666666666666666,True,Correct
+q_01679,Language change,relevant,B,0.110816896,1.0,True,Correct
+q_00126,Acknowledgment,irrelevant,B,0.14261019,0.4666666666666667,True,Correct
+q_01209,Acknowledgment,irrelevant,B,0.10684848,0.9333333333333333,True,Correct
+q_00859,Medical,relevant,B,0.38559455,1.0,True,Correct
+q_01580,OSS,irrelevant,B,0.2949298,0.8666666666666667,True,Correct
+q_01473,Acknowledgment,irrelevant,B,0.35848093,0.6,True,Correct
+q_00031,Greeting,irrelevant,B,0.064339876,0.9333333333333333,True,Correct
+q_01379,Acknowledgment,irrelevant,B,0.28065097,0.6,False,Error
+q_01793,Date,relevant,B,0.17133737,1.0,True,Correct
+q_00301,Language change,relevant,B,0.11925018,1.0,True,Correct
+q_00158,Acknowledgment,irrelevant,B,0.10806018,0.9333333333333333,True,Correct
+q_00352,Medical,relevant,B,0.26704562,0.9333333333333333,True,Correct
+q_00399,Medical,relevant,B,0.44599873,0.4,True,Correct
+q_00715,Medical,relevant,B,0.19083023,1.0,True,Correct
+q_00970,Automated message,irrelevant,B,0.28367847,1.0,True,Correct
+q_01217,Acknowledgment,irrelevant,B,0.11065084,1.0,True,Correct
+q_00041,Greeting,irrelevant,B,0.24880588,1.0,True,Correct
+q_00375,Medical,relevant,B,0.40411395,0.9333333333333333,True,Correct
+q_01051,Medical,relevant,B,0.22748744,0.9333333333333333,True,Correct
+q_00679,Medical,relevant,B,0.24953544,0.6666666666666666,True,Correct
+q_00948,Medical,relevant,B,0.32644862,0.9333333333333333,True,Correct
+q_01650,OSS,irrelevant,B,0.39183307,0.26666666666666666,True,Correct
+q_01243,Acknowledgment,irrelevant,B,0.08729243,0.8666666666666667,True,Correct
+q_01289,Acknowledgment,irrelevant,B,0.17343861,1.0,True,Correct
+q_00428,Medical,relevant,B,0.11909777,0.9333333333333333,True,Correct
+q_01484,Feedback,relevant,B,0.5355104,0.5333333333333333,False,Error
+q_00566,Medical,relevant,B,0.052738607,0.9333333333333333,True,Correct
+q_00513,Medical,relevant,B,0.45470178,0.8666666666666667,True,Correct
+q_00400,Medical,relevant,B,0.3954211,0.9333333333333333,True,Correct
+q_00043,Greeting,irrelevant,B,0.011366248,0.9333333333333333,True,Correct
+q_00810,Medical,relevant,B,0.1574434,1.0,True,Correct
+q_00840,Medical,relevant,B,0.5066577,0.9333333333333333,True,Correct
+q_01399,Delivery confirmation,relevant,B,0.20418513,1.0,True,Correct
+q_01741,Delivery confirmation,relevant,B,0.17840636,0.4,True,Correct
+q_01260,Acknowledgment,irrelevant,B,0.26660526,1.0,True,Correct
+q_01461,Acknowledgment,irrelevant,B,0.2608326,0.8666666666666667,True,Correct
+q_00930,Medical,relevant,B,0.26757783,0.6,True,Correct
+q_00349,Medical,relevant,B,0.27244163,1.0,True,Correct
+q_01024,Date,relevant,B,0.17002314,0.9333333333333333,True,Correct
+q_00191,Acknowledgment,irrelevant,B,0.0032490492,0.8666666666666667,True,Correct
+q_00192,Acknowledgment,irrelevant,B,0.5217469,0.4666666666666667,True,Correct
+q_00161,Other,relevant,B,0.05186099,0.6,True,Correct
+q_01519,Medical,relevant,B,0.1880405,0.6666666666666666,True,Correct
+q_01597,OSS,irrelevant,B,0.29612273,1.0,True,Correct
+q_01768,Delivery confirmation,relevant,B,0.26465255,1.0,True,Correct
+q_00425,Medical,relevant,B,0.11089444,0.9333333333333333,True,Correct
+q_00309,Language change,relevant,B,0.2554136,1.0,True,Correct
+q_00137,Acknowledgment,irrelevant,B,0.05129826,0.8666666666666667,True,Correct
+q_01535,Acknowledgment,irrelevant,B,0.18783331,0.7333333333333333,True,Correct
+q_00002,Greeting,irrelevant,B,0.025652826,1.0,True,Correct
+q_01353,Acknowledgment,irrelevant,B,0.33363724,0.6666666666666666,True,Correct
+q_01016,Date,relevant,B,0.15507555,1.0,True,Correct
+q_00320,Language change,relevant,B,0.12537318,1.0,True,Correct
+q_00130,Acknowledgment,irrelevant,B,0.110978186,0.9333333333333333,True,Correct
+q_00051,Greeting,irrelevant,B,0.46202385,0.4666666666666667,True,Correct
+q_01749,Delivery confirmation,relevant,C,0.22409213,0.8,True,Correct
+q_01282,Feedback,relevant,C,0.5326623,0.0,True,Correct
+q_01630,OSS,irrelevant,C,0.4647022,0.6666666666666666,True,Correct
+q_00293,Language change,relevant,C,0.21702635,1.0,True,Correct
+q_01349,Acknowledgment,irrelevant,C,0.38305688,0.8666666666666667,True,Correct
+q_00369,Medical,relevant,C,0.5912342,0.7333333333333333,True,Correct
+q_00214,Spam,irrelevant,C,0.551206,0.3333333333333333,True,Correct
+q_00681,Medical,relevant,C,0.565917,0.8666666666666667,True,Correct
+q_00736,Medical,relevant,C,0.4035958,1.0,True,Correct
+q_00022,Greeting,irrelevant,C,0.2653147,1.0,True,Correct
+q_00982,Automated message,irrelevant,C,0.4191463,1.0,True,Correct
+q_01432,Acknowledgment,irrelevant,C,0.12758619,0.8666666666666667,True,Correct
+q_00512,Medical,relevant,C,0.6179008,0.4666666666666667,True,Correct
+q_00682,Medical,relevant,C,0.5628604,0.8666666666666667,True,Correct
+q_00974,Automated message,irrelevant,C,0.3626483,1.0,True,Correct
+q_00228,Spam,irrelevant,C,0.57288975,0.5333333333333333,True,Correct
+q_00999,Automated message,irrelevant,C,0.6248711,0.2,True,Correct
+q_01587,OSS,irrelevant,C,0.4409572,0.2,False,Error
+q_01292,Acknowledgment,irrelevant,C,0.3114074,1.0,True,Correct
+q_00175,Acknowledgment,irrelevant,C,0.313886,1.0,True,Correct
+q_00519,Medical,relevant,C,0.6884923,0.8,True,Correct
+q_00304,Language change,relevant,C,0.35773325,1.0,True,Correct
+q_00273,Language change,relevant,C,0.2840777,1.0,True,Correct
+q_00437,Medical,relevant,C,0.64207184,0.8666666666666667,True,Correct
+q_01204,Acknowledgment,irrelevant,C,0.3079856,1.0,True,Correct
+q_01234,Acknowledgment,irrelevant,C,0.182733,0.8666666666666667,True,Correct
+q_00215,Spam,irrelevant,C,0.59171116,0.4,True,Correct
+q_01686,Language change,relevant,C,0.32250738,1.0,True,Correct
+q_00059,Other,relevant,C,0.5122608,0.0,False,Error
+q_01194,Feedback,relevant,C,0.470299,0.6666666666666666,False,Error
+q_00898,Medical,relevant,C,0.5444269,0.8666666666666667,True,Correct
+q_01563,OSS,irrelevant,C,0.53089184,0.5333333333333333,True,Correct
+q_01472,Acknowledgment,irrelevant,C,0.303074,0.5333333333333333,True,Correct
+q_00107,Acknowledgment,irrelevant,C,0.41049182,0.6666666666666666,True,Correct
+q_00044,Greeting,irrelevant,C,0.4267292,0.8,True,Correct
+q_01371,Acknowledgment,irrelevant,C,0.36219496,0.9333333333333333,True,Correct
+q_01763,Delivery confirmation,relevant,C,0.6199635,0.26666666666666666,True,Correct
+q_00232,Spam,irrelevant,C,0.64984167,0.7333333333333333,True,Correct
+q_00781,Medical,relevant,C,0.35046363,1.0,True,Correct
+q_00820,Medical,relevant,C,0.46901286,1.0,True,Correct
+q_00525,Medical,relevant,C,0.4728446,0.8,True,Correct
+q_01642,OSS,irrelevant,C,0.45260108,0.6666666666666666,True,Correct
+q_01724,Delivery confirmation,relevant,C,0.28254467,1.0,True,Correct
+q_00929,Medical,relevant,C,0.616559,0.8666666666666667,True,Correct
+q_00174,Acknowledgment,irrelevant,C,0.25196058,1.0,True,Correct
+q_00006,Greeting,irrelevant,C,0.53008324,0.5333333333333333,True,Correct
+q_01457,Other,relevant,C,0.5006057,0.6,True,Correct
+q_00586,Medical,relevant,C,0.58606786,0.8,True,Correct
+q_01745,Delivery confirmation,relevant,C,0.48421037,0.8666666666666667,True,Correct
+q_00455,Medical,relevant,C,0.5983607,0.7333333333333333,True,Correct
+q_01294,Acknowledgment,irrelevant,C,0.30320328,0.9333333333333333,True,Correct
+q_00297,Language change,relevant,C,0.28533977,1.0,True,Correct
+q_01342,Acknowledgment,irrelevant,C,0.52711695,0.6,True,Correct
+q_00667,Medical,relevant,C,0.59111756,0.9333333333333333,True,Correct
+q_00950,Medical,relevant,C,0.49825168,0.8,True,Correct
+q_00652,Medical,relevant,C,0.55584246,0.6666666666666666,True,Correct
+q_00740,Medical,relevant,C,0.6250268,1.0,True,Correct
+q_01163,Feedback,relevant,C,0.23648357,0.13333333333333333,True,Correct
+q_00934,Medical,relevant,C,0.48725188,1.0,True,Correct
+q_01375,Acknowledgment,irrelevant,C,0.4564435,0.4,True,Correct
+q_01166,Acknowledgment,irrelevant,C,0.47094607,1.0,True,Correct
+q_00931,Medical,relevant,C,0.6061586,0.4,True,Correct
+q_00417,Medical,relevant,C,0.38528365,0.9333333333333333,True,Correct
+q_01540,Feedback,relevant,C,0.57501745,0.8666666666666667,True,Correct
+q_01130,Acknowledgment,irrelevant,C,0.16450983,1.0,True,Correct
+q_00981,Automated message,irrelevant,C,0.08116424,0.8,True,Correct
+q_00731,Medical,relevant,C,0.33367312,1.0,True,Correct
+q_00518,Medical,relevant,C,0.43703848,0.7333333333333333,True,Correct
+q_01270,Acknowledgment,irrelevant,C,0.3200088,1.0,True,Correct
+q_00668,Medical,relevant,C,0.6505418,0.7333333333333333,True,Correct
+q_01266,Other,relevant,C,0.37079644,0.26666666666666666,True,Correct
+q_00602,Other,relevant,C,0.5078674,0.8666666666666667,False,Error
+q_00128,Acknowledgment,irrelevant,C,0.6248523,0.8666666666666667,True,Correct
+q_00721,Medical,relevant,C,0.52982426,0.8666666666666667,True,Correct
+q_01645,OSS,irrelevant,C,0.42447037,0.6666666666666666,True,Correct
+q_01276,Acknowledgment,irrelevant,C,0.10234177,1.0,True,Correct
+q_00873,Medical,relevant,C,0.5807934,1.0,True,Correct
+q_00847,Medical,relevant,C,0.64028955,0.6,True,Correct
+q_00964,Medical,relevant,C,0.3137796,0.8666666666666667,True,Correct
+q_01111,Other,relevant,C,0.5909302,0.6,True,Correct
+q_00341,Medical,relevant,C,0.4187848,0.3333333333333333,True,Correct
+q_00481,Medical,relevant,C,0.6299832,0.8,True,Correct
+q_00355,Medical,relevant,C,0.38528365,0.8666666666666667,True,Correct
+q_00978,Automated message,irrelevant,C,0.61272514,0.7333333333333333,True,Correct
+q_00074,Greeting,irrelevant,C,0.402835,0.8666666666666667,True,Correct
+q_00866,Medical,relevant,C,0.33816397,0.9333333333333333,True,Correct
+q_00637,Medical,relevant,C,0.38597244,0.6666666666666666,True,Correct
+q_01271,Acknowledgment,irrelevant,C,0.41031748,1.0,True,Correct
+q_01476,Feedback,relevant,C,0.6478395,0.5333333333333333,True,Correct
+q_00643,Medical,relevant,C,0.613301,0.8666666666666667,True,Correct
+q_01037,Other,relevant,C,0.6253458,0.26666666666666666,True,Correct
+q_00199,Other,relevant,C,0.49351472,0.3333333333333333,True,Correct
+q_00479,Medical,relevant,C,0.59020674,0.9333333333333333,True,Correct
+q_00495,Medical,relevant,C,0.43703848,0.8666666666666667,True,Correct
+q_00609,Medical,relevant,C,0.43582308,0.9333333333333333,True,Correct
+q_01403,Acknowledgment,irrelevant,C,0.20701504,0.8666666666666667,True,Correct
+q_00207,Acknowledgment,irrelevant,C,0.6962267,0.2,True,Correct
+q_01584,OSS,irrelevant,C,0.5475172,0.5333333333333333,True,Correct
+q_00169,Acknowledgment,irrelevant,C,0.60056937,0.8,True,Correct
+q_01657,OSS,irrelevant,C,0.5624087,0.4666666666666667,True,Correct
+q_00564,Medical,relevant,C,0.47379452,0.9333333333333333,True,Correct
+q_00434,Medical,relevant,C,0.6188405,0.6,True,Correct
+q_00236,Language change,relevant,C,0.6493913,0.4,True,Correct
+q_00382,Medical,relevant,C,0.53260034,1.0,True,Correct
+q_01431,Acknowledgment,irrelevant,C,0.101878524,0.8666666666666667,True,Correct
+q_01373,Feedback,relevant,C,0.33100802,0.3333333333333333,True,Correct
+q_00359,Medical,relevant,C,0.4791479,0.8666666666666667,True,Correct
+q_01801,Date,relevant,C,0.21629572,1.0,True,Correct
+q_01776,Delivery confirmation,relevant,C,0.4947909,0.9333333333333333,True,Correct
+q_01198,Acknowledgment,irrelevant,C,0.48849386,1.0,True,Correct
+q_01315,Feedback,relevant,C,0.34270597,0.8666666666666667,True,Correct
+q_00398,Medical,relevant,C,0.5827157,0.5333333333333333,True,Correct
+q_01453,Acknowledgment,irrelevant,C,0.47388935,0.4666666666666667,False,Error
+q_00195,Acknowledgment,irrelevant,C,0.35367614,1.0,True,Correct
+q_01092,Other,relevant,C,0.4489209,0.8,False,Error
+q_01455,Acknowledgment,irrelevant,C,0.5312832,0.26666666666666666,True,Correct
+q_01705,Language change,relevant,C,0.28906226,1.0,True,Correct
+q_01655,OSS,irrelevant,C,0.56180733,0.4,True,Correct
+q_00685,Medical,relevant,C,0.53996414,1.0,True,Correct
+q_00990,Automated message,irrelevant,C,0.3853432,1.0,True,Correct
+q_00177,Other,relevant,C,0.3321634,0.2,True,Correct
+q_01695,Language change,relevant,C,0.4556526,0.26666666666666666,True,Correct
+q_01098,Other,relevant,C,0.64989924,0.8,True,Correct
+q_00942,Medical,relevant,C,0.41646332,1.0,True,Correct
+q_00793,Medical,relevant,C,0.5238899,1.0,True,Correct
+q_00435,Medical,relevant,C,0.5214484,0.8,True,Correct
+q_00008,Greeting,irrelevant,C,0.5341285,0.5333333333333333,True,Correct
+q_00472,Medical,relevant,C,0.65002906,0.26666666666666666,True,Correct
+q_01634,OSS,irrelevant,C,0.48165703,0.06666666666666667,True,Correct
+q_01338,Acknowledgment,irrelevant,C,0.2830748,0.8666666666666667,True,Correct
+q_00855,Medical,relevant,C,0.72543955,0.8,True,Correct
+q_00172,Acknowledgment,irrelevant,C,0.16450983,0.8666666666666667,True,Correct
+q_00547,Medical,relevant,C,0.58931357,1.0,True,Correct
+q_01478,Feedback,relevant,C,0.3572992,0.13333333333333333,True,Correct
+q_01615,OSS,irrelevant,C,0.50897443,0.4666666666666667,True,Correct
+q_01329,Acknowledgment,irrelevant,C,0.3067177,0.8666666666666667,True,Correct
+q_01551,OSS,irrelevant,C,0.6095968,0.5333333333333333,True,Correct
+q_00115,Acknowledgment,irrelevant,C,0.37641674,0.5333333333333333,True,Correct
+q_01796,Date,relevant,C,0.3119319,1.0,True,Correct
+q_01286,Acknowledgment,irrelevant,C,0.25814104,1.0,True,Correct
+q_00464,Medical,relevant,C,0.5793525,0.4666666666666667,True,Correct
+q_00148,Acknowledgment,irrelevant,C,0.24978161,1.0,True,Correct
+q_01278,Acknowledgment,irrelevant,C,0.25165194,1.0,True,Correct
+q_00510,Medical,relevant,C,0.4433658,0.8666666666666667,True,Correct
+q_01332,Acknowledgment,irrelevant,C,0.5110993,0.3333333333333333,False,Error
+q_00229,Spam,irrelevant,C,0.6066601,0.4666666666666667,True,Correct
+q_00462,Medical,relevant,C,0.4695478,1.0,True,Correct
+q_01380,Acknowledgment,irrelevant,C,0.44354242,0.8666666666666667,True,Correct
+q_01040,Medical,relevant,C,0.44816577,1.0,True,Correct
+q_01479,Acknowledgment,irrelevant,C,0.12758619,0.8666666666666667,True,Correct
+q_00075,Greeting,irrelevant,C,0.40384102,0.6,True,Correct
+q_00014,Greeting,irrelevant,C,0.07841152,0.8666666666666667,True,Correct
+q_01598,OSS,irrelevant,C,0.4742722,0.06666666666666667,False,Error
+q_00135,Acknowledgment,irrelevant,C,0.5248432,0.9333333333333333,True,Correct
+q_01699,Language change,relevant,C,0.41161615,1.0,True,Correct
+q_01689,Language change,relevant,C,0.5876962,0.4666666666666667,True,Correct
+q_01590,OSS,irrelevant,C,0.5181869,0.5333333333333333,True,Correct
+q_01567,OSS,irrelevant,C,0.18250233,0.8,True,Correct
+q_01712,Language change,relevant,C,0.31224197,0.8666666666666667,True,Correct
+q_00180,Acknowledgment,irrelevant,C,0.30551535,1.0,True,Correct
+q_00757,Medical,relevant,C,0.50301164,1.0,True,Correct
+q_00758,Medical,relevant,C,0.37672246,1.0,True,Correct
+q_00339,Medical,relevant,C,0.5730816,1.0,True,Correct
+q_00842,Medical,relevant,C,0.634935,0.8666666666666667,True,Correct
+q_01164,Acknowledgment,irrelevant,C,0.3218063,0.9333333333333333,True,Correct
+q_00535,Medical,relevant,C,0.40609872,0.8666666666666667,True,Correct
+q_01205,Acknowledgment,irrelevant,C,0.13964587,0.8,True,Correct
+q_00663,Medical,relevant,C,0.42874765,0.7333333333333333,True,Correct
+q_00807,Medical,relevant,C,0.41714782,1.0,True,Correct
+q_00595,Medical,relevant,C,0.4577003,1.0,True,Correct
+q_01049,Spam,irrelevant,C,0.6095968,0.2,True,Correct
+q_01637,OSS,irrelevant,C,0.46712816,0.26666666666666666,True,Correct
+q_01610,OSS,irrelevant,C,0.4828189,0.6666666666666666,True,Correct
+q_00786,Medical,relevant,C,0.51666075,1.0,True,Correct
+q_00813,Medical,relevant,C,0.50301164,0.9333333333333333,True,Correct
+q_01595,OSS,irrelevant,C,0.38597244,0.4666666666666667,True,Correct
+q_00856,Medical,relevant,C,0.38159728,0.8,True,Correct
+q_01502,Acknowledgment,irrelevant,C,0.6699819,0.4666666666666667,True,Correct
+q_00441,Medical,relevant,C,0.49263847,0.9333333333333333,True,Correct
+q_00117,Other,relevant,C,0.5812447,0.6666666666666666,True,Correct
+q_01413,Acknowledgment,irrelevant,C,0.33100802,0.8666666666666667,True,Correct
+q_00190,Acknowledgment,irrelevant,C,0.48399615,1.0,True,Correct
+q_01301,Acknowledgment,irrelevant,C,0.424829,1.0,True,Correct
+q_00576,Medical,relevant,C,0.4193384,1.0,True,Correct
+q_00201,Other,relevant,C,0.40507978,0.3333333333333333,True,Correct
+q_00360,Medical,relevant,C,0.5693401,1.0,True,Correct
+q_00277,Language change,relevant,C,0.4033922,1.0,True,Correct
+q_01079,Medical,relevant,C,0.43332613,0.9333333333333333,True,Correct
+q_00700,Medical,relevant,C,0.6052766,1.0,True,Correct
+q_01546,OSS,irrelevant,C,0.42007774,1.0,True,Correct
+q_00958,Medical,relevant,C,0.62529707,1.0,True,Correct
+q_00600,Medical,relevant,C,0.46231782,0.9333333333333333,True,Correct
+q_01805,Date,relevant,C,0.14178932,1.0,True,Correct
+q_01778,Delivery confirmation,relevant,C,0.3467492,1.0,True,Correct
+q_01336,Acknowledgment,irrelevant,C,0.11167836,0.8666666666666667,True,Correct
+q_01104,Other,relevant,C,0.46480852,0.9333333333333333,True,Correct
+q_01543,OSS,irrelevant,C,0.551378,0.5333333333333333,True,Correct
+q_00319,Language change,relevant,C,0.30451763,1.0,True,Correct
+q_01082,Medical,relevant,C,0.6513566,0.4,True,Correct
+q_00784,Medical,relevant,C,0.49473393,1.0,True,Correct
+q_01099,Other,relevant,C,0.28888524,0.8666666666666667,True,Correct
+q_01503,Acknowledgment,irrelevant,C,0.39784664,0.8,True,Correct
+q_01365,Acknowledgment,irrelevant,C,0.6392367,0.6666666666666666,True,Correct
+q_01027,Medical,relevant,C,0.32521534,1.0,True,Correct
+q_00962,Medical,relevant,C,0.6712395,0.5333333333333333,True,Correct
+q_00782,Medical,relevant,C,0.4187848,1.0,True,Correct
+q_00754,Medical,relevant,C,0.4033708,0.9333333333333333,True,Correct
+q_01703,Language change,relevant,C,0.27565652,1.0,True,Correct
+q_01249,Acknowledgment,irrelevant,C,0.10117006,1.0,True,Correct
+q_00851,Medical,relevant,C,0.5889919,1.0,True,Correct
+q_01052,Other,relevant,C,0.25322425,0.26666666666666666,True,Correct
+q_01334,Acknowledgment,irrelevant,C,0.44731283,0.8,True,Correct
+q_00272,Language change,relevant,C,0.2959333,1.0,True,Correct
+q_01225,Acknowledgment,irrelevant,C,0.3081712,1.0,True,Correct
+q_00574,Medical,relevant,C,0.63901645,0.6,True,Correct
+q_00588,Medical,relevant,C,0.45306665,1.0,True,Correct
+q_01010,Date,relevant,C,0.14178932,1.0,True,Correct
+q_00264,Language change,relevant,C,0.3594473,1.0,True,Correct
+q_01714,Delivery confirmation,relevant,C,0.43700552,1.0,True,Correct
+q_00932,Medical,relevant,C,0.45052582,1.0,True,Correct
+q_00235,Language change,relevant,C,0.63344824,0.6,True,Correct
+q_00983,Automated message,irrelevant,C,0.56077635,0.9333333333333333,True,Correct
+q_01481,Feedback,relevant,C,0.43477094,0.7333333333333333,True,Correct
+q_00863,Medical,relevant,C,0.35467935,1.0,True,Correct
+q_01030,Date,relevant,C,0.38664556,1.0,True,Correct
+q_00534,Medical,relevant,C,0.60451066,0.8,True,Correct
+q_00080,Greeting,irrelevant,C,0.34775817,0.9333333333333333,True,Correct
+q_01547,OSS,irrelevant,C,0.46387637,0.7333333333333333,True,Correct
+q_00770,Medical,relevant,C,0.37143654,1.0,True,Correct
+q_00722,Medical,relevant,C,0.5864114,1.0,True,Correct
+q_01730,Delivery confirmation,relevant,C,0.3543151,1.0,True,Correct
+q_01435,Feedback,relevant,C,0.52664,0.2,True,Correct
+q_00626,Medical,relevant,C,0.5487775,0.6,True,Correct
+q_01685,Language change,relevant,C,0.17435712,1.0,True,Correct
+q_01764,Delivery confirmation,relevant,C,0.19968462,1.0,True,Correct
+q_01441,Acknowledgment,irrelevant,C,0.43290353,0.8,True,Correct
+q_00036,Greeting,irrelevant,C,0.23266667,0.8,True,Correct
+q_00450,Medical,relevant,C,0.47043288,0.9333333333333333,True,Correct
+q_01660,OSS,irrelevant,C,0.4841118,0.3333333333333333,True,Correct
+q_01107,Other,relevant,C,0.577131,0.8666666666666667,True,Correct
+q_00680,Medical,relevant,C,0.49255276,0.9333333333333333,True,Correct
+q_01186,Acknowledgment,irrelevant,C,0.22817498,0.8,True,Correct
+q_00023,Greeting,irrelevant,C,0.19019842,1.0,True,Correct
+q_00947,Medical,relevant,C,0.51285386,1.0,True,Correct
+q_01605,OSS,irrelevant,C,0.4647022,0.26666666666666666,True,Correct
+q_01400,Acknowledgment,irrelevant,C,0.39554793,0.8666666666666667,True,Correct
+q_00606,Medical,relevant,C,0.6671698,0.8,True,Correct
+q_01133,Acknowledgment,irrelevant,C,0.30607402,0.8666666666666667,True,Correct
+q_01161,Delivery confirmation,relevant,C,0.44455612,0.06666666666666667,True,Correct
+q_01499,Feedback,relevant,C,0.5739805,0.4,True,Correct
+q_00011,Greeting,irrelevant,C,0.69189596,0.6,True,Correct
+q_00599,Medical,relevant,C,0.5615021,0.8666666666666667,True,Correct
+q_00529,Medical,relevant,C,0.55903554,0.8666666666666667,True,Correct
+q_00567,Medical,relevant,C,0.30536193,0.8,True,Correct
+q_00426,Medical,relevant,C,0.462781,1.0,True,Correct
+q_00543,Medical,relevant,C,0.48639572,0.8,True,Correct
+q_00067,Greeting,irrelevant,C,0.20031178,0.8666666666666667,True,Correct
+q_01097,Other,relevant,C,0.47506213,0.8666666666666667,True,Correct
+q_00388,Medical,relevant,C,0.48249018,0.7333333333333333,True,Correct
+q_00334,Medical,relevant,C,0.62696314,1.0,True,Correct
+q_00087,Greeting,irrelevant,C,0.08285749,0.9333333333333333,True,Correct
+q_01191,Acknowledgment,irrelevant,C,0.20342642,0.8666666666666667,True,Correct
+q_01419,Acknowledgment,irrelevant,C,0.4913646,0.6666666666666666,True,Correct
+q_01214,Feedback,relevant,C,0.39723802,0.4,True,Correct
+q_01247,Acknowledgment,irrelevant,C,0.40052223,0.9333333333333333,True,Correct
+q_00532,Medical,relevant,C,0.6216568,0.8,True,Correct
+q_00568,Medical,relevant,C,0.4029323,0.6666666666666666,True,Correct
+q_01067,Other,relevant,C,0.3806454,0.4666666666666667,True,Correct
+q_01290,Acknowledgment,irrelevant,C,0.3238107,1.0,True,Correct
+q_00114,Other,relevant,C,0.6368122,0.5333333333333333,True,Correct
+q_00105,Other,relevant,C,0.4489209,0.6,True,Correct
+q_00675,Medical,relevant,C,0.4955362,0.8666666666666667,True,Correct
+q_00634,Medical,relevant,C,0.42035657,0.8,True,Correct
+q_00572,Medical,relevant,C,0.4029323,0.8666666666666667,True,Correct
+q_01788,Delivery confirmation,relevant,C,0.3244838,0.5333333333333333,True,Correct
+q_00159,Acknowledgment,irrelevant,C,0.18223041,1.0,True,Correct
+q_01486,Feedback,relevant,C,0.37717277,0.9333333333333333,True,Correct
+q_01748,Delivery confirmation,relevant,C,0.44750726,0.8666666666666667,True,Correct
+q_01527,Delivery confirmation,relevant,C,0.37717277,1.0,True,Correct
+q_01544,OSS,irrelevant,C,0.42965478,0.4,True,Correct
+q_00452,Medical,relevant,C,0.4795413,0.7333333333333333,True,Correct
+q_01550,Other,relevant,C,0.65102065,0.8666666666666667,True,Correct
+q_01662,OSS,irrelevant,C,0.50549066,0.6666666666666666,False,Error
+q_01410,Acknowledgment,irrelevant,C,0.66939366,0.6,True,Correct
+q_01350,Feedback,relevant,C,0.3300991,0.9333333333333333,True,Correct
+q_01176,Acknowledgment,irrelevant,C,0.42634624,0.2,True,Correct
+q_01558,OSS,irrelevant,C,0.491809,0.5333333333333333,True,Correct
+q_01682,Language change,relevant,C,0.30723357,1.0,True,Correct
+q_01733,Delivery confirmation,relevant,C,0.41111064,0.9333333333333333,True,Correct
+q_00127,Acknowledgment,irrelevant,C,0.20108908,0.9333333333333333,True,Correct
+q_00134,Acknowledgment,irrelevant,C,0.18861306,0.9333333333333333,True,Correct
+q_01690,Language change,relevant,C,0.31673837,1.0,True,Correct
+q_00371,Medical,relevant,C,0.479918,1.0,True,Correct
+q_01084,Other,relevant,C,0.5033133,0.8666666666666667,True,Correct
+q_01259,Acknowledgment,irrelevant,C,0.16226077,1.0,True,Correct
+q_00835,Medical,relevant,C,0.4392454,1.0,True,Correct
+q_01359,Acknowledgment,irrelevant,C,0.49580508,1.0,True,Correct
+q_01251,Acknowledgment,irrelevant,C,0.20954937,1.0,True,Correct
+q_00244,Language change,relevant,C,0.17673159,1.0,True,Correct
+q_00578,Medical,relevant,C,0.4433061,0.9333333333333333,True,Correct
+q_00003,Greeting,irrelevant,C,0.6712999,0.13333333333333333,True,Correct
+q_01238,Acknowledgment,irrelevant,C,0.2360841,1.0,True,Correct
+q_01602,Other,relevant,C,0.63231015,0.6666666666666666,False,Error
+q_00956,Medical,relevant,C,0.5432782,0.2,True,Correct
+q_01490,Acknowledgment,irrelevant,C,0.46997362,0.7333333333333333,True,Correct
+q_00095,Acknowledgment,irrelevant,C,0.36277014,0.4666666666666667,True,Correct
+q_00812,Medical,relevant,C,0.51909655,1.0,True,Correct
+q_01727,Delivery confirmation,relevant,C,0.28254467,1.0,True,Correct
+q_00298,Language change,relevant,C,0.3657745,1.0,True,Correct
+q_00057,Greeting,irrelevant,C,0.18335736,1.0,True,Correct
+q_00539,Medical,relevant,C,0.5426959,0.6,True,Correct
+q_01623,OSS,irrelevant,C,0.4076668,0.8666666666666667,True,Correct
+q_01279,Acknowledgment,irrelevant,C,0.2538153,0.8,True,Correct
+q_00449,Medical,relevant,C,0.3913846,1.0,True,Correct
+q_01458,Acknowledgment,irrelevant,C,0.36001825,0.5333333333333333,True,Correct
+q_00744,Medical,relevant,C,0.48540878,1.0,True,Correct
+q_00725,Medical,relevant,C,0.4621774,1.0,True,Correct
+q_00789,Medical,relevant,C,0.3855996,1.0,True,Correct
+q_01694,Language change,relevant,C,0.43521297,1.0,True,Correct
+q_00052,Greeting,irrelevant,C,0.36668968,1.0,True,Correct
+q_01366,Acknowledgment,irrelevant,C,0.45068234,0.4666666666666667,True,Correct
+q_00223,Spam,irrelevant,C,0.5309915,0.6,True,Correct
+q_00240,Language change,relevant,C,0.1151247,1.0,True,Correct
+q_00991,Automated message,irrelevant,C,0.29964215,1.0,True,Correct
+q_01462,Feedback,relevant,C,0.40052223,0.3333333333333333,True,Correct
+q_00684,Medical,relevant,C,0.5605245,0.7333333333333333,True,Correct
+q_00977,Automated message,irrelevant,C,0.36257046,1.0,True,Correct
+q_00791,Medical,relevant,C,0.508204,1.0,True,Correct
+q_00269,Language change,relevant,C,0.29430944,1.0,True,Correct
+q_01056,Other,relevant,C,0.40899718,0.4666666666666667,True,Correct
+q_00433,Medical,relevant,C,0.46151417,0.8666666666666667,True,Correct
+q_00101,Other,relevant,C,0.35313606,0.5333333333333333,True,Correct
+q_00923,Medical,relevant,C,0.52301496,0.9333333333333333,True,Correct
+q_01093,Other,relevant,C,0.5606582,0.9333333333333333,True,Correct
+q_01178,Acknowledgment,irrelevant,C,0.16226077,1.0,True,Correct
+q_00156,Acknowledgment,irrelevant,C,0.452757,1.0,True,Correct
+q_01721,Delivery confirmation,relevant,C,0.4830653,0.8,True,Correct
+q_01211,Acknowledgment,irrelevant,C,0.08955318,0.8666666666666667,True,Correct
+q_01415,Feedback,relevant,C,0.43203253,0.06666666666666667,True,Correct
+q_01799,Date,relevant,C,0.37066686,1.0,True,Correct
+q_01237,Acknowledgment,irrelevant,C,0.20732898,1.0,True,Correct
+q_01036,Date,relevant,C,0.30663455,1.0,True,Correct
+q_00511,Medical,relevant,C,0.5215713,1.0,True,Correct
+q_00295,Language change,relevant,C,0.42479563,1.0,True,Correct
+q_00716,Medical,relevant,C,0.4955362,0.9333333333333333,True,Correct
+q_01343,Acknowledgment,irrelevant,C,0.2830748,0.9333333333333333,True,Correct
+q_00296,Language change,relevant,C,0.30746847,1.0,True,Correct
+q_01033,Date,relevant,C,0.27895248,1.0,True,Correct
+q_01022,Date,relevant,C,0.2381106,1.0,True,Correct
+q_01004,Automated message,irrelevant,C,0.4343335,0.8,True,Correct
+q_00608,Medical,relevant,C,0.5111586,1.0,True,Correct
+q_00644,Medical,relevant,C,0.4968474,0.7333333333333333,True,Correct
+q_00429,Medical,relevant,C,0.4433658,0.9333333333333333,True,Correct
+q_00261,Language change,relevant,C,0.3622439,1.0,True,Correct
+q_00579,Medical,relevant,C,0.5955721,0.7333333333333333,True,Correct
+q_00322,Language change,relevant,C,0.4556526,0.4666666666666667,True,Correct
+q_00631,Medical,relevant,C,0.3842439,1.0,True,Correct
+q_00502,Medical,relevant,C,0.5140537,0.8666666666666667,True,Correct
+q_00305,Language change,relevant,C,0.28263724,1.0,True,Correct
+q_00378,Medical,relevant,C,0.5102334,1.0,True,Correct
+q_01669,Language change,relevant,C,0.29430944,1.0,True,Correct
+q_00861,Medical,relevant,C,0.35221446,1.0,True,Correct
+q_00908,Medical,relevant,C,0.59340674,0.8,True,Correct
+q_00084,Greeting,irrelevant,C,0.23266667,0.8666666666666667,True,Correct
+q_00611,Medical,relevant,C,0.50314647,0.7333333333333333,True,Correct
+q_00287,Language change,relevant,C,0.2983886,1.0,True,Correct
+q_01561,OSS,irrelevant,C,0.18250233,0.7333333333333333,True,Correct
+q_00448,Medical,relevant,C,0.47952157,0.8666666666666667,True,Correct
+q_01646,Other,relevant,C,0.37236607,0.26666666666666666,True,Correct
+q_00200,Acknowledgment,irrelevant,C,0.30575967,1.0,True,Correct
+q_01591,OSS,irrelevant,C,0.5321894,0.2,True,Correct
+q_01014,Date,relevant,C,0.44863296,1.0,True,Correct
+q_01015,Date,relevant,C,0.1316039,1.0,True,Correct
+q_01750,Delivery confirmation,relevant,C,0.45379323,1.0,True,Correct
+q_00852,Medical,relevant,C,0.4684729,0.9333333333333333,True,Correct
+q_00290,Language change,relevant,C,0.5876962,0.3333333333333333,True,Correct
+q_01215,Acknowledgment,irrelevant,C,0.47306663,1.0,True,Correct
+q_00985,Automated message,irrelevant,C,0.34721637,0.8666666666666667,True,Correct
+q_01794,Date,relevant,C,0.44750726,1.0,True,Correct
+q_00217,Spam,irrelevant,C,0.5309915,0.4,True,Correct
+q_00944,Medical,relevant,C,0.51757234,1.0,True,Correct
+q_00489,Medical,relevant,C,0.4751281,1.0,True,Correct
+q_00922,Medical,relevant,C,0.6497557,0.4,True,Correct
+q_01466,Medical,relevant,C,0.4511214,0.3333333333333333,True,Correct
+q_01121,Acknowledgment,irrelevant,C,0.25969803,1.0,True,Correct
+q_01683,Language change,relevant,C,0.097846985,1.0,True,Correct
+q_00242,Language change,relevant,C,0.1986503,1.0,True,Correct
+q_01746,Delivery confirmation,relevant,C,0.446819,1.0,True,Correct
+q_00778,Medical,relevant,C,0.45971102,1.0,True,Correct
+q_00561,Medical,relevant,C,0.6069433,0.5333333333333333,True,Correct
+q_01009,Date,relevant,C,0.30663455,1.0,True,Correct
+q_01181,Acknowledgment,irrelevant,C,0.48429018,0.7333333333333333,True,Correct
+q_01424,Acknowledgment,irrelevant,C,0.6383455,0.26666666666666666,True,Correct
+q_01367,Acknowledgment,irrelevant,C,0.5220612,0.5333333333333333,True,Correct
+q_01287,Feedback,relevant,C,0.46802515,0.2,True,Correct
+q_01508,Acknowledgment,irrelevant,C,0.49691617,0.7333333333333333,True,Correct
+q_00122,Acknowledgment,irrelevant,C,0.45774686,1.0,True,Correct
+q_01438,Acknowledgment,irrelevant,C,0.303074,0.5333333333333333,True,Correct
+q_01434,Acknowledgment,irrelevant,C,0.42352682,0.8666666666666667,True,Correct
+q_01557,OSS,irrelevant,C,0.5977553,0.2,True,Correct
+q_00490,Medical,relevant,C,0.42512953,1.0,True,Correct
+q_00797,Medical,relevant,C,0.37143654,1.0,True,Correct
+q_00077,Greeting,irrelevant,C,0.42936343,0.6,True,Correct
+q_00394,Medical,relevant,C,0.51890326,0.8666666666666667,True,Correct
+q_00803,Medical,relevant,C,0.56257975,1.0,True,Correct
+q_01691,Language change,relevant,C,0.1480965,1.0,True,Correct
+q_00741,Medical,relevant,C,0.33367312,1.0,True,Correct
+q_00695,Medical,relevant,C,0.5513274,0.8666666666666667,True,Correct
+q_01573,OSS,irrelevant,C,0.45939547,0.2,True,Correct
+q_00224,Spam,irrelevant,C,0.57288975,0.6,True,Correct
+q_00628,Medical,relevant,C,0.61315715,0.8666666666666667,True,Correct
+q_00373,Medical,relevant,C,0.4807967,0.9333333333333333,True,Correct
+q_01729,Delivery confirmation,relevant,C,0.35092622,0.9333333333333333,True,Correct
+q_00253,Language change,relevant,C,0.22670317,1.0,True,Correct
+q_00794,Medical,relevant,C,0.42764735,1.0,True,Correct
+q_00662,Medical,relevant,C,0.60593927,0.8,True,Correct
+q_00699,Medical,relevant,C,0.52982426,1.0,True,Correct
+q_01020,Date,relevant,C,0.1316039,1.0,True,Correct
+q_01341,Acknowledgment,irrelevant,C,0.62681246,0.8,False,Error
+q_00140,Acknowledgment,irrelevant,C,0.32905835,0.8666666666666667,True,Correct
+q_00913,Medical,relevant,C,0.6446823,0.4,True,Correct
+q_01268,Acknowledgment,irrelevant,C,0.20604503,1.0,True,Correct
+q_01088,Medical,relevant,C,0.32521534,0.9333333333333333,True,Correct
+q_01469,Acknowledgment,irrelevant,C,0.34633386,0.8,True,Correct
+q_01797,Date,relevant,C,0.36608762,1.0,True,Correct
+q_01487,Acknowledgment,irrelevant,C,0.39370042,0.4666666666666667,True,Correct
+q_00904,Medical,relevant,C,0.4251083,1.0,True,Correct
+q_00926,Medical,relevant,C,0.51314706,1.0,True,Correct
+q_00780,Medical,relevant,C,0.3710413,1.0,True,Correct
+q_01698,Language change,relevant,C,0.17673159,1.0,True,Correct
+q_00113,Greeting,irrelevant,C,0.42936343,0.6666666666666666,True,Correct
+q_01347,Acknowledgment,irrelevant,C,0.53767,0.8,True,Correct
+q_00872,Medical,relevant,C,0.5495302,0.8666666666666667,True,Correct
+q_01183,Acknowledgment,irrelevant,C,0.2182079,1.0,True,Correct
+q_00798,Medical,relevant,C,0.23784178,1.0,True,Correct
+q_01635,OSS,irrelevant,C,0.4569224,0.9333333333333333,True,Correct
+q_01154,Acknowledgment,irrelevant,C,0.23193198,1.0,True,Correct
+q_01500,Acknowledgment,irrelevant,C,0.27670318,0.9333333333333333,True,Correct
+q_01201,Acknowledgment,irrelevant,C,0.14580327,1.0,True,Correct
+q_00666,Medical,relevant,C,0.56604743,1.0,True,Correct
+q_01411,Feedback,relevant,C,0.42965478,0.5333333333333333,True,Correct
+q_00384,Medical,relevant,C,0.51890326,0.6,True,Correct
+q_00387,Medical,relevant,C,0.50871104,0.9333333333333333,True,Correct
+q_00406,Medical,relevant,C,0.5807934,1.0,True,Correct
+q_00385,Medical,relevant,C,0.55680466,0.7333333333333333,True,Correct
+q_00347,Medical,relevant,C,0.58367926,0.8666666666666667,True,Correct
+q_00553,Medical,relevant,C,0.5078674,1.0,True,Correct
+q_00571,Medical,relevant,C,0.4027102,1.0,True,Correct
+q_01241,Acknowledgment,irrelevant,C,0.37858236,1.0,True,Correct
+q_01717,Delivery confirmation,relevant,C,0.4610505,1.0,True,Correct
+q_00815,Medical,relevant,C,0.50941885,1.0,True,Correct
+q_00141,Acknowledgment,irrelevant,C,0.5927043,0.8,True,Correct
+q_01210,Acknowledgment,irrelevant,C,0.31104428,0.9333333333333333,True,Correct
+q_00660,Medical,relevant,C,0.3842439,1.0,True,Correct
+q_00834,Medical,relevant,C,0.46176672,0.9333333333333333,True,Correct
+q_00379,Medical,relevant,C,0.53735226,1.0,True,Correct
+q_00316,Language change,relevant,C,0.2318418,1.0,True,Correct
+q_00325,Language change,relevant,C,0.29415196,0.8,True,Correct
+q_00370,Medical,relevant,C,0.5048829,1.0,True,Correct
+q_00601,Medical,relevant,C,0.5241449,0.8,True,Correct
+q_01566,OSS,irrelevant,C,0.65456665,0.2,True,Correct
+q_01624,OSS,irrelevant,C,0.36842555,0.6666666666666666,True,Correct
+q_00451,Medical,relevant,C,0.3607182,1.0,True,Correct
+q_01168,Feedback,relevant,C,0.5321894,0.7333333333333333,True,Correct
+q_00943,Medical,relevant,C,0.4450279,0.8,True,Correct
+q_01297,Acknowledgment,irrelevant,C,0.45785415,0.8666666666666667,True,Correct
+q_00094,Greeting,irrelevant,C,0.6992809,0.6,True,Correct
+q_01141,Medical,relevant,C,0.40190524,0.2,True,Correct
+q_00171,Acknowledgment,irrelevant,C,0.35848337,1.0,True,Correct
+q_00509,Medical,relevant,C,0.48649454,0.9333333333333333,True,Correct
+q_01713,Delivery confirmation,relevant,C,0.28439134,1.0,True,Correct
+q_01774,Delivery confirmation,relevant,C,0.5649744,0.6,True,Correct
+q_00086,Greeting,irrelevant,C,0.28485966,1.0,True,Correct
+q_00846,Medical,relevant,C,0.35154724,1.0,True,Correct
+q_01621,OSS,irrelevant,C,0.36842555,0.6,True,Correct
+q_00145,Acknowledgment,irrelevant,C,0.18116969,1.0,True,Correct
+q_00906,Medical,relevant,C,0.44328547,0.9333333333333333,True,Correct
+q_01582,OSS,irrelevant,C,0.5447039,0.5333333333333333,True,Correct
+q_00356,Medical,relevant,C,0.5183499,1.0,True,Correct
+q_01722,Delivery confirmation,relevant,C,0.66814804,0.26666666666666666,True,Correct
+q_01668,Other,relevant,C,0.47461098,0.4666666666666667,True,Correct
+q_00818,Medical,relevant,C,0.54687196,1.0,True,Correct
+q_00742,Medical,relevant,C,0.36656058,1.0,True,Correct
+q_00805,Medical,relevant,C,0.6195643,0.9333333333333333,True,Correct
+q_00266,Language change,relevant,C,0.24350983,1.0,True,Correct
+q_00204,Acknowledgment,irrelevant,C,0.36219496,0.9333333333333333,True,Correct
+q_00366,Medical,relevant,C,0.50606275,0.8666666666666667,True,Correct
+q_01296,Acknowledgment,irrelevant,C,0.37242222,1.0,True,Correct
+q_00247,Language change,relevant,C,0.5387379,0.5333333333333333,True,Correct
+q_00391,Medical,relevant,C,0.53490156,0.8666666666666667,True,Correct
+q_01042,Spam,irrelevant,C,0.7003988,0.3333333333333333,True,Correct
+q_00945,Medical,relevant,C,0.70410943,0.6666666666666666,True,Correct
+q_01620,OSS,irrelevant,C,0.3481952,0.6,True,Correct
+q_00383,Medical,relevant,C,0.38220525,1.0,True,Correct
+q_00533,Medical,relevant,C,0.4310215,0.8666666666666667,True,Correct
+q_01344,Acknowledgment,irrelevant,C,0.4509465,0.9333333333333333,True,Correct
+q_00268,Language change,relevant,C,0.21702635,1.0,True,Correct
+q_00825,Medical,relevant,C,0.36656058,1.0,True,Correct
+q_00291,Language change,relevant,C,0.34990954,1.0,True,Correct
+q_00814,Medical,relevant,C,0.5238899,1.0,True,Correct
+q_01265,Feedback,relevant,C,0.36304975,0.4,True,Correct
+q_01146,Feedback,relevant,C,0.45661777,0.8,True,Correct
+q_01766,Delivery confirmation,relevant,C,0.48358154,0.8666666666666667,True,Correct
+q_01491,Greeting,irrelevant,C,0.6257808,0.4666666666666667,True,Correct
+q_00678,Medical,relevant,C,0.5355494,0.9333333333333333,True,Correct
+q_00071,Greeting,irrelevant,C,0.31689775,0.9333333333333333,True,Correct
+q_01106,OSS,irrelevant,C,0.4892547,0.06666666666666667,True,Correct
+q_01117,Acknowledgment,irrelevant,C,0.3314566,1.0,True,Correct
+q_01619,OSS,irrelevant,C,0.3481952,0.6666666666666666,True,Correct
+q_01318,Acknowledgment,irrelevant,C,0.22406667,0.8666666666666667,True,Correct
+q_00591,Medical,relevant,C,0.45306665,0.8666666666666667,True,Correct
+q_01188,Acknowledgment,irrelevant,C,0.358572,0.8666666666666667,True,Correct
+q_01560,OSS,irrelevant,C,0.6370761,0.13333333333333333,True,Correct
+q_01115,Feedback,relevant,C,0.43926746,0.13333333333333333,True,Correct
+q_01437,Acknowledgment,irrelevant,C,0.5985143,0.5333333333333333,True,Correct
+q_00966,Automated message,irrelevant,C,0.37974918,1.0,True,Correct
+q_00902,Medical,relevant,C,0.6127484,0.26666666666666666,True,Correct
+q_00975,Automated message,irrelevant,C,0.46402156,1.0,True,Correct
+q_01193,Acknowledgment,irrelevant,C,0.35502207,1.0,True,Correct
+q_01402,Acknowledgment,irrelevant,C,0.41988432,1.0,True,Correct
+q_00538,Medical,relevant,C,0.44394165,0.8666666666666667,True,Correct
+q_00639,Medical,relevant,C,0.6301484,0.8666666666666667,True,Correct
+q_00896,Medical,relevant,C,0.5158091,0.6666666666666666,True,Correct
+q_00243,Language change,relevant,C,0.1744262,1.0,True,Correct
+q_01005,Automated message,irrelevant,C,0.6527964,0.4666666666666667,True,Correct
+q_00701,Medical,relevant,C,0.5840939,0.9333333333333333,True,Correct
+q_00995,Automated message,irrelevant,C,0.3853432,1.0,True,Correct
+q_01656,Other,relevant,C,0.5702137,0.7333333333333333,True,Correct
+q_00496,Medical,relevant,C,0.37567902,0.8,True,Correct
+q_00672,Medical,relevant,C,0.50961256,1.0,True,Correct
+q_01077,Other,relevant,C,0.5118346,0.5333333333333333,False,Error
+q_00792,Medical,relevant,C,0.5788032,1.0,True,Correct
+q_00768,Medical,relevant,C,0.5441646,0.8666666666666667,True,Correct
+q_01085,Medical,relevant,C,0.54168296,0.9333333333333333,True,Correct
+q_01202,Acknowledgment,irrelevant,C,0.3218063,1.0,True,Correct
+q_01138,Acknowledgment,irrelevant,C,0.3710751,0.5333333333333333,True,Correct
+q_00743,Medical,relevant,C,0.46901286,1.0,True,Correct
+q_00857,Medical,relevant,C,0.5115559,0.9333333333333333,True,Correct
+q_00007,Other,relevant,C,0.47388935,0.4666666666666667,True,Correct
+q_01585,OSS,irrelevant,C,0.37236607,0.4666666666666667,True,Correct
+q_01539,Feedback,relevant,C,0.44684327,0.8666666666666667,True,Correct
+q_01165,Feedback,relevant,C,0.51117855,0.3333333333333333,True,Correct
+q_00257,Language change,relevant,C,0.31224197,1.0,True,Correct
+q_00702,Medical,relevant,C,0.48230863,1.0,True,Correct
+q_00996,Automated message,irrelevant,C,0.4196679,1.0,True,Correct
+q_00386,Medical,relevant,C,0.5560748,0.9333333333333333,True,Correct
+q_01492,Feedback,relevant,C,0.45689726,0.4,True,Correct
+q_00405,Medical,relevant,C,0.48952717,0.9333333333333333,True,Correct
+q_00274,Language change,relevant,C,0.097846985,1.0,True,Correct
+q_00251,Language change,relevant,C,0.17435712,1.0,True,Correct
+q_01509,Feedback,relevant,C,0.5371876,0.4,True,Correct
+q_00711,Medical,relevant,C,0.48723078,0.9333333333333333,True,Correct
+q_00346,Medical,relevant,C,0.58157116,1.0,True,Correct
+q_00879,Medical,relevant,C,0.3137796,1.0,True,Correct
+q_01688,Language change,relevant,C,0.36894262,1.0,True,Correct
+q_01740,Delivery confirmation,relevant,C,0.19968462,1.0,True,Correct
+q_01531,Acknowledgment,irrelevant,C,0.4295981,0.8,True,Correct
+q_01382,Acknowledgment,irrelevant,C,0.358572,0.8666666666666667,True,Correct
+q_00968,Automated message,irrelevant,C,0.031609178,0.9333333333333333,True,Correct
+q_00431,Medical,relevant,C,0.5461793,1.0,True,Correct
+q_00173,Acknowledgment,irrelevant,C,0.14806223,1.0,True,Correct
+q_00870,Medical,relevant,C,0.41685092,1.0,True,Correct
+q_00605,Medical,relevant,C,0.3913846,1.0,True,Correct
+q_00144,Other,relevant,C,0.5789547,0.4666666666666667,True,Correct
+q_01659,Other,relevant,C,0.5019398,0.26666666666666666,True,Correct
+q_00066,Greeting,irrelevant,C,0.3445258,0.9333333333333333,True,Correct
+q_00527,Medical,relevant,C,0.44781536,0.8666666666666667,True,Correct
+q_00363,Medical,relevant,C,0.48249018,0.9333333333333333,True,Correct
+q_00131,Acknowledgment,irrelevant,C,0.18861306,1.0,True,Correct
+q_00409,Medical,relevant,C,0.6197836,0.9333333333333333,True,Correct
+q_01123,Acknowledgment,irrelevant,C,0.101878524,0.9333333333333333,True,Correct
+q_01744,Delivery confirmation,relevant,C,0.46231782,0.8666666666666667,True,Correct
+q_00546,Medical,relevant,C,0.4310215,0.9333333333333333,True,Correct
+q_00916,Medical,relevant,C,0.5237127,0.8,True,Correct
+q_00061,Greeting,irrelevant,C,0.08285749,0.9333333333333333,True,Correct
+q_00035,Greeting,irrelevant,C,0.27204108,0.9333333333333333,True,Correct
+q_01451,Acknowledgment,irrelevant,C,0.22817498,0.8,True,Correct
+q_00042,Greeting,irrelevant,C,0.18223041,0.9333333333333333,True,Correct
+q_01696,Language change,relevant,C,0.22875804,1.0,True,Correct
+q_00607,Medical,relevant,C,0.3467492,1.0,True,Correct
+q_00176,Acknowledgment,irrelevant,C,0.5826397,0.7333333333333333,True,Correct
+q_00211,Spam,irrelevant,C,0.73176455,0.5333333333333333,True,Correct
+q_01069,Other,relevant,C,0.45531142,0.4,True,Correct
+q_01348,Acknowledgment,irrelevant,C,0.37096798,0.8666666666666667,True,Correct
+q_00132,Other,relevant,C,0.2800622,0.4666666666666667,True,Correct
+q_00761,Medical,relevant,C,0.62052,0.8,True,Correct
+q_00526,Medical,relevant,C,0.4409572,0.8,True,Correct
+q_01055,Other,relevant,C,0.56420386,0.8,True,Correct
+q_00396,Medical,relevant,C,0.48716092,0.9333333333333333,True,Correct
+q_01790,Delivery confirmation,relevant,C,0.22409213,0.8666666666666667,True,Correct
+q_00053,Greeting,irrelevant,C,0.5260863,1.0,True,Correct
+q_01383,Acknowledgment,irrelevant,C,0.59919316,0.6666666666666666,True,Correct
+q_01043,Spam,irrelevant,C,0.6419745,0.6,True,Correct
+q_00078,Greeting,irrelevant,C,0.22216594,0.9333333333333333,True,Correct
+q_00836,Medical,relevant,C,0.6472202,0.6,True,Correct
+q_01025,Date,relevant,C,0.36608762,1.0,True,Correct
+q_00779,Medical,relevant,C,0.40229428,1.0,True,Correct
+q_01616,OSS,irrelevant,C,0.44402957,0.26666666666666666,True,Correct
+q_01618,OSS,irrelevant,C,0.5260881,0.6,True,Correct
+q_01414,Delivery confirmation,relevant,C,0.56683034,0.26666666666666666,True,Correct
+q_01739,Delivery confirmation,relevant,C,0.40766,0.9333333333333333,True,Correct
+q_00461,Medical,relevant,C,0.41280442,1.0,True,Correct
+q_00614,Medical,relevant,C,0.62128615,0.9333333333333333,True,Correct
+q_00762,Medical,relevant,C,0.5023006,1.0,True,Correct
+q_00665,Medical,relevant,C,0.54058933,0.8,True,Correct
+q_00689,Medical,relevant,C,0.6829916,0.7333333333333333,True,Correct
+q_00001,Greeting,irrelevant,C,0.34775817,0.6,True,Correct
+q_00594,Medical,relevant,C,0.5683058,0.6666666666666666,True,Correct
+q_00862,Medical,relevant,C,0.57464164,0.9333333333333333,True,Correct
+q_01742,Delivery confirmation,relevant,C,0.50614464,0.8666666666666667,True,Correct
+q_00909,Medical,relevant,C,0.5110923,1.0,True,Correct
+q_00181,Acknowledgment,irrelevant,C,0.42962158,0.8666666666666667,True,Correct
+q_00318,Language change,relevant,C,0.17806268,1.0,True,Correct
+q_01770,Delivery confirmation,relevant,C,0.36274773,1.0,True,Correct
+q_01545,OSS,irrelevant,C,0.48139083,0.26666666666666666,True,Correct
+q_00963,Medical,relevant,C,0.36901605,1.0,True,Correct
+q_01666,Language change,relevant,C,0.508334,0.6,True,Correct
+q_01644,OSS,irrelevant,C,0.5489429,0.8666666666666667,True,Correct
+q_01065,Other,relevant,C,0.22678882,0.5333333333333333,True,Correct
+q_01600,OSS,irrelevant,C,0.55005527,0.3333333333333333,True,Correct
+q_00358,Medical,relevant,C,0.48161238,0.9333333333333333,True,Correct
+q_01192,Acknowledgment,irrelevant,C,0.4324156,0.8666666666666667,True,Correct
+q_01207,Feedback,relevant,C,0.677969,0.2,True,Correct
+q_00136,Acknowledgment,irrelevant,C,0.18335736,1.0,True,Correct
+q_01142,Acknowledgment,irrelevant,C,0.22285187,1.0,True,Correct
+q_00516,Medical,relevant,C,0.6167815,0.8,True,Correct
+q_00597,Medical,relevant,C,0.61752284,0.8,True,Correct
+q_00424,Medical,relevant,C,0.41816497,0.8666666666666667,True,Correct
+q_00735,Medical,relevant,C,0.3710413,0.6666666666666666,True,Correct
+q_01497,Acknowledgment,irrelevant,C,0.36277014,0.6,True,Correct
+q_01169,Acknowledgment,irrelevant,C,0.3981191,1.0,True,Correct
+q_00617,Medical,relevant,C,0.63149977,0.9333333333333333,True,Correct
+q_00748,Medical,relevant,C,0.29616976,0.8,True,Correct
+q_00248,Language change,relevant,C,0.118347704,1.0,True,Correct
+q_01127,Acknowledgment,irrelevant,C,0.5602009,0.26666666666666666,True,Correct
+q_01023,Date,relevant,C,0.4390893,1.0,True,Correct
+q_00099,Acknowledgment,irrelevant,C,0.5629401,0.8,True,Correct
+q_00625,Medical,relevant,C,0.50449455,1.0,True,Correct
+q_01331,Acknowledgment,irrelevant,C,0.5775348,0.8666666666666667,True,Correct
+q_00939,Medical,relevant,C,0.43381083,0.8666666666666667,True,Correct
+q_01443,Acknowledgment,irrelevant,C,0.45814955,0.4,True,Correct
+q_01053,Medical,relevant,C,0.28888524,1.0,True,Correct
+q_00402,OSS,irrelevant,C,0.62421906,0.5333333333333333,True,Correct
+q_00246,Language change,relevant,C,0.1986503,1.0,True,Correct
+q_00899,Medical,relevant,C,0.4956724,0.8,True,Correct
+q_00772,Medical,relevant,C,0.5224819,0.9333333333333333,True,Correct
+q_01787,Delivery confirmation,relevant,C,0.33816397,1.0,True,Correct
+q_00979,Automated message,irrelevant,C,0.031609178,1.0,True,Correct
+q_00980,Automated message,irrelevant,C,0.1901241,0.8,True,Correct
+q_01269,Medical,relevant,C,0.49888092,0.9333333333333333,True,Correct
+q_01687,Language change,relevant,C,0.37788624,0.9333333333333333,True,Correct
+q_00038,Acknowledgment,irrelevant,C,0.30551535,1.0,True,Correct
+q_00493,Medical,relevant,C,0.39947003,0.8,True,Correct
+q_01372,Acknowledgment,irrelevant,C,0.37096798,0.8,True,Correct
+q_00079,Greeting,irrelevant,C,0.15993088,0.8,True,Correct
+q_01526,Acknowledgment,irrelevant,C,0.59344345,0.6,True,Correct
+q_01677,Language change,relevant,C,0.1151247,1.0,True,Correct
+q_01046,Other,relevant,C,0.5244987,0.4666666666666667,True,Correct
+q_00531,Medical,relevant,C,0.37567902,0.6666666666666666,True,Correct
+q_00311,Language change,relevant,C,0.29510403,1.0,True,Correct
+q_01174,Acknowledgment,irrelevant,C,0.3660394,0.9333333333333333,True,Correct
+q_00486,Medical,relevant,C,0.44285208,1.0,True,Correct
+q_00530,Medical,relevant,C,0.58371437,0.6666666666666666,True,Correct
+q_00877,Medical,relevant,C,0.49897522,1.0,True,Correct
+q_01734,Delivery confirmation,relevant,C,0.43764722,0.9333333333333333,True,Correct
+q_01599,OSS,irrelevant,C,0.64417535,0.2,True,Correct
+q_00827,Medical,relevant,C,0.50428987,1.0,True,Correct
+q_01298,Acknowledgment,irrelevant,C,0.22199398,1.0,True,Correct
+q_00843,Medical,relevant,C,0.44394165,0.9333333333333333,True,Correct
+q_01625,OSS,irrelevant,C,0.5432782,0.4666666666666667,True,Correct
+q_00556,Medical,relevant,C,0.4738114,0.8666666666666667,True,Correct
+q_01425,Medical,relevant,C,0.5603565,0.2,True,Correct
+q_01011,Date,relevant,C,0.21629572,1.0,True,Correct
+q_01627,OSS,irrelevant,C,0.50175995,0.26666666666666666,True,Correct
+q_00833,Medical,relevant,C,0.53405344,1.0,True,Correct
+q_00397,Medical,relevant,C,0.6270393,0.8,True,Correct
+q_01330,Acknowledgment,irrelevant,C,0.52528995,0.7333333333333333,True,Correct
+q_00767,Medical,relevant,C,0.38297075,1.0,True,Correct
+q_00837,Medical,relevant,C,0.4684729,0.9333333333333333,True,Correct
+q_00984,Automated message,irrelevant,C,0.34516472,0.9333333333333333,True,Correct
+q_01389,Feedback,relevant,C,0.4605918,0.9333333333333333,True,Correct
+q_00118,Acknowledgment,irrelevant,C,0.3321634,0.6666666666666666,True,Correct
+q_00412,Medical,relevant,C,0.53870654,0.8666666666666667,True,Correct
+q_00563,Medical,relevant,C,0.5571891,0.9333333333333333,True,Correct
+q_00168,Acknowledgment,irrelevant,C,0.49741626,0.5333333333333333,True,Correct
+q_00808,Medical,relevant,C,0.4282201,0.9333333333333333,True,Correct
+q_00060,Greeting,irrelevant,C,0.34014338,0.9333333333333333,True,Correct
+q_00368,Medical,relevant,C,0.52157116,0.9333333333333333,True,Correct
+q_01105,Medical,relevant,C,0.41539937,0.8,True,Correct
+q_00809,Medical,relevant,C,0.29616976,0.9333333333333333,True,Correct
+q_00773,Other,relevant,C,0.40165818,1.0,True,Correct
+q_00824,Medical,relevant,C,0.47414875,1.0,True,Correct
+q_01759,Delivery confirmation,relevant,C,0.2833786,1.0,True,Correct
+q_01674,Language change,relevant,C,0.21822411,1.0,True,Correct
+q_01054,Other,relevant,C,0.5567245,0.8,True,Correct
+q_01197,Acknowledgment,irrelevant,C,0.20132488,1.0,True,Correct
+q_00864,Medical,relevant,C,0.35154724,1.0,True,Correct
+q_01122,Acknowledgment,irrelevant,C,0.48237538,0.8666666666666667,True,Correct
+q_01206,Acknowledgment,irrelevant,C,0.4496792,1.0,True,Correct
+q_01305,Acknowledgment,irrelevant,C,0.17858845,0.8666666666666667,False,Error
+q_01803,Date,relevant,C,0.27453125,1.0,True,Correct
+q_00919,Medical,relevant,C,0.41685092,1.0,True,Correct
+q_00709,Medical,relevant,C,0.49255276,0.9333333333333333,True,Correct
+q_00015,Greeting,irrelevant,C,0.12511957,1.0,True,Correct
+q_01074,Other,relevant,C,0.6037227,0.3333333333333333,True,Correct
+q_01108,Medical,relevant,C,0.5991094,0.4,True,Correct
+q_01756,Delivery confirmation,relevant,C,0.3837875,1.0,True,Correct
+q_01470,Acknowledgment,irrelevant,C,0.3391621,1.0,True,Correct
+q_00146,Acknowledgment,irrelevant,C,0.24978161,1.0,True,Correct
+q_01583,OSS,irrelevant,C,0.3423059,1.0,True,Correct
+q_01309,Acknowledgment,irrelevant,C,0.42634624,0.9333333333333333,False,Error
+q_01295,Acknowledgment,irrelevant,C,0.07332748,0.8666666666666667,True,Correct
+q_00900,Medical,relevant,C,0.50087094,0.9333333333333333,True,Correct
+q_00018,Greeting,irrelevant,C,0.2800622,0.6,True,Correct
+q_01465,Acknowledgment,irrelevant,C,0.6424023,0.6666666666666666,True,Correct
+q_01532,Acknowledgment,irrelevant,C,0.28726667,0.5333333333333333,True,Correct
+q_01671,Language change,relevant,C,0.19593906,1.0,True,Correct
+q_01263,Acknowledgment,irrelevant,C,0.30038166,1.0,True,Correct
+q_00270,Language change,relevant,C,0.29326594,1.0,True,Correct
+q_00886,Medical,relevant,C,0.616559,0.8666666666666667,True,Correct
+q_01199,Acknowledgment,irrelevant,C,0.31104428,0.9333333333333333,True,Correct
+q_01396,Acknowledgment,irrelevant,C,0.22406667,0.8666666666666667,True,Correct
+q_00100,Acknowledgment,irrelevant,C,0.37641674,0.6666666666666666,True,Correct
+q_01409,Acknowledgment,irrelevant,C,0.3284701,0.9333333333333333,True,Correct
+q_01232,Acknowledgment,irrelevant,C,0.47763973,0.4666666666666667,True,Correct
+q_01153,Acknowledgment,irrelevant,C,0.5502338,0.6,True,Correct
+q_01775,Delivery confirmation,relevant,C,0.41514802,1.0,True,Correct
+q_01102,Other,relevant,C,0.4800318,0.5333333333333333,True,Correct
+q_01262,Acknowledgment,irrelevant,C,0.3164761,1.0,True,Correct
+q_01308,Acknowledgment,irrelevant,C,0.11167836,0.8666666666666667,True,Correct
+q_00337,Medical,relevant,C,0.57939625,0.6666666666666666,True,Correct
+q_00708,Medical,relevant,C,0.54449576,0.8,True,Correct
+q_00867,Medical,relevant,C,0.41646332,1.0,True,Correct
+q_01080,Other,relevant,C,0.61711824,0.9333333333333333,True,Correct
+q_01324,Feedback,relevant,C,0.43926746,0.2,True,Correct
+q_00890,Medical,relevant,C,0.4251083,1.0,True,Correct
+q_01352,Acknowledgment,irrelevant,C,0.34364814,0.8666666666666667,True,Correct
+q_01101,Other,relevant,C,0.46419704,0.5333333333333333,True,Correct
+q_00392,Medical,relevant,C,0.5581566,1.0,True,Correct
+q_01429,Acknowledgment,irrelevant,C,0.34633386,0.8,False,Error
+q_00120,Other,relevant,C,0.43529236,0.7333333333333333,True,Correct
+q_01167,Delivery confirmation,relevant,C,0.40190524,0.26666666666666666,True,Correct
+q_00188,Acknowledgment,irrelevant,C,0.5179955,0.8,False,Error
+q_01538,Feedback,relevant,C,0.47368312,0.7333333333333333,True,Correct
+q_00143,Acknowledgment,irrelevant,C,0.27829874,1.0,True,Correct
+q_01649,OSS,irrelevant,C,0.5355742,0.4666666666666667,True,Correct
+q_00353,Medical,relevant,C,0.5559665,0.8,True,Correct
+q_00442,Medical,relevant,C,0.41816497,0.8,True,Correct
+q_01604,OSS,irrelevant,C,0.72561574,0.9333333333333333,True,Correct
+q_01132,Acknowledgment,irrelevant,C,0.14580327,1.0,True,Correct
+q_00826,Medical,relevant,C,0.23784178,1.0,True,Correct
+q_00800,Medical,relevant,C,0.4282201,0.9333333333333333,True,Correct
+q_00021,Greeting,irrelevant,C,0.22678882,0.6,True,Correct
+q_01200,Acknowledgment,irrelevant,C,0.25165194,1.0,True,Correct
+q_00710,Medical,relevant,C,0.4002912,0.8666666666666667,True,Correct
+q_00559,Medical,relevant,C,0.4193384,0.8666666666666667,True,Correct
+q_00670,Medical,relevant,C,0.5251214,0.9333333333333333,True,Correct
+q_01518,Acknowledgment,irrelevant,C,0.25877094,0.5333333333333333,True,Correct
+q_01356,Feedback,relevant,C,0.6695671,0.4666666666666667,True,Correct
+q_01440,Acknowledgment,irrelevant,C,0.505775,0.4,True,Correct
+q_00760,Medical,relevant,C,0.4695478,0.7333333333333333,True,Correct
+q_01720,Delivery confirmation,relevant,C,0.3656699,0.9333333333333333,True,Correct
+q_01726,Delivery confirmation,relevant,C,0.47263205,1.0,True,Correct
+q_01189,Acknowledgment,irrelevant,C,0.10117006,1.0,True,Correct
+q_00750,Medical,relevant,C,0.3855996,1.0,True,Correct
+q_01208,Acknowledgment,irrelevant,C,0.28348786,0.9333333333333333,True,Correct
+q_00468,Medical,relevant,C,0.30536193,1.0,True,Correct
+q_00694,Medical,relevant,C,0.55526334,0.9333333333333333,True,Correct
+q_01150,Acknowledgment,irrelevant,C,0.40267342,0.7333333333333333,True,Correct
+q_01433,Delivery confirmation,relevant,C,0.5208346,0.2,True,Correct
+q_01184,Acknowledgment,irrelevant,C,0.44446594,1.0,True,Correct
+q_00019,Greeting,irrelevant,C,0.2653147,1.0,True,Correct
+q_00447,Medical,relevant,C,0.46151417,0.7333333333333333,True,Correct
+q_00696,Medical,relevant,C,0.5731269,1.0,True,Correct
+q_01239,Acknowledgment,irrelevant,C,0.15558445,0.8,True,Correct
+q_00362,Medical,relevant,C,0.56511605,0.9333333333333333,True,Correct
+q_00497,Medical,relevant,C,0.46116424,0.9333333333333333,True,Correct
+q_00109,Acknowledgment,irrelevant,C,0.4268254,0.8,True,Correct
+q_00292,Language change,relevant,C,0.2840777,1.0,True,Correct
+q_01152,Acknowledgment,irrelevant,C,0.07332748,0.8,True,Correct
+q_01498,Acknowledgment,irrelevant,C,0.38637733,0.8,True,Correct
+q_01094,Other,relevant,C,0.25322425,0.4,True,Correct
+q_00714,Medical,relevant,C,0.6206118,1.0,True,Correct
+q_00281,Language change,relevant,C,0.2318418,1.0,True,Correct
+q_01697,Language change,relevant,C,0.17806268,1.0,True,Correct
+q_01678,Language change,relevant,C,0.29326594,1.0,True,Correct
+q_01261,Acknowledgment,irrelevant,C,0.22285187,0.9333333333333333,True,Correct
+q_01229,Acknowledgment,irrelevant,C,0.10234177,1.0,True,Correct
+q_01523,Feedback,relevant,C,0.4471566,0.4666666666666667,True,Correct
+q_01002,Automated message,irrelevant,C,0.31826508,1.0,True,Correct
+q_00186,Acknowledgment,irrelevant,C,0.20108908,1.0,True,Correct
+q_01760,Delivery confirmation,relevant,C,0.3244838,1.0,True,Correct
+q_00390,Medical,relevant,C,0.5599269,0.4666666666666667,True,Correct
+q_01736,Delivery confirmation,relevant,C,0.33574587,1.0,True,Correct
+q_00230,Spam,irrelevant,C,0.6463951,0.5333333333333333,True,Correct
+q_01504,Acknowledgment,irrelevant,C,0.20342642,0.8,True,Correct
+q_00633,Medical,relevant,C,0.4830653,1.0,True,Correct
+q_01063,Other,relevant,C,0.64207184,1.0,True,Correct
+q_00419,Medical,relevant,C,0.57617533,0.6666666666666666,True,Correct
+q_00013,Greeting,irrelevant,C,0.12511957,0.9333333333333333,True,Correct
+q_00730,Medical,relevant,C,0.6593125,1.0,True,Correct
+q_01480,Acknowledgment,irrelevant,C,0.3432142,0.8666666666666667,True,Correct
+q_00795,Medical,relevant,C,0.37672246,1.0,True,Correct
+q_01314,Acknowledgment,irrelevant,C,0.48777366,0.4666666666666667,True,Correct
+q_00039,Greeting,irrelevant,C,0.14882845,0.8,True,Correct
+q_00108,Other,relevant,C,0.5840338,0.3333333333333333,True,Correct
+q_01405,Acknowledgment,irrelevant,C,0.3067177,0.8,True,Correct
+q_00603,Medical,relevant,C,0.4844978,0.8666666666666667,True,Correct
+q_01313,Acknowledgment,irrelevant,C,0.45295596,0.9333333333333333,True,Correct
+q_00328,Medical,relevant,C,0.49373907,1.0,True,Correct
+q_00658,Medical,relevant,C,0.52460843,0.9333333333333333,True,Correct
+q_00545,Medical,relevant,C,0.49255478,1.0,True,Correct
+q_00376,Medical,relevant,C,0.505709,1.0,True,Correct
+q_00635,Medical,relevant,C,0.462781,1.0,True,Correct
+q_00407,Medical,relevant,C,0.6082727,0.8666666666666667,True,Correct
+q_01066,Medical,relevant,C,0.6312484,0.7333333333333333,True,Correct
+q_00110,Acknowledgment,irrelevant,C,0.25877094,0.4,True,Correct
+q_00659,Medical,relevant,C,0.52373755,1.0,True,Correct
+q_00811,Medical,relevant,C,0.5963824,1.0,True,Correct
+q_01525,Acknowledgment,irrelevant,C,0.46250892,0.4,True,Correct
+q_01095,Other,relevant,C,0.43849838,0.4,True,Correct
+q_01376,OSS,irrelevant,C,0.6472202,0.3333333333333333,False,Error
+q_00517,Medical,relevant,C,0.47611624,0.5333333333333333,True,Correct
+q_01477,Feedback,relevant,C,0.5793525,0.4,True,Correct
+q_01126,Acknowledgment,irrelevant,C,0.2667684,1.0,True,Correct
+q_00049,Greeting,irrelevant,C,0.14882845,0.8666666666666667,True,Correct
+q_01071,Other,relevant,C,0.6337046,0.5333333333333333,True,Correct
+q_01333,Acknowledgment,irrelevant,C,0.30580825,0.8666666666666667,True,Correct
+q_01075,Medical,relevant,C,0.5447039,0.8,True,Correct
+q_01704,Language change,relevant,C,0.32313102,1.0,True,Correct
+q_01528,Acknowledgment,irrelevant,C,0.6151725,0.4,True,Correct
+q_00403,Medical,relevant,C,0.5388131,0.9333333333333333,True,Correct
+q_00507,Medical,relevant,C,0.45723695,0.8,True,Correct
+q_00420,Medical,relevant,C,0.50961256,1.0,True,Correct
+q_01765,Delivery confirmation,relevant,C,0.38766068,0.5333333333333333,True,Correct
+q_01391,Acknowledgment,irrelevant,C,0.38187432,0.8,True,Correct
+q_01700,Language change,relevant,C,0.23512852,1.0,True,Correct
+q_00641,Medical,relevant,C,0.5794244,0.8,True,Correct
+q_01529,Medical,relevant,C,0.5547182,0.6666666666666666,True,Correct
+q_00598,Medical,relevant,C,0.5241449,0.8666666666666667,True,Correct
+q_00692,Medical,relevant,C,0.42035657,0.8666666666666667,True,Correct
+q_01218,Acknowledgment,irrelevant,C,0.29155385,1.0,True,Correct
+q_00584,Medical,relevant,C,0.4035958,1.0,True,Correct
+q_00056,Greeting,irrelevant,C,0.3053388,1.0,True,Correct
+q_00070,Greeting,irrelevant,C,0.4157532,0.9333333333333333,True,Correct
+q_00558,Medical,relevant,C,0.47379452,0.9333333333333333,True,Correct
+q_00500,Medical,relevant,C,0.42875654,0.8,True,Correct
+q_01586,OSS,irrelevant,C,0.491809,0.7333333333333333,True,Correct
+q_01679,Language change,relevant,C,0.14304096,1.0,True,Correct
+q_00126,Acknowledgment,irrelevant,C,0.68282175,0.6666666666666666,True,Correct
+q_01209,Acknowledgment,irrelevant,C,0.21953702,1.0,True,Correct
+q_00859,Medical,relevant,C,0.40755963,1.0,True,Correct
+q_01580,OSS,irrelevant,C,0.3491475,0.8,True,Correct
+q_01473,Acknowledgment,irrelevant,C,0.41934007,0.8666666666666667,True,Correct
+q_00031,Greeting,irrelevant,C,0.07841152,1.0,True,Correct
+q_01379,Acknowledgment,irrelevant,C,0.41972733,0.8666666666666667,False,Error
+q_01793,Date,relevant,C,0.20387417,1.0,True,Correct
+q_00301,Language change,relevant,C,0.22875804,1.0,True,Correct
+q_00158,Acknowledgment,irrelevant,C,0.25196058,1.0,True,Correct
+q_00352,Medical,relevant,C,0.535504,0.8,True,Correct
+q_00399,Medical,relevant,C,0.62913734,0.8666666666666667,True,Correct
+q_00715,Medical,relevant,C,0.47783756,1.0,True,Correct
+q_00970,Automated message,irrelevant,C,0.29964215,1.0,True,Correct
+q_01217,Acknowledgment,irrelevant,C,0.28876382,1.0,True,Correct
+q_00041,Greeting,irrelevant,C,0.19464934,0.9333333333333333,True,Correct
+q_00375,Medical,relevant,C,0.4835804,1.0,True,Correct
+q_01051,Medical,relevant,C,0.53870654,0.8666666666666667,True,Correct
+q_00679,Medical,relevant,C,0.50326395,0.8666666666666667,True,Correct
+q_00948,Medical,relevant,C,0.5455994,0.8666666666666667,True,Correct
+q_01650,OSS,irrelevant,C,0.49864835,0.26666666666666666,True,Correct
+q_01243,Acknowledgment,irrelevant,C,0.18954146,0.8,True,Correct
+q_01289,Acknowledgment,irrelevant,C,0.3238107,0.9333333333333333,True,Correct
+q_00428,Medical,relevant,C,0.47288883,0.8,True,Correct
+q_01484,Feedback,relevant,C,0.57690275,0.6666666666666666,False,Error
+q_00566,Medical,relevant,C,0.40609872,0.8,True,Correct
+q_00513,Medical,relevant,C,0.57331634,0.9333333333333333,True,Correct
+q_00400,Medical,relevant,C,0.58367926,0.8666666666666667,True,Correct
+q_00043,Greeting,irrelevant,C,0.5747434,0.8,True,Correct
+q_00810,Medical,relevant,C,0.35046363,1.0,True,Correct
+q_00840,Medical,relevant,C,0.6154158,0.8666666666666667,True,Correct
+q_01399,Delivery confirmation,relevant,C,0.41884142,1.0,True,Correct
+q_01741,Delivery confirmation,relevant,C,0.5624087,0.7333333333333333,True,Correct
+q_01260,Acknowledgment,irrelevant,C,0.32519072,0.8666666666666667,True,Correct
+q_01461,Acknowledgment,irrelevant,C,0.44951499,0.8,True,Correct
+q_00930,Medical,relevant,C,0.53119564,0.8666666666666667,True,Correct
+q_00349,Medical,relevant,C,0.44781536,0.8666666666666667,True,Correct
+q_01024,Date,relevant,C,0.21518761,1.0,True,Correct
+q_00191,Acknowledgment,irrelevant,C,0.14806223,1.0,True,Correct
+q_00192,Acknowledgment,irrelevant,C,0.6685201,0.8,True,Correct
+q_00161,Other,relevant,C,0.35313606,0.5333333333333333,True,Correct
+q_01519,Medical,relevant,C,0.56154335,0.8666666666666667,True,Correct
+q_01597,OSS,irrelevant,C,0.45851916,0.9333333333333333,True,Correct
+q_01768,Delivery confirmation,relevant,C,0.66273546,0.8666666666666667,True,Correct
+q_00425,Medical,relevant,C,0.47201693,0.6666666666666666,True,Correct
+q_00309,Language change,relevant,C,0.41953546,1.0,True,Correct
+q_00137,Acknowledgment,irrelevant,C,0.27736837,1.0,True,Correct
+q_01535,Acknowledgment,irrelevant,C,0.43355066,0.7333333333333333,True,Correct
+q_00002,Greeting,irrelevant,C,0.47560692,0.8,True,Correct
+q_01353,Acknowledgment,irrelevant,C,0.42264044,0.9333333333333333,True,Correct
+q_01016,Date,relevant,C,0.51008356,1.0,True,Correct
+q_00320,Language change,relevant,C,0.28533977,0.9333333333333333,True,Correct
+q_00130,Acknowledgment,irrelevant,C,0.19019842,1.0,True,Correct
+q_00051,Greeting,irrelevant,C,0.5431787,0.8666666666666667,True,Correct

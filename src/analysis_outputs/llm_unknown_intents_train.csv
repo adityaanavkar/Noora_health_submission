@@ -1,0 +1,4 @@
+query_id,intent,label,predicted_intent,predicted_label,correct_routing
+q_00602,Other,relevant,Abuse,irrelevant,False
+q_01077,Other,relevant,Unsubscribe,irrelevant,False
+q_01484,Feedback,relevant,Unsubscribe,irrelevant,False

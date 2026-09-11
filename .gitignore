@@ -1,0 +1,6 @@
+# Local Python environments and caches
+test_venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -1,0 +1,12 @@
+label,intent,count,percent
+relevant,Medical,334,36.98781838316722
+irrelevant,Acknowledgment,208,23.034330011074196
+relevant,Language change,70,7.751937984496124
+irrelevant,OSS,57,6.312292358803987
+relevant,Other,51,5.647840531561462
+relevant,Delivery confirmation,46,5.094130675526024
+irrelevant,Greeting,46,5.094130675526024
+relevant,Feedback,34,3.7652270210409746
+irrelevant,Automated message,22,2.4363233665559245
+relevant,Date,22,2.4363233665559245
+irrelevant,Spam,13,1.4396456256921373

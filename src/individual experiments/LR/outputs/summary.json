@@ -1,0 +1,618 @@
+{
+  "stage": "version_1_part2_logistic_regression",
+  "cache_hit": false,
+  "source_fingerprint": "a84676b586107bb8baf621a013f2e9ce1f5fc0e5762d5b30594772ba6a03ea43",
+  "test_metadata_fingerprint": "5f47022efe247427d0f49eb7fde9b927a376243ebbd2a4e8ed55811c92482f11",
+  "config_fingerprint": "5939bec9426086fe9cf58339dbe39c80b7425142ef71c8f7ce3d58fb69b0aa3c",
+  "cache_fingerprint": "daada54f1ac81665bfe4ebb113a37ed838f0b4e7639d2e37851c53d6bf2528d6",
+  "selection": {
+    "outer_fold_choices": [
+      {
+        "outer_fold": 0,
+        "outer_train_rows": 722,
+        "outer_test_rows": 181,
+        "selected_embedding": "b",
+        "selected_C": 10.0,
+        "selected_class_weight": "None",
+        "selected_mean_inner_average_precision": 0.964353363851498,
+        "brier_raw": 0.08919525496125812,
+        "brier_sigmoid": 0.09006266769818189,
+        "probability_method": "raw",
+        "threshold_default_0_5": 0.5,
+        "threshold_balanced_macro_f1": 0.5309690237045288,
+        "threshold_recall_first": 0.17525888979434967,
+        "recall_first_feasible": true,
+        "recall_first_fallback_used": false,
+        "inner_probability_coverage": true,
+        "calibration_excludes_inner_heldout": true,
+        "outer_holdout_excluded_selection": true
+      },
+      {
+        "outer_fold": 1,
+        "outer_train_rows": 722,
+        "outer_test_rows": 181,
+        "selected_embedding": "b",
+        "selected_C": 10.0,
+        "selected_class_weight": "balanced",
+        "selected_mean_inner_average_precision": 0.9674153043372042,
+        "brier_raw": 0.09162800698960685,
+        "brier_sigmoid": 0.09047435467610832,
+        "probability_method": "sigmoid",
+        "threshold_default_0_5": 0.5,
+        "threshold_balanced_macro_f1": 0.4240620209829036,
+        "threshold_recall_first": 0.19029269311087393,
+        "recall_first_feasible": true,
+        "recall_first_fallback_used": false,
+        "inner_probability_coverage": true,
+        "calibration_excludes_inner_heldout": true,
+        "outer_holdout_excluded_selection": true
+      },
+      {
+        "outer_fold": 2,
+        "outer_train_rows": 723,
+        "outer_test_rows": 180,
+        "selected_embedding": "b",
+        "selected_C": 10.0,
+        "selected_class_weight": "balanced",
+        "selected_mean_inner_average_precision": 0.9624565352204825,
+        "brier_raw": 0.08961885433375806,
+        "brier_sigmoid": 0.08825476348931582,
+        "probability_method": "sigmoid",
+        "threshold_default_0_5": 0.5,
+        "threshold_balanced_macro_f1": 0.5853441191887626,
+        "threshold_recall_first": 0.17981243659258395,
+        "recall_first_feasible": true,
+        "recall_first_fallback_used": false,
+        "inner_probability_coverage": true,
+        "calibration_excludes_inner_heldout": true,
+        "outer_holdout_excluded_selection": true
+      },
+      {
+        "outer_fold": 3,
+        "outer_train_rows": 723,
+        "outer_test_rows": 180,
+        "selected_embedding": "c",
+        "selected_C": 10.0,
+        "selected_class_weight": "balanced",
+        "selected_mean_inner_average_precision": 0.9635443655494034,
+        "brier_raw": 0.09349468650235743,
+        "brier_sigmoid": 0.09251726798499614,
+        "probability_method": "sigmoid",
+        "threshold_default_0_5": 0.5,
+        "threshold_balanced_macro_f1": 0.5312941176820732,
+        "threshold_recall_first": 0.1589207622098857,
+        "recall_first_feasible": true,
+        "recall_first_fallback_used": false,
+        "inner_probability_coverage": true,
+        "calibration_excludes_inner_heldout": true,
+        "outer_holdout_excluded_selection": true
+      },
+      {
+        "outer_fold": 4,
+        "outer_train_rows": 722,
+        "outer_test_rows": 181,
+        "selected_embedding": "b",
+        "selected_C": 10.0,
+        "selected_class_weight": "None",
+        "selected_mean_inner_average_precision": 0.9625551040317336,
+        "brier_raw": 0.09084852469123972,
+        "brier_sigmoid": 0.09055683345925575,
+        "probability_method": "sigmoid",
+        "threshold_default_0_5": 0.5,
+        "threshold_balanced_macro_f1": 0.4209588787991171,
+        "threshold_recall_first": 0.19572169607681125,
+        "recall_first_feasible": true,
+        "recall_first_fallback_used": false,
+        "inner_probability_coverage": true,
+        "calibration_excludes_inner_heldout": true,
+        "outer_holdout_excluded_selection": true
+      }
+    ],
+    "final_embedding": "b",
+    "final_C": 10.0,
+    "final_class_weight": "balanced",
+    "final_mean_inner_average_precision": 0.96313754048278,
+    "final_probability_method": "sigmoid",
+    "final_brier_raw": 0.09299728978542832,
+    "final_brier_sigmoid": 0.09192174956399812,
+    "final_thresholds": {
+      "default_0_5": 0.5,
+      "balanced_macro_f1": 0.4345083560256994,
+      "recall_first": 0.24048238230956684
+    },
+    "recommended_policy": "recall_first",
+    "recommended_threshold": 0.24048238230956684,
+    "development_note": "All final choices are inner-development choices; outer scores remain the held-out estimate of the complete procedure."
+  },
+  "config": {
+    "implementation_version": "lr-part2-nested-v1",
+    "model_family": "logistic_regression",
+    "embeddings": {
+      "a": {
+        "dimensions": 384,
+        "inputs": "raw normalized vectors"
+      },
+      "b": {
+        "dimensions": 768,
+        "inputs": "raw normalized vectors"
+      },
+      "c": {
+        "dimensions": 1536,
+        "inputs": "raw normalized vectors"
+      }
+    },
+    "duplicate_groups": "connected components of exact row matches in the union of training embeddings A/B/C",
+    "outer": {
+      "splitter": "StratifiedGroupKFold",
+      "n_splits": 5,
+      "shuffle": true,
+      "random_state": 42,
+      "stratification": "binary label"
+    },
+    "inner": {
+      "splitter": "StratifiedGroupKFold",
+      "n_splits": 3,
+      "shuffle": true,
+      "random_state": 43,
+      "scope": "each outer training partition"
+    },
+    "search": {
+      "penalty": "l2",
+      "solver": "lbfgs",
+      "C": [
+        0.01,
+        0.1,
+        1.0,
+        10.0,
+        100.0
+      ],
+      "class_weight": [
+        null,
+        "balanced"
+      ],
+      "max_iter": 3000,
+      "selection_score": "mean inner average_precision",
+      "tie_break": [
+        "abs(log(C)) closest to 0",
+        "embedding name ascending",
+        "class_weight None before balanced"
+      ]
+    },
+    "calibration": {
+      "methods": [
+        "raw",
+        "sigmoid"
+      ],
+      "method": "sigmoid",
+      "cv": "explicit StratifiedGroupKFold 3-way splits within each inner-training partition",
+      "ensemble": false,
+      "selection_score": "lower pooled inner-heldout Brier score; raw on exact tie",
+      "exclusion": "each inner-heldout row is excluded from both base-model fitting and calibration fitting"
+    },
+    "thresholds": {
+      "default": 0.5,
+      "balanced_macro_f1": "maximum macro-F1",
+      "recall_first": {
+        "minimum_relevant_recall": 0.98,
+        "minimum_medical_recall": 0.99,
+        "objective": "minimum false positives among feasible thresholds",
+        "assumption": true
+      },
+      "candidate_values": "0, 1, 0.5, and unique chosen inner-heldout probabilities",
+      "tie_break": "higher relevant recall, higher precision, then higher threshold where applicable"
+    },
+    "baselines": {
+      "fixed_logistic_regression": "each A/B/C, raw vectors, C=1, class_weight=None, max_iter=3000, threshold=0.5",
+      "llm": "frozen supplied training predictions joined by query_id",
+      "always_relevant": "constant relevant label; no score"
+    },
+    "blind_test": "loaded only after final all-training inner development selection and threshold freeze; no test labels are available",
+    "assumptions": "98% relevant recall and 99% Medical recall are illustrative development targets, not assignment requirements or safety guarantees",
+    "source_data": {
+      "relative_data_dir": "intent-classification-assignment\\intent-classification-assignment",
+      "source_fingerprint": "a84676b586107bb8baf621a013f2e9ce1f5fc0e5762d5b30594772ba6a03ea43",
+      "test_metadata_fingerprint": "5f47022efe247427d0f49eb7fde9b927a376243ebbd2a4e8ed55811c92482f11"
+    },
+    "config_fingerprint": "5939bec9426086fe9cf58339dbe39c80b7425142ef71c8f7ce3d58fb69b0aa3c",
+    "cache_fingerprint": "daada54f1ac81665bfe4ebb113a37ed838f0b4e7639d2e37851c53d6bf2528d6"
+  },
+  "counts": {
+    "train_rows": 903,
+    "test_rows": 904,
+    "outer_folds": 5,
+    "inner_folds": 3,
+    "group_count": 902,
+    "duplicate_rows_absorbed": 1,
+    "largest_group": 2,
+    "medical_train_rows": 334,
+    "candidate_configurations_per_search": 30
+  },
+  "metrics": [
+    {
+      "system": "tuned_lr",
+      "embedding": "tuned",
+      "policy": "default_0_5",
+      "evaluation": "outer_oof_aggregate",
+      "n": 903,
+      "accuracy": 0.8726467331118494,
+      "macro_f1": 0.8634791422632921,
+      "precision": 0.8810344827586207,
+      "recall": 0.9174147217235189,
+      "specificity": 0.8005780346820809,
+      "tp": 511,
+      "tn": 277,
+      "fp": 69,
+      "fn": 46,
+      "medical_fn": 14,
+      "medical_n": 334,
+      "medical_recall": 0.9580838323353293,
+      "referral_fraction": 0.6423034330011074,
+      "roc_auc": 0.9366289266404458,
+      "average_precision": 0.9583791060293543,
+      "score_available": true,
+      "note": "Nested selected LR; pooled OOF scores come from different fold-specific fitted models and are descriptive."
+    },
+    {
+      "system": "tuned_lr",
+      "embedding": "tuned",
+      "policy": "balanced_macro_f1",
+      "evaluation": "outer_oof_aggregate",
+      "n": 903,
+      "accuracy": 0.8660022148394242,
+      "macro_f1": 0.8572160374683266,
+      "precision": 0.8824561403508772,
+      "recall": 0.9030520646319569,
+      "specificity": 0.8063583815028902,
+      "tp": 503,
+      "tn": 279,
+      "fp": 67,
+      "fn": 54,
+      "medical_fn": 18,
+      "medical_n": 334,
+      "medical_recall": 0.9461077844311377,
+      "referral_fraction": 0.6312292358803987,
+      "roc_auc": 0.9366289266404458,
+      "average_precision": 0.9583791060293543,
+      "score_available": true,
+      "note": "Nested selected LR; pooled OOF scores come from different fold-specific fitted models and are descriptive."
+    },
+    {
+      "system": "tuned_lr",
+      "embedding": "tuned",
+      "policy": "recall_first",
+      "evaluation": "outer_oof_aggregate",
+      "n": 903,
+      "accuracy": 0.8394241417497231,
+      "macro_f1": 0.813973940581343,
+      "precision": 0.8029411764705883,
+      "recall": 0.9802513464991023,
+      "specificity": 0.6127167630057804,
+      "tp": 546,
+      "tn": 212,
+      "fp": 134,
+      "fn": 11,
+      "medical_fn": 1,
+      "medical_n": 334,
+      "medical_recall": 0.9970059880239521,
+      "referral_fraction": 0.7530454042081949,
+      "roc_auc": 0.9366289266404458,
+      "average_precision": 0.9583791060293543,
+      "score_available": true,
+      "note": "Illustrative recall-first targets are assumptions; pooled OOF scores are descriptive."
+    },
+    {
+      "system": "baseline_lr_a",
+      "embedding": "a",
+      "policy": "default_0_5",
+      "evaluation": "outer_oof_aggregate",
+      "n": 903,
+      "accuracy": 0.8538205980066446,
+      "macro_f1": 0.8404952307544079,
+      "precision": 0.8500823723228995,
+      "recall": 0.926391382405745,
+      "specificity": 0.7369942196531792,
+      "tp": 516,
+      "tn": 255,
+      "fp": 91,
+      "fn": 41,
+      "medical_fn": 6,
+      "medical_n": 334,
+      "medical_recall": 0.9820359281437125,
+      "referral_fraction": 0.6722037652270211,
+      "roc_auc": 0.9262460954120444,
+      "average_precision": 0.9502019524592175,
+      "score_available": true,
+      "note": "Fixed C=1 unweighted LR baseline evaluated on the same outer folds."
+    },
+    {
+      "system": "baseline_lr_b",
+      "embedding": "b",
+      "policy": "default_0_5",
+      "evaluation": "outer_oof_aggregate",
+      "n": 903,
+      "accuracy": 0.8737541528239202,
+      "macro_f1": 0.8622458811060796,
+      "precision": 0.8649093904448105,
+      "recall": 0.9425493716337523,
+      "specificity": 0.7630057803468208,
+      "tp": 525,
+      "tn": 264,
+      "fp": 82,
+      "fn": 32,
+      "medical_fn": 4,
+      "medical_n": 334,
+      "medical_recall": 0.9880239520958084,
+      "referral_fraction": 0.6722037652270211,
+      "roc_auc": 0.943005987899669,
+      "average_precision": 0.9625039393746164,
+      "score_available": true,
+      "note": "Fixed C=1 unweighted LR baseline evaluated on the same outer folds."
+    },
+    {
+      "system": "baseline_lr_c",
+      "embedding": "c",
+      "policy": "default_0_5",
+      "evaluation": "outer_oof_aggregate",
+      "n": 903,
+      "accuracy": 0.8560354374307863,
+      "macro_f1": 0.8401082017586872,
+      "precision": 0.838351822503962,
+      "recall": 0.9497307001795332,
+      "specificity": 0.7052023121387283,
+      "tp": 529,
+      "tn": 244,
+      "fp": 102,
+      "fn": 28,
+      "medical_fn": 3,
+      "medical_n": 334,
+      "medical_recall": 0.9910179640718563,
+      "referral_fraction": 0.698781838316722,
+      "roc_auc": 0.9343977335228983,
+      "average_precision": 0.9556124300676192,
+      "score_available": true,
+      "note": "Fixed C=1 unweighted LR baseline evaluated on the same outer folds."
+    },
+    {
+      "system": "llm_train",
+      "embedding": "",
+      "policy": "frozen_label",
+      "evaluation": "outer_oof_aggregate",
+      "n": 903,
+      "accuracy": 0.9789590254706534,
+      "macro_f1": 0.9776820383139968,
+      "precision": 0.9786476868327402,
+      "recall": 0.9874326750448833,
+      "specificity": 0.9653179190751445,
+      "tp": 550,
+      "tn": 334,
+      "fp": 12,
+      "fn": 7,
+      "medical_fn": 0,
+      "medical_n": 334,
+      "medical_recall": 1.0,
+      "referral_fraction": 0.6223698781838317,
+      "roc_auc": null,
+      "average_precision": null,
+      "score_available": false,
+      "note": "Frozen label-only LLM baseline joined by query_id; ROC-AUC and average precision are undefined without probabilities."
+    },
+    {
+      "system": "always_relevant",
+      "embedding": "",
+      "policy": "always_relevant",
+      "evaluation": "outer_oof_aggregate",
+      "n": 903,
+      "accuracy": 0.6168327796234773,
+      "macro_f1": 0.3815068493150685,
+      "precision": 0.6168327796234773,
+      "recall": 1.0,
+      "specificity": 0.0,
+      "tp": 557,
+      "tn": 0,
+      "fp": 346,
+      "fn": 0,
+      "medical_fn": 0,
+      "medical_n": 334,
+      "medical_recall": 1.0,
+      "referral_fraction": 1.0,
+      "roc_auc": null,
+      "average_precision": null,
+      "score_available": false,
+      "note": "Constant endpoint; ROC-AUC and average precision are undefined without probabilities."
+    }
+  ],
+  "checks": {
+    "train_rows_903": true,
+    "train_ids_unique": true,
+    "labels_valid": true,
+    "policy_intent_labels_match": true,
+    "embedding_shapes_and_finiteness": true,
+    "normalized_training_embeddings": true,
+    "duplicate_groups_union_ABC": true,
+    "outer_folds_5": true,
+    "outer_group_disjoint": true,
+    "inner_group_disjoint": true,
+    "shared_outer_split_for_ABC": true,
+    "outer_oof_coverage_903": true,
+    "inner_crossfit_coverage": true,
+    "calibration_complete_exclusion": true,
+    "threshold_endpoints_and_default_included": true,
+    "threshold_zero_division_safe": true,
+    "outer_holdout_excluded_all_selection": true,
+    "auc_ap_probabilities_only": true,
+    "llm_auc_ap_null": true,
+    "test_rows_904": true,
+    "test_order_preserved": true,
+    "test_probabilities_finite_and_bounded": true,
+    "test_loaded_after_final_selection": true,
+    "joblib_model_saved": true
+  },
+  "artifacts": {
+    "configuration.json": "outputs\\configuration.json",
+    "protocol.json": "outputs\\protocol.json",
+    "summary.json": "outputs\\summary.json",
+    "candidate_results.csv": "outputs\\candidate_results.csv",
+    "inner_search_records.csv": "outputs\\inner_search_records.csv",
+    "outer_predictions.csv": "outputs\\outer_predictions.csv",
+    "metrics.csv": "outputs\\metrics.csv",
+    "fold_choices.csv": "outputs\\fold_choices.csv",
+    "splits.csv": "outputs\\splits.csv",
+    "threshold_sweep.csv": "outputs\\threshold_sweep.csv",
+    "test_predictions.csv": "outputs\\test_predictions.csv",
+    "environment.json": "outputs\\environment.json",
+    "requirements_versions.json": "outputs\\requirements_versions.json",
+    "artifact_schema.json": "outputs\\artifact_schema.json",
+    "final_model.joblib": "outputs\\final_model.joblib"
+  },
+  "artifact_schema": {
+    "candidate_results.csv": {
+      "key_columns": [
+        "selection_scope",
+        "outer_fold",
+        "embedding",
+        "C",
+        "class_weight",
+        "mean_inner_average_precision",
+        "inner_average_precision_0",
+        "inner_average_precision_1",
+        "inner_average_precision_2"
+      ],
+      "purpose": "All 30 LR candidates for each outer training partition and the final all-training development selection."
+    },
+    "inner_search_records.csv": {
+      "same_schema_as": "candidate_results.csv"
+    },
+    "splits.csv": {
+      "key_columns": [
+        "split_level",
+        "outer_fold",
+        "inner_fold",
+        "role",
+        "row_index",
+        "query_id",
+        "group_id",
+        "truth",
+        "label",
+        "intent"
+      ],
+      "purpose": "Long-form outer and inner grouped split membership for every training row."
+    },
+    "fold_choices.csv": {
+      "key_columns": [
+        "outer_fold",
+        "selected_embedding",
+        "selected_C",
+        "selected_class_weight",
+        "probability_method",
+        "threshold_default_0_5",
+        "threshold_balanced_macro_f1",
+        "threshold_recall_first"
+      ],
+      "purpose": "Per-outer-fold choices made without that fold's holdout."
+    },
+    "outer_predictions.csv": {
+      "key_columns": [
+        "row_index",
+        "query_id",
+        "outer_fold",
+        "truth",
+        "true_label",
+        "intent",
+        "p_raw",
+        "p_chosen",
+        "threshold_default_0_5",
+        "threshold_balanced_macro_f1",
+        "threshold_recall_first",
+        "label_default_0_5",
+        "label_balanced_macro_f1",
+        "label_recall_first",
+        "baseline_a_p_relevant",
+        "baseline_b_p_relevant",
+        "baseline_c_p_relevant",
+        "llm_predicted_label"
+      ],
+      "purpose": "Exactly one outer-held-out prediction row for each of the 903 labeled examples."
+    },
+    "metrics.csv": {
+      "key_columns": [
+        "system",
+        "policy",
+        "evaluation",
+        "accuracy",
+        "macro_f1",
+        "precision",
+        "recall",
+        "specificity",
+        "tp",
+        "tn",
+        "fp",
+        "fn",
+        "medical_fn",
+        "medical_n",
+        "roc_auc",
+        "average_precision"
+      ],
+      "purpose": "Aggregate outer OOF and per-fold metrics; AUC/AP are populated only for probability-scored systems."
+    },
+    "threshold_sweep.csv": {
+      "key_columns": [
+        "selection_scope",
+        "row_scope",
+        "selected_probability_method",
+        "threshold",
+        "macro_f1",
+        "relevant_recall",
+        "precision",
+        "fp",
+        "medical_fn",
+        "medical_n",
+        "feasible_recall_first"
+      ],
+      "purpose": "Final all-training inner-development threshold tradeoff, kept separate from outer evaluation."
+    },
+    "test_predictions.csv": {
+      "key_columns": [
+        "query_id",
+        "predicted_label",
+        "p_relevant",
+        "policy",
+        "threshold"
+      ],
+      "purpose": "904 blind-test predictions in exact source order using the final illustrative recall-first policy; no test LLM baseline is read or exported."
+    },
+    "configuration.json": {
+      "purpose": "Protocol, source/config fingerprints, assumptions, and artifact contract."
+    },
+    "protocol.json": {
+      "same_schema_as": "configuration.json"
+    },
+    "summary.json": {
+      "purpose": "Notebook-friendly final selection, counts, aggregate metrics, checks, artifact paths, and limitations."
+    },
+    "final_model.joblib": {
+      "purpose": "Final raw or sigmoid calibrated predictor plus recipe metadata, when joblib is available."
+    }
+  },
+  "warnings": {
+    "convergence": [],
+    "coverage": []
+  },
+  "limitations": [
+    "Blind test has no supplied truth labels.",
+    "Recall-first Medical and relevant targets are assumptions, not safety guarantees.",
+    "Pooled outer OOF AUC/AP combine scores from fold-specific fitted models and are descriptive.",
+    "The frozen LLM provides labels only, so ROC-AUC/AP are null."
+  ],
+  "environment": {
+    "python": "3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scikit_learn": "1.9.0",
+    "joblib": "1.6.0",
+    "seeds": {
+      "outer": 42,
+      "inner": 43
+    }
+  }
+}

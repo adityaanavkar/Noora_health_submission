@@ -1,0 +1,495 @@
+{
+  "implementation_version": "rf-part2-nested-v2",
+  "model_family": "random_forest",
+  "embeddings": {
+    "a": {
+      "dimensions": 384,
+      "inputs": "raw normalized vectors"
+    },
+    "b": {
+      "dimensions": 768,
+      "inputs": "raw normalized vectors"
+    },
+    "c": {
+      "dimensions": 1536,
+      "inputs": "raw normalized vectors"
+    }
+  },
+  "duplicate_groups": "connected components of exact row matches in the union of training embeddings A/B/C",
+  "outer": {
+    "splitter": "StratifiedGroupKFold",
+    "n_splits": 5,
+    "shuffle": true,
+    "random_state": 42,
+    "stratification": "binary label",
+    "shared_with": "version 1 part2"
+  },
+  "inner": {
+    "splitter": "StratifiedGroupKFold",
+    "n_splits": 3,
+    "shuffle": true,
+    "random_state": 43,
+    "scope": "each outer training partition"
+  },
+  "search": {
+    "n_estimators": 200,
+    "random_state": 42,
+    "n_jobs": 2,
+    "universe": {
+      "max_depth": [
+        8,
+        null
+      ],
+      "min_samples_leaf": [
+        1,
+        4,
+        12
+      ],
+      "max_features": [
+        "sqrt",
+        0.1
+      ],
+      "class_weight": [
+        null,
+        "balanced"
+      ]
+    },
+    "frozen_configuration_count": 24,
+    "configurations_per_search": 72,
+    "grid_selection": "exhaustive universe; frozen before outer evaluation",
+    "selection_score": "mean inner average_precision",
+    "tie_break": [
+      "larger min_samples_leaf",
+      "max_depth=8 before None",
+      "max_features=sqrt before 0.1",
+      "class_weight None before balanced",
+      "embedding alphabetical"
+    ],
+    "grid": [
+      {
+        "config_id": "rf_00",
+        "max_depth": 8,
+        "min_samples_leaf": 12,
+        "max_features": "sqrt",
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 12,
+          "max_features": "sqrt",
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_01",
+        "max_depth": 8,
+        "min_samples_leaf": 12,
+        "max_features": "sqrt",
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 12,
+          "max_features": "sqrt",
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_02",
+        "max_depth": 8,
+        "min_samples_leaf": 12,
+        "max_features": 0.1,
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 12,
+          "max_features": 0.1,
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_03",
+        "max_depth": 8,
+        "min_samples_leaf": 12,
+        "max_features": 0.1,
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 12,
+          "max_features": 0.1,
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_04",
+        "max_depth": 8,
+        "min_samples_leaf": 4,
+        "max_features": "sqrt",
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 4,
+          "max_features": "sqrt",
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_05",
+        "max_depth": 8,
+        "min_samples_leaf": 4,
+        "max_features": "sqrt",
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 4,
+          "max_features": "sqrt",
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        },
+        "embedding": "b"
+      },
+      {
+        "config_id": "rf_06",
+        "max_depth": 8,
+        "min_samples_leaf": 4,
+        "max_features": 0.1,
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 4,
+          "max_features": 0.1,
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_07",
+        "max_depth": 8,
+        "min_samples_leaf": 4,
+        "max_features": 0.1,
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 4,
+          "max_features": 0.1,
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        },
+        "embedding": "b"
+      },
+      {
+        "config_id": "rf_08",
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt",
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 1,
+          "max_features": "sqrt",
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_09",
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt",
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 1,
+          "max_features": "sqrt",
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        },
+        "embedding": "b"
+      },
+      {
+        "config_id": "rf_10",
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "max_features": 0.1,
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 1,
+          "max_features": 0.1,
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_11",
+        "max_depth": 8,
+        "min_samples_leaf": 1,
+        "max_features": 0.1,
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": 8,
+          "min_samples_leaf": 1,
+          "max_features": 0.1,
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        },
+        "embedding": "b"
+      },
+      {
+        "config_id": "rf_12",
+        "max_depth": null,
+        "min_samples_leaf": 12,
+        "max_features": "sqrt",
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 12,
+          "max_features": "sqrt",
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_13",
+        "max_depth": null,
+        "min_samples_leaf": 12,
+        "max_features": "sqrt",
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 12,
+          "max_features": "sqrt",
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_14",
+        "max_depth": null,
+        "min_samples_leaf": 12,
+        "max_features": 0.1,
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 12,
+          "max_features": 0.1,
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_15",
+        "max_depth": null,
+        "min_samples_leaf": 12,
+        "max_features": 0.1,
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 12,
+          "max_features": 0.1,
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_16",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "max_features": "sqrt",
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 4,
+          "max_features": "sqrt",
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_17",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "max_features": "sqrt",
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 4,
+          "max_features": "sqrt",
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_18",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "max_features": 0.1,
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 4,
+          "max_features": 0.1,
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_19",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "max_features": 0.1,
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 4,
+          "max_features": 0.1,
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_20",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt",
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 1,
+          "max_features": "sqrt",
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_21",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt",
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 1,
+          "max_features": "sqrt",
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_22",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "max_features": 0.1,
+        "class_weight": null,
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 1,
+          "max_features": 0.1,
+          "class_weight": null,
+          "random_state": 42,
+          "n_jobs": 2
+        }
+      },
+      {
+        "config_id": "rf_23",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "max_features": 0.1,
+        "class_weight": "balanced",
+        "forest_params": {
+          "n_estimators": 200,
+          "max_depth": null,
+          "min_samples_leaf": 1,
+          "max_features": 0.1,
+          "class_weight": "balanced",
+          "random_state": 42,
+          "n_jobs": 2
+        },
+        "embedding": "b"
+      }
+    ]
+  },
+  "calibration": {
+    "methods": [
+      "raw",
+      "sigmoid"
+    ],
+    "selection_score": "lower pooled inner-heldout Brier score; raw on exact tie",
+    "ensemble": false,
+    "exclusion": "each inner-heldout row is excluded from both base-model fitting and calibration fitting"
+  },
+  "thresholds": {
+    "default": 0.5,
+    "balanced_macro_f1": "maximum macro-F1",
+    "recall_first": {
+      "minimum_relevant_recall": 0.98,
+      "minimum_medical_recall": 0.99,
+      "objective": "minimum false positives among feasible thresholds",
+      "assumption": true
+    },
+    "candidate_values": "0, 1, 0.5, and unique chosen inner-heldout probabilities"
+  },
+  "baselines": {
+    "imported_logistic_regression": "saved Version 1 outer predictions and metrics, recomputed here",
+    "llm": "frozen supplied training predictions joined by query_id",
+    "always_relevant": "constant relevant label; no score"
+  },
+  "blind_test": "loaded only after final all-training inner development selection and threshold freeze; no test LLM file is read",
+  "assumptions": "98% relevant recall and 99% Medical recall are illustrative development targets, not assignment requirements or safety guarantees",
+  "source_data": {
+    "relative_data_dir": "C:\\Aditya\\Prep\\noora\\intent-classification-assignment\\intent-classification-assignment",
+    "source_fingerprint": "a84676b586107bb8baf621a013f2e9ce1f5fc0e5762d5b30594772ba6a03ea43",
+    "test_metadata_fingerprint": "5f47022efe247427d0f49eb7fde9b927a376243ebbd2a4e8ed55811c92482f11",
+    "imported_lr_output_fingerprint": "0aa1fb8e5ecdcb1c1ce597244a4867e9b7f006b2c07f6ff11f7ea46c8714d3f7"
+  },
+  "config_fingerprint": "996280e169d6a11847d8f6721d1cb8a801f6b385abef67bc18960fea1bf2999b",
+  "cache_fingerprint": "85a7797addb617c5b85a7ffa40e8d888911a07733ba945e0b96ac723ab2ce5b9"
+}

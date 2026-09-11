@@ -1,0 +1,35 @@
+{
+  "actual_grid.csv": {
+    "purpose": "The complete 54-candidate ABC MLP grid frozen before outer evaluation."
+  },
+  "candidate_results.csv": {
+    "purpose": "All 54 candidates per outer training scope and final all-training scope with three inner AP values."
+  },
+  "fold_choices.csv": {
+    "purpose": "Outer-fold choices, calibration Brier scores, thresholds, and exclusion checks."
+  },
+  "splits.csv": {
+    "purpose": "Exact Version 2 grouped outer/inner split table plus final_inner rows."
+  },
+  "outer_predictions.csv": {
+    "purpose": "Exactly one held-out prediction row per labeled training ID, with imported LR/RF/LLM columns joined by exact ID."
+  },
+  "metrics.csv": {
+    "purpose": "MLP outer aggregate/per-fold metrics plus exact-ID imported predecessor and LLM comparisons; LLM score metrics are null."
+  },
+  "comparative_metrics.csv": {
+    "purpose": "Version 1, Version 2, and Version 3 development metrics with source_version."
+  },
+  "threshold_sweep.csv": {
+    "purpose": "Final all-training inner-development threshold sweep only."
+  },
+  "test_predictions.csv": {
+    "purpose": "Exact 904-row source-order predictions produced only after all choices are frozen."
+  },
+  "final_model.joblib": {
+    "purpose": "Final selected sklearn raw or sigmoid model, scaler, recipe, and validation metadata."
+  },
+  "summary.json": {
+    "purpose": "Notebook-ready counts, selections, actual metrics, checks, paths, and limitations."
+  }
+}

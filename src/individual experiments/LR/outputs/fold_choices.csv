@@ -1,0 +1,6 @@
+outer_fold,outer_train_rows,outer_test_rows,selected_embedding,selected_C,selected_class_weight,selected_mean_inner_average_precision,brier_raw,brier_sigmoid,probability_method,threshold_default_0_5,threshold_balanced_macro_f1,threshold_recall_first,recall_first_feasible,recall_first_fallback_used,inner_probability_coverage,calibration_excludes_inner_heldout,outer_holdout_excluded_selection
+0,722,181,b,10.0,None,0.964353363851498,0.08919525496125812,0.09006266769818189,raw,0.5,0.5309690237045288,0.17525888979434967,True,False,True,True,True
+1,722,181,b,10.0,balanced,0.9674153043372042,0.09162800698960685,0.09047435467610832,sigmoid,0.5,0.4240620209829036,0.19029269311087393,True,False,True,True,True
+2,723,180,b,10.0,balanced,0.9624565352204825,0.08961885433375806,0.08825476348931582,sigmoid,0.5,0.5853441191887626,0.17981243659258395,True,False,True,True,True
+3,723,180,c,10.0,balanced,0.9635443655494034,0.09349468650235743,0.09251726798499614,sigmoid,0.5,0.5312941176820732,0.1589207622098857,True,False,True,True,True
+4,722,181,b,10.0,None,0.9625551040317336,0.09084852469123972,0.09055683345925575,sigmoid,0.5,0.4209588787991171,0.19572169607681125,True,False,True,True,True

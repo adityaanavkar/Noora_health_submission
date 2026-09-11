@@ -1,0 +1,1193 @@
+
+<style>
+
+/* ============================================================
+   DOCUMENT
+   ============================================================ */
+
+.exec-paper {
+    max-width: 980px;
+    margin: 28px auto;
+    padding: 58px 72px 70px 72px;
+
+    background: #ffffff !important;
+    color: #202020 !important;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+    line-height: 1.68;
+
+    box-sizing: border-box;
+}
+
+
+/* Force VS Code dark mode not to override us */
+
+.exec-paper,
+.exec-paper p,
+.exec-paper div,
+.exec-paper span,
+.exec-paper td,
+.exec-paper li {
+    color: #202020 !important;
+}
+
+
+/* ============================================================
+   TOP RULE
+   ============================================================ */
+
+.top-rule {
+    height: 5px;
+    width: 100%;
+    background: #9f1239;
+    margin-bottom: 42px;
+}
+
+
+/* ============================================================
+   TITLE AREA
+   ============================================================ */
+
+.document-kicker {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.7px;
+    color: #777777 !important;
+    margin-bottom: 12px;
+}
+
+.exec-paper h1 {
+    font-family: Georgia, "Times New Roman", serif;
+
+    font-size: 36px;
+    font-weight: 400;
+
+    line-height: 1.15;
+
+    color: #9f1239 !important;
+
+    margin: 0 0 12px 0;
+}
+
+.author {
+    font-size: 17px;
+    color: #5f5f5f !important;
+
+    margin-bottom: 38px;
+}
+
+
+/* ============================================================
+   EXECUTIVE ABSTRACT
+   ============================================================ */
+
+.abstract {
+    border-top: 1px solid #b9b9b9;
+    border-bottom: 1px solid #b9b9b9;
+
+    padding: 18px 0 20px 0;
+    margin-bottom: 42px;
+}
+
+.abstract-label {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 11px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+
+    color: #9f1239 !important;
+
+    margin-bottom: 7px;
+}
+
+.abstract p {
+    margin: 0;
+
+    font-size: 15px;
+    line-height: 1.65;
+}
+
+
+/* ============================================================
+   SECTIONS
+   ============================================================ */
+
+.section-title {
+    display: flex;
+    align-items: baseline;
+
+    margin-top: 42px;
+    margin-bottom: 16px;
+}
+
+.section-number {
+    font-family: Georgia, "Times New Roman", serif;
+
+    font-size: 30px;
+    font-weight: 400;
+
+    color: #9f1239 !important;
+
+    margin-right: 9px;
+}
+
+.section-heading {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 19px;
+    font-weight: 700;
+
+    color: #111111 !important;
+}
+
+.subheading {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 13px;
+    font-weight: 700;
+
+    color: #222222 !important;
+
+    margin-top: 22px;
+    margin-bottom: 6px;
+}
+
+.exec-paper p {
+    margin-top: 0;
+    margin-bottom: 14px;
+}
+
+
+/* ============================================================
+   METRIC STRIP — NO CARDS
+   ============================================================ */
+
+.metric-strip {
+    width: 100%;
+
+    border-top: 1px solid #a8a8a8;
+    border-bottom: 1px solid #a8a8a8;
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    margin: 26px 0 40px 0;
+}
+
+.metric {
+    padding: 16px 17px 14px 17px;
+
+    border-right: 1px solid #d6d6d6;
+}
+
+.metric:last-child {
+    border-right: none;
+}
+
+.metric-value {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 24px;
+    font-weight: 700;
+
+    color: #111111 !important;
+
+    margin-bottom: 3px;
+}
+
+.metric-label {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 10px;
+    line-height: 1.35;
+
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+
+    color: #777777 !important;
+}
+
+
+/* ============================================================
+   METHOD FLOW
+   ============================================================ */
+
+.method-flow {
+    margin: 22px 0 25px 0;
+
+    padding: 14px 0;
+
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+
+    text-align: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 12px;
+    color: #3e3e3e !important;
+}
+
+.arrow {
+    color: #9f1239 !important;
+    padding: 0 8px;
+    font-weight: 700;
+}
+
+
+/* ============================================================
+   TWO COLUMN METHOD BLOCK
+   ============================================================ */
+
+.method-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    gap: 40px;
+
+    margin-top: 24px;
+}
+
+.method-block {
+    border-top: 2px solid #222222;
+
+    padding-top: 10px;
+}
+
+.method-block-title {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 13px;
+    font-weight: 700;
+
+    margin-bottom: 7px;
+
+    color: #111111 !important;
+}
+
+
+/* ============================================================
+   TABLE — JOURNAL STYLE
+   ============================================================ */
+
+.table-caption {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 11px;
+
+    color: #555555 !important;
+
+    margin-bottom: 7px;
+}
+
+.table-caption strong {
+    color: #111111 !important;
+}
+
+.exec-table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-top: 7px;
+    margin-bottom: 9px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 11px;
+
+    background: #ffffff !important;
+}
+
+.exec-table thead {
+    border-top: 1.5px solid #222222;
+    border-bottom: 1px solid #555555;
+}
+
+.exec-table tbody {
+    border-bottom: 1.5px solid #222222;
+}
+
+.exec-table th {
+    color: #111111 !important;
+
+    background: #ffffff !important;
+
+    padding: 9px 7px;
+
+    font-weight: 700;
+    text-align: right;
+
+    vertical-align: bottom;
+}
+
+.exec-table th:first-child {
+    text-align: left;
+}
+
+.exec-table td {
+    color: #222222 !important;
+
+    background: #ffffff !important;
+
+    padding: 9px 7px;
+
+    border-bottom: 1px solid #e5e5e5;
+
+    text-align: right;
+}
+
+.exec-table td:first-child {
+    text-align: left;
+}
+
+.exec-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.recall-highlight td {
+    font-weight: 700;
+}
+
+.recall-highlight td:first-child {
+    color: #9f1239 !important;
+}
+
+.table-note {
+    font-size: 11px;
+    color: #666666 !important;
+    line-height: 1.45;
+    margin-bottom: 28px;
+}
+
+
+/* ============================================================
+   KEY FINDING
+   ============================================================ */
+
+.key-finding {
+    margin: 27px 0;
+
+    padding: 16px 0 16px 22px;
+
+    border-left: 3px solid #9f1239;
+}
+
+.key-finding-title {
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 11px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    color: #9f1239 !important;
+
+    margin-bottom: 5px;
+}
+
+.key-finding p {
+    margin: 0;
+
+    font-size: 15px;
+}
+
+
+/* ============================================================
+   RECOMMENDATION
+   ============================================================ */
+
+.recommendation {
+    margin-top: 23px;
+
+    padding-top: 15px;
+
+    border-top: 2px solid #222222;
+}
+
+.recommendation-lead {
+    font-size: 17px;
+    line-height: 1.55;
+
+    margin-bottom: 12px;
+}
+
+
+/* ============================================================
+   LIMITATION / FOOTNOTE
+   ============================================================ */
+
+.limitation {
+    margin-top: 26px;
+
+    padding-top: 12px;
+
+    border-top: 1px solid #cccccc;
+
+    font-size: 12px;
+    color: #555555 !important;
+}
+
+.footer {
+    margin-top: 45px;
+
+    padding-top: 10px;
+
+    border-top: 1px solid #cccccc;
+
+    display: flex;
+    justify-content: space-between;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 9px;
+
+    color: #888888 !important;
+
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+}
+
+
+/* ============================================================
+   PRINT
+   ============================================================ */
+
+@media print {
+
+    body {
+        background: white !important;
+    }
+
+    .exec-paper {
+        max-width: none;
+        margin: 0;
+        padding: 30px 45px;
+
+        box-shadow: none;
+    }
+
+}
+
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+
+@media (max-width: 800px) {
+
+    .exec-paper {
+        padding: 35px 28px;
+    }
+
+    .metric-strip {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .method-columns {
+        grid-template-columns: 1fr;
+    }
+}
+
+</style>
+
+
+<div class="exec-paper">
+
+<div class="top-rule"></div>
+
+
+<div class="document-kicker">
+    Machine Learning Experiment Note
+</div>
+
+<h1>
+    Intent Classification Router
+</h1>
+
+<div class="author">
+    Aditya Anavkar
+</div>
+
+
+<!-- ========================================================
+     ABSTRACT
+     ======================================================== -->
+
+<div class="abstract">
+
+    <div class="abstract-label">
+        Executive Summary
+    </div>
+
+    <p>
+
+        We evaluated an embedding-based logistic-regression
+        router for determining whether incoming queries should
+        be referred to the nursing team.
+
+        Using nested cross-validation, the selected models
+        achieved an outer out-of-fold
+
+        <strong>ROC AUC of 0.937</strong>
+
+        and
+
+        <strong>Average Precision of 0.958</strong>.
+
+        The model therefore demonstrates strong discriminatory
+        performance. The principal deployment decision is not
+        model selection itself, but the choice of operating
+        threshold and the associated trade-off between
+        missed relevant queries and nursing workload.
+
+    </p>
+
+</div>
+
+
+
+<!-- ========================================================
+     METRICS
+     ======================================================== -->
+
+<div class="metric-strip">
+
+    <div class="metric">
+        <div class="metric-value">
+            903
+        </div>
+
+        <div class="metric-label">
+            Labeled development queries
+        </div>
+    </div>
+
+
+    <div class="metric">
+        <div class="metric-value">
+            0.937
+        </div>
+
+        <div class="metric-label">
+            Outer OOF ROC AUC
+        </div>
+    </div>
+
+
+    <div class="metric">
+        <div class="metric-value">
+            0.958
+        </div>
+
+        <div class="metric-label">
+            Outer OOF average precision
+        </div>
+    </div>
+
+
+    <div class="metric">
+        <div class="metric-value">
+            5
+        </div>
+
+        <div class="metric-label">
+            Outer evaluation folds
+        </div>
+    </div>
+
+</div>
+
+
+
+<!-- ========================================================
+     SECTION I
+     ======================================================== -->
+
+<div class="section-title">
+
+    <div class="section-number">
+        I
+    </div>
+
+    <div class="section-heading">
+        Experimental Design
+    </div>
+
+</div>
+
+
+<p>
+
+    The development dataset consists of
+
+    <strong>557 relevant</strong>
+
+    and
+
+    <strong>346 irrelevant</strong>
+
+    labeled queries.
+
+    Model selection and model evaluation were deliberately
+    separated using nested cross-validation.
+
+</p>
+
+
+<div class="method-flow">
+
+    903 labeled queries
+
+    <span class="arrow">→</span>
+
+    5 outer folds
+
+    <span class="arrow">→</span>
+
+    3-fold inner selection
+
+    <span class="arrow">→</span>
+
+    freeze decision
+
+    <span class="arrow">→</span>
+
+    evaluate on unseen outer fold
+
+</div>
+
+
+<div class="method-columns">
+
+    <div class="method-block">
+
+        <div class="method-block-title">
+            Inner loop — model selection
+        </div>
+
+        <p>
+
+            The inner development procedure compared
+            embedding representation, logistic-regression
+            regularization strength and class weighting.
+
+            The strongest aggregate candidate used
+
+            <strong>embedding b</strong>,
+
+            <strong>C = 10</strong>
+
+            and
+
+            <strong>class weight = balanced</strong>,
+
+            with mean inner Average Precision of
+
+            <strong>0.963</strong>.
+
+        </p>
+
+    </div>
+
+
+    <div class="method-block">
+
+        <div class="method-block-title">
+            Outer loop — generalization check
+        </div>
+
+        <p>
+
+            Each outer fold remained untouched during model
+            and threshold selection for that round.
+
+            Predictions from the five held-out folds were
+            subsequently pooled to obtain the outer
+            out-of-fold evaluation.
+
+        </p>
+
+    </div>
+
+</div>
+
+
+
+<!-- ========================================================
+     SECTION II
+     ======================================================== -->
+
+<div class="section-title">
+
+    <div class="section-number">
+        II
+    </div>
+
+    <div class="section-heading">
+        Model Performance
+    </div>
+
+</div>
+
+
+<p>
+
+    The selected routing pipeline achieved an outer OOF
+
+    <strong>ROC AUC of 0.937</strong>
+
+    and
+
+    <strong>Average Precision of 0.958</strong>.
+
+    Both metrics indicate strong ranking performance,
+    meaning relevant queries generally receive substantially
+    higher model scores than irrelevant queries.
+
+</p>
+
+
+<div class="key-finding">
+
+    <div class="key-finding-title">
+        Interpretation
+    </div>
+
+    <p>
+
+        Ranking performance is strong enough that the
+        principal operational question becomes threshold
+        selection: how many additional nursing reviews are
+        acceptable in exchange for reducing missed relevant
+        and medical queries?
+
+    </p>
+
+</div>
+
+
+
+<!-- ========================================================
+     SECTION III
+     ======================================================== -->
+
+<div class="section-title">
+
+    <div class="section-number">
+        III
+    </div>
+
+    <div class="section-heading">
+        Operating Policy Comparison
+    </div>
+
+</div>
+
+
+<div class="table-caption">
+
+    <strong>Table 1.</strong>
+    Held-out outer-fold performance of the three candidate
+    referral policies.
+
+</div>
+
+
+<table class="exec-table">
+
+<thead>
+
+<tr>
+    <th>Policy</th>
+    <th>Relevant<br>missed</th>
+    <th>Unnecessary<br>referrals</th>
+    <th>Total<br>workload</th>
+    <th>Precision</th>
+    <th>Relevant<br>recall</th>
+    <th>Medical<br>missed</th>
+    <th>Medical<br>recall</th>
+    <th>Macro-F1</th>
+</tr>
+
+</thead>
+
+
+<tbody>
+
+<tr>
+
+    <td>
+        Default 0.50
+    </td>
+
+    <td>
+        46
+    </td>
+
+    <td>
+        69
+    </td>
+
+    <td>
+        580
+    </td>
+
+    <td>
+        88.1%
+    </td>
+
+    <td>
+        91.7%
+    </td>
+
+    <td>
+        14
+        /
+        334
+    </td>
+
+    <td>
+        95.8%
+    </td>
+
+    <td>
+        86.3%
+    </td>
+
+</tr>
+
+
+<tr>
+
+    <td>
+        Balanced macro-F1
+    </td>
+
+    <td>
+        54
+    </td>
+
+    <td>
+        67
+    </td>
+
+    <td>
+        570
+    </td>
+
+    <td>
+        88.2%
+    </td>
+
+    <td>
+        90.3%
+    </td>
+
+    <td>
+        18
+        /
+        334
+    </td>
+
+    <td>
+        94.6%
+    </td>
+
+    <td>
+        85.7%
+    </td>
+
+</tr>
+
+
+<tr class="recall-highlight">
+
+    <td>
+        Recall-first
+    </td>
+
+    <td>
+        11
+    </td>
+
+    <td>
+        134
+    </td>
+
+    <td>
+        680
+    </td>
+
+    <td>
+        80.3%
+    </td>
+
+    <td>
+        98.0%
+    </td>
+
+    <td>
+        1
+        /
+        334
+    </td>
+
+    <td>
+        99.7%
+    </td>
+
+    <td>
+        81.4%
+    </td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+
+<div class="table-note">
+
+    Workload represents all queries referred to the nursing
+    team. Counts are obtained exclusively from held-out outer
+    fold decisions.
+
+</div>
+
+
+
+<!-- ========================================================
+     SECTION IV
+     ======================================================== -->
+
+<div class="section-title">
+
+    <div class="section-number">
+        IV
+    </div>
+
+    <div class="section-heading">
+        Operational Trade-off
+    </div>
+
+</div>
+
+
+<p>
+
+    Relative to the default operating point, the
+    recall-first policy reduces relevant false negatives from
+
+    <strong>
+        46
+    </strong>
+
+    to
+
+    <strong>
+        11
+    </strong>.
+
+    Medical false negatives decline from
+
+    <strong>
+        14
+    </strong>
+
+    to
+
+    <strong>
+        1
+    </strong>
+
+    out of
+
+    <strong>
+        334
+    </strong>
+
+    medical examples.
+
+</p>
+
+
+<p>
+
+    This safety gain requires additional review capacity.
+    Nursing workload increases from
+
+    <strong>
+        580
+    </strong>
+
+    to
+
+    <strong>
+        680
+    </strong>
+
+    referrals,
+
+    an increase of
+
+    <strong>
+        100 queries
+        (17.2%)
+    </strong>.
+
+</p>
+
+
+<div class="key-finding">
+
+    <div class="key-finding-title">
+        Principal result
+    </div>
+
+    <p>
+
+        The recall-first operating point captures
+
+        <strong>
+            99.7%
+        </strong>
+
+        of medical examples while missing only
+
+        <strong>
+            1
+        </strong>
+
+        of
+
+        <strong>
+            334
+        </strong>.
+
+        The corresponding cost is increased referral volume.
+
+    </p>
+
+</div>
+
+
+
+<!-- ========================================================
+     SECTION V
+     ======================================================== -->
+
+<div class="section-title">
+
+    <div class="section-number">
+        V
+    </div>
+
+    <div class="section-heading">
+        Recommendation
+    </div>
+
+</div>
+
+
+<div class="recommendation">
+
+    <p class="recommendation-lead">
+
+        <strong>
+
+            Where the cost of missing a medically relevant
+            query materially exceeds the cost of an additional
+            nursing review, the recall-first operating policy
+            is the preferred candidate for further validation.
+
+        </strong>
+
+    </p>
+
+
+    <p>
+
+        The final deployment decision should nevertheless be
+        conditioned on real nursing capacity and the operational
+        cost of the additional
+
+        <strong>
+            100
+        </strong>
+
+        referrals observed in this development sample.
+
+        If referral capacity is the primary constraint, the
+        default 0.50 policy provides the stronger general-purpose
+        compromise.
+
+    </p>
+
+</div>
+
+
+
+<!-- ========================================================
+     LIMITATIONS
+     ======================================================== -->
+
+<div class="section-title">
+
+    <div class="section-number">
+        VI
+    </div>
+
+    <div class="section-heading">
+        Limitations
+    </div>
+
+</div>
+
+
+<p>
+
+    All reported metrics are development estimates derived
+    from labeled outer out-of-fold predictions.
+
+    The supplied test set has no labels; therefore predictions
+    may be generated for submission, but test accuracy,
+    precision, recall, ROC AUC or other label-dependent
+    performance metrics cannot be calculated.
+
+</p>
+
+
+<div class="limitation">
+
+    <strong>Evaluation protocol.</strong>
+    Five outer folds with three-fold inner model selection.
+    Model configuration and operating thresholds were selected
+    without access to the corresponding held-out outer-fold
+    labels.
+
+</div>
+
+
+
+<div class="footer">
+
+    <div>
+        Intent Classification Experiment
+    </div>
+
+    <div>
+        Aditya Anavkar
+    </div>
+
+</div>
+
+
+</div>

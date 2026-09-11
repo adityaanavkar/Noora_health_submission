@@ -1,0 +1,11 @@
+{
+  "source_fingerprints_match": true,
+  "protocol_match": true,
+  "id_order_match": true,
+  "shared_outer_fold_signature_match": true,
+  "shared_inner_split_signature_match": true,
+  "duplicate_group_signature_match": true,
+  "source_metadata_match": true,
+  "saved_metrics_recomputed_match": true,
+  "lr_output_fingerprint": "0aa1fb8e5ecdcb1c1ce597244a4867e9b7f006b2c07f6ff11f7ea46c8714d3f7"
+}

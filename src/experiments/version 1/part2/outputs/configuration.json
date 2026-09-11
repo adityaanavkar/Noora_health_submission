@@ -1,0 +1,92 @@
+{
+  "implementation_version": "lr-part2-nested-v1",
+  "model_family": "logistic_regression",
+  "embeddings": {
+    "a": {
+      "dimensions": 384,
+      "inputs": "raw normalized vectors"
+    },
+    "b": {
+      "dimensions": 768,
+      "inputs": "raw normalized vectors"
+    },
+    "c": {
+      "dimensions": 1536,
+      "inputs": "raw normalized vectors"
+    }
+  },
+  "duplicate_groups": "connected components of exact row matches in the union of training embeddings A/B/C",
+  "outer": {
+    "splitter": "StratifiedGroupKFold",
+    "n_splits": 5,
+    "shuffle": true,
+    "random_state": 42,
+    "stratification": "binary label"
+  },
+  "inner": {
+    "splitter": "StratifiedGroupKFold",
+    "n_splits": 3,
+    "shuffle": true,
+    "random_state": 43,
+    "scope": "each outer training partition"
+  },
+  "search": {
+    "penalty": "l2",
+    "solver": "lbfgs",
+    "C": [
+      0.01,
+      0.1,
+      1.0,
+      10.0,
+      100.0
+    ],
+    "class_weight": [
+      null,
+      "balanced"
+    ],
+    "max_iter": 3000,
+    "selection_score": "mean inner average_precision",
+    "tie_break": [
+      "abs(log(C)) closest to 0",
+      "embedding name ascending",
+      "class_weight None before balanced"
+    ]
+  },
+  "calibration": {
+    "methods": [
+      "raw",
+      "sigmoid"
+    ],
+    "method": "sigmoid",
+    "cv": "explicit StratifiedGroupKFold 3-way splits within each inner-training partition",
+    "ensemble": false,
+    "selection_score": "lower pooled inner-heldout Brier score; raw on exact tie",
+    "exclusion": "each inner-heldout row is excluded from both base-model fitting and calibration fitting"
+  },
+  "thresholds": {
+    "default": 0.5,
+    "balanced_macro_f1": "maximum macro-F1",
+    "recall_first": {
+      "minimum_relevant_recall": 0.98,
+      "minimum_medical_recall": 0.99,
+      "objective": "minimum false positives among feasible thresholds",
+      "assumption": true
+    },
+    "candidate_values": "0, 1, 0.5, and unique chosen inner-heldout probabilities",
+    "tie_break": "higher relevant recall, higher precision, then higher threshold where applicable"
+  },
+  "baselines": {
+    "fixed_logistic_regression": "each A/B/C, raw vectors, C=1, class_weight=None, max_iter=3000, threshold=0.5",
+    "llm": "frozen supplied training predictions joined by query_id",
+    "always_relevant": "constant relevant label; no score"
+  },
+  "blind_test": "loaded only after final all-training inner development selection and threshold freeze; no test labels are available",
+  "assumptions": "98% relevant recall and 99% Medical recall are illustrative development targets, not assignment requirements or safety guarantees",
+  "source_data": {
+    "relative_data_dir": "intent-classification-assignment\\intent-classification-assignment",
+    "source_fingerprint": "a84676b586107bb8baf621a013f2e9ce1f5fc0e5762d5b30594772ba6a03ea43",
+    "test_metadata_fingerprint": "5f47022efe247427d0f49eb7fde9b927a376243ebbd2a4e8ed55811c92482f11"
+  },
+  "config_fingerprint": "5939bec9426086fe9cf58339dbe39c80b7425142ef71c8f7ce3d58fb69b0aa3c",
+  "cache_fingerprint": "daada54f1ac81665bfe4ebb113a37ed838f0b4e7639d2e37851c53d6bf2528d6"
+}
